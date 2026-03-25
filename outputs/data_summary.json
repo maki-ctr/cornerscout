@@ -1,0 +1,230 @@
+{
+  "exported_at": "2026-03-25 09:51:06.522762",
+  "leagues_built": [
+    "Premier League",
+    "La Liga",
+    "Bundesliga",
+    "Serie A",
+    "Ligue 1",
+    "Eredivisie",
+    "Primeira Liga",
+    "S\u00fcper Lig",
+    "Belgian Pro League",
+    "Scottish Prem",
+    "Championship",
+    "2. Bundesliga"
+  ],
+  "total_fixtures": 17007,
+  "per_league": {
+    "Premier League": {
+      "fixtures": 1900,
+      "seasons": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "with_odds": 0
+    },
+    "La Liga": {
+      "fixtures": 1520,
+      "seasons": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "with_odds": 0
+    },
+    "Bundesliga": {
+      "fixtures": 1232,
+      "seasons": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "with_odds": 0
+    },
+    "Serie A": {
+      "fixtures": 1521,
+      "seasons": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "with_odds": 78
+    },
+    "Ligue 1": {
+      "fixtures": 1378,
+      "seasons": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "with_odds": 201
+    },
+    "Eredivisie": {
+      "fixtures": 1290,
+      "seasons": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "with_odds": 230
+    },
+    "Primeira Liga": {
+      "fixtures": 1232,
+      "seasons": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "with_odds": 254
+    },
+    "S\u00fcper Lig": {
+      "fixtures": 1443,
+      "seasons": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "with_odds": 204
+    },
+    "Belgian Pro League": {
+      "fixtures": 1291,
+      "seasons": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "with_odds": 181
+    },
+    "Scottish Prem": {
+      "fixtures": 936,
+      "seasons": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "with_odds": 142
+    },
+    "Championship": {
+      "fixtures": 2228,
+      "seasons": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "with_odds": 392
+    },
+    "2. Bundesliga": {
+      "fixtures": 1036,
+      "seasons": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "with_odds": 142
+    }
+  },
+  "league_id": 79,
+  "league": "2. Bundesliga",
+  "total_fixtures_last": 1036,
+  "seasons": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "per_season": {
+    "2021": {
+      "fixtures": 308,
+      "with_home_odds": 293,
+      "with_u25_odds": 20,
+      "outcome_rates": {
+        "under25": 40.9,
+        "over25": 59.1,
+        "home_win": 38.6,
+        "draw": 28.2
+      }
+    },
+    "2022": {
+      "fixtures": 308,
+      "with_home_odds": 299,
+      "with_u25_odds": 41,
+      "outcome_rates": {
+        "under25": 41.9,
+        "over25": 58.1,
+        "home_win": 46.4,
+        "draw": 23.7
+      }
+    },
+    "2023": {
+      "fixtures": 308,
+      "with_home_odds": 296,
+      "with_u25_odds": 46,
+      "outcome_rates": {
+        "under25": 39.0,
+        "over25": 61.0,
+        "home_win": 45.5,
+        "draw": 23.4
+      }
+    },
+    "2024": {
+      "fixtures": 112,
+      "with_home_odds": 103,
+      "with_u25_odds": 35,
+      "outcome_rates": {
+        "under25": 39.3,
+        "over25": 60.7,
+        "home_win": 37.5,
+        "draw": 30.4
+      }
+    }
+  },
+  "feature_coverage": {
+    "h_form_pts": 98.4,
+    "h_gs_avg": 98.4,
+    "h_gc_avg": 98.4,
+    "h_sot_avg": 98.4,
+    "h_corners_avg": 98.4,
+    "h_yc_avg": 98.4,
+    "h_fouls_avg": 98.4,
+    "h_cs_pct": 98.4,
+    "h_scored_pct": 98.4,
+    "h_xgp_avg": 98.4,
+    "h_home_form_pts": 98.4,
+    "h_home_gs_avg": 98.4,
+    "h_home_gc_avg": 98.4,
+    "a_form_pts": 98.7,
+    "a_gs_avg": 98.7,
+    "a_gc_avg": 98.7,
+    "a_sot_avg": 98.7,
+    "a_corners_avg": 98.7,
+    "a_yc_avg": 98.7,
+    "a_fouls_avg": 98.7,
+    "a_cs_pct": 98.7,
+    "a_scored_pct": 98.7,
+    "a_xgp_avg": 98.7,
+    "a_away_form_pts": 98.7,
+    "a_away_gs_avg": 98.7,
+    "a_away_gc_avg": 98.7,
+    "goal_ctx": 98.0,
+    "corner_ctx": 98.0,
+    "yc_ctx": 98.0,
+    "rest_h": 100.0,
+    "rest_a": 100.0,
+    "rest_diff": 100.0
+  }
+}
