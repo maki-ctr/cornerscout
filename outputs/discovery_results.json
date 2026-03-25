@@ -1,0 +1,131 @@
+{
+  "exported_at": "2026-03-25T09:53:25.746703",
+  "league": "2. Bundesliga",
+  "league_id": 79,
+  "market": "under25",
+  "train_seasons": [
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "test_season": 2024,
+  "total_train_fixtures": 924,
+  "total_test_fixtures": 112,
+  "baseline": {
+    "test_roi": -26.52,
+    "test_bets": 112,
+    "test_hr": 39.29
+  },
+  "strategies_found": 7,
+  "top_strategies": [
+    {
+      "rank": 1,
+      "filters": [
+        "A scored avg > 1.5",
+        "A conceded avg > 1.5"
+      ],
+      "test_roi": 10.58,
+      "train_roi": -15.43,
+      "overfit_gap": -26.01,
+      "test_bets": 26,
+      "test_hr": 57.69,
+      "test_pnl": 2.75,
+      "consistency": 75.0,
+      "real_odds_n": 12
+    },
+    {
+      "rank": 2,
+      "filters": [
+        "Corner ctx < 10.5",
+        "A scored avg > 1.5"
+      ],
+      "test_roi": 15.0,
+      "train_roi": -22.24,
+      "overfit_gap": -37.24,
+      "test_bets": 20,
+      "test_hr": 60.0,
+      "test_pnl": 3.0,
+      "consistency": 50.0,
+      "real_odds_n": 8
+    },
+    {
+      "rank": 3,
+      "filters": [
+        "A clean sheet < 20%"
+      ],
+      "test_roi": 7.62,
+      "train_roi": -27.16,
+      "overfit_gap": -34.78,
+      "test_bets": 21,
+      "test_hr": 57.14,
+      "test_pnl": 1.6,
+      "consistency": 50.0,
+      "real_odds_n": 8
+    },
+    {
+      "rank": 4,
+      "filters": [
+        "A clean sheet < 20%",
+        "Combined YC > 3.5"
+      ],
+      "test_roi": 7.62,
+      "train_roi": -26.84,
+      "overfit_gap": -34.46,
+      "test_bets": 21,
+      "test_hr": 57.14,
+      "test_pnl": 1.6,
+      "consistency": 50.0,
+      "real_odds_n": 8
+    },
+    {
+      "rank": 5,
+      "filters": [
+        "A conceded avg > 1.5",
+        "A clean sheet < 20%"
+      ],
+      "test_roi": 3.75,
+      "train_roi": -24.26,
+      "overfit_gap": -28.01,
+      "test_bets": 20,
+      "test_hr": 55.0,
+      "test_pnl": 0.75,
+      "consistency": 50.0,
+      "real_odds_n": 8
+    },
+    {
+      "rank": 6,
+      "filters": [
+        "Corner ctx < 10.5",
+        "H conceded avg > 1.5"
+      ],
+      "test_roi": 3.18,
+      "train_roi": -26.56,
+      "overfit_gap": -29.75,
+      "test_bets": 22,
+      "test_hr": 54.55,
+      "test_pnl": 0.7,
+      "consistency": 50.0,
+      "real_odds_n": 12
+    },
+    {
+      "rank": 7,
+      "filters": [
+        "Corner ctx < 10.5",
+        "A conceded avg > 1.5"
+      ],
+      "test_roi": 1.0,
+      "train_roi": -20.43,
+      "overfit_gap": -21.43,
+      "test_bets": 30,
+      "test_hr": 53.33,
+      "test_pnl": 0.3,
+      "consistency": 50.0,
+      "real_odds_n": 12
+    }
+  ],
+  "all_train_data_summary": {
+    "with_stats_pct": 0,
+    "with_odds_pct": 11.6
+  }
+}
