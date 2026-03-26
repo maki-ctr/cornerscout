@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-03-25T10:33:56.263958",
+  "exported_at": "2026-03-26T10:20:20.485335",
   "filters": [
     "A xG proxy < 0.9",
     "A away form \u2264 3pts"
@@ -12,13 +12,13 @@
     2023
   ],
   "combined": {
-    "total_test_bets": 193,
-    "total_test_wins": 112,
-    "combined_roi": 50.76,
-    "combined_hr": 58.03,
-    "combined_pnl": 97.97,
-    "leagues_positive": 11,
-    "leagues_total": 12
+    "total_test_bets": 221,
+    "total_test_wins": 127,
+    "combined_roi": 61.1,
+    "combined_hr": 57.47,
+    "combined_pnl": 135.03,
+    "leagues_positive": 12,
+    "leagues_total": 14
   },
   "per_league": [
     {
@@ -135,11 +135,31 @@
       "league": "2. Bundesliga",
       "train_bets": 18,
       "train_roi": 187.56,
-      "test_bets": 1,
-      "test_roi": 100.0,
-      "test_hr": 100.0,
-      "test_pnl": 1.0,
-      "consistency": 100.0
+      "test_bets": 13,
+      "test_roi": 171.69,
+      "test_hr": 69.2,
+      "test_pnl": 22.32,
+      "consistency": 71.4
+    },
+    {
+      "league": "Serie B",
+      "train_bets": 45,
+      "train_roi": -15.36,
+      "test_bets": 3,
+      "test_roi": -26.0,
+      "test_hr": 33.3,
+      "test_pnl": -0.78,
+      "consistency": 33.3
+    },
+    {
+      "league": "Ligue 2",
+      "train_bets": 60,
+      "train_roi": 61.42,
+      "test_bets": 13,
+      "test_roi": 127.08,
+      "test_hr": 46.2,
+      "test_pnl": 16.52,
+      "consistency": 50.0
     }
   ]
 }
