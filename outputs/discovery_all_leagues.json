@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-03-25T10:33:49.053741",
+  "exported_at": "2026-03-26T10:20:16.047064",
   "market": "home_win",
   "train_seasons": [
     2021,
@@ -8,21 +8,22 @@
   ],
   "test_season": 2024,
   "filter_frequency": {
-    "H corners avg > 6": 7,
-    "H home form \u2264 3pts": 7,
-    "A scored avg > 1.5": 6,
-    "A away form \u2264 3pts": 5,
+    "H home form \u2264 3pts": 9,
+    "H corners avg > 6": 8,
+    "H form pts \u2264 4": 7,
+    "A scored avg > 1.5": 7,
+    "A away form \u2264 3pts": 6,
     "A xG proxy < 0.9": 4,
-    "H clean sheet \u2265 40%": 4,
-    "H form pts \u2264 4": 4,
-    "A form pts \u2265 9": 4,
+    "Corner ctx < 9": 4,
     "A conceded avg > 1.5": 3,
     "H conceded avg > 1.5": 3,
+    "H scored avg < 1.2": 3,
+    "A form pts \u2265 9": 3,
+    "A conceded avg < 1.0": 3,
     "A form pts \u2264 4": 2,
     "H form pts \u2265 9": 2,
-    "H scored avg < 1.2": 2,
+    "H clean sheet \u2265 40%": 2,
     "A rested 2+ days more": 2,
-    "Corner ctx < 9": 2,
     "H xG proxy < 1.0": 2,
     "A scored avg < 1.0": 1,
     "Corner ctx > 11": 1,
@@ -33,8 +34,9 @@
     "Goals ctx < 1.8": 1,
     "Corner ctx < 10.5": 1,
     "A clean sheet \u2265 40%": 1,
-    "A conceded avg < 1.0": 1,
-    "Goals ctx < 1.5": 1
+    "Goals ctx < 1.5": 1,
+    "A away form \u2265 9pts": 1,
+    "H clean sheet < 20%": 1
   },
   "results": [
     {
@@ -797,69 +799,207 @@
     {
       "league": "2. Bundesliga",
       "league_id": 79,
-      "n_pos": 184,
-      "baseline": 67.84,
-      "best_roi": 400.0,
+      "n_pos": 366,
+      "baseline": 101.97,
+      "best_roi": 500.37,
       "top_strategies": [
         {
           "rank": 1,
           "filters": [
-            "A form pts \u2265 9",
-            "H clean sheet \u2265 40%"
+            "Corner ctx < 9",
+            "H form pts \u2264 4"
           ],
-          "test_roi": 400.0,
-          "train_roi": 102.69,
-          "test_bets": 12,
-          "hit_pct": 50.0,
-          "consistency": 100.0
+          "test_roi": 500.37,
+          "train_roi": 226.32,
+          "test_bets": 19,
+          "hit_pct": 68.4,
+          "consistency": 77.8
         },
         {
           "rank": 2,
           "filters": [
-            "H clean sheet \u2265 40%",
-            "H corners avg > 6"
+            "Corner ctx < 9",
+            "H scored avg < 1.2"
           ],
-          "test_roi": 241.85,
-          "train_roi": 115.27,
-          "test_bets": 13,
-          "hit_pct": 46.2,
-          "consistency": 75.0
+          "test_roi": 347.6,
+          "train_roi": 167.85,
+          "test_bets": 20,
+          "hit_pct": 60.0,
+          "consistency": 62.5
         },
         {
           "rank": 3,
           "filters": [
             "Goals ctx < 1.5",
-            "A form pts \u2265 9"
+            "H form pts \u2264 4"
           ],
-          "test_roi": 222.0,
-          "train_roi": 154.09,
+          "test_roi": 313.91,
+          "train_roi": 157.33,
+          "test_bets": 34,
+          "hit_pct": 52.9,
+          "consistency": 88.9
+        },
+        {
+          "rank": 4,
+          "filters": [
+            "H form pts \u2264 4",
+            "H xG proxy < 1.0"
+          ],
+          "test_roi": 315.92,
+          "train_roi": 136.1,
+          "test_bets": 13,
+          "hit_pct": 53.8,
+          "consistency": 57.1
+        },
+        {
+          "rank": 5,
+          "filters": [
+            "H scored avg < 1.2",
+            "H clean sheet < 20%"
+          ],
+          "test_roi": 313.08,
+          "train_roi": 187.7,
+          "test_bets": 13,
+          "hit_pct": 53.8,
+          "consistency": 50.0
+        }
+      ]
+    },
+    {
+      "league": "Serie B",
+      "league_id": 136,
+      "n_pos": 373,
+      "baseline": 114.02,
+      "best_roi": 438.46,
+      "top_strategies": [
+        {
+          "rank": 1,
+          "filters": [
+            "H form pts \u2264 4",
+            "A away form \u2265 9pts"
+          ],
+          "test_roi": 438.46,
+          "train_roi": 151.16,
+          "test_bets": 13,
+          "hit_pct": 53.8,
+          "consistency": 85.7
+        },
+        {
+          "rank": 2,
+          "filters": [
+            "A scored avg > 1.5",
+            "H home form \u2264 3pts"
+          ],
+          "test_roi": 436.29,
+          "train_roi": 200.25,
           "test_bets": 14,
-          "hit_pct": 42.9,
+          "hit_pct": 64.3,
+          "consistency": 57.1
+        },
+        {
+          "rank": 3,
+          "filters": [
+            "H clean sheet < 20%",
+            "H home form \u2264 3pts"
+          ],
+          "test_roi": 397.0,
+          "train_roi": 133.46,
+          "test_bets": 16,
+          "hit_pct": 68.8,
+          "consistency": 75.0
+        },
+        {
+          "rank": 4,
+          "filters": [
+            "A form pts \u2265 9",
+            "H home form \u2264 3pts"
+          ],
+          "test_roi": 400.0,
+          "train_roi": 157.16,
+          "test_bets": 14,
+          "hit_pct": 50.0,
+          "consistency": 66.7
+        },
+        {
+          "rank": 5,
+          "filters": [
+            "H scored avg < 1.2",
+            "A away form \u2265 9pts"
+          ],
+          "test_roi": 387.91,
+          "train_roi": 192.14,
+          "test_bets": 23,
+          "hit_pct": 52.2,
+          "consistency": 75.0
+        }
+      ]
+    },
+    {
+      "league": "Ligue 2",
+      "league_id": 62,
+      "n_pos": 384,
+      "baseline": 139.45,
+      "best_roi": 430.12,
+      "top_strategies": [
+        {
+          "rank": 1,
+          "filters": [
+            "A conceded avg < 1.0",
+            "H corners avg > 6"
+          ],
+          "test_roi": 430.12,
+          "train_roi": 246.97,
+          "test_bets": 17,
+          "hit_pct": 88.2,
+          "consistency": 100.0
+        },
+        {
+          "rank": 2,
+          "filters": [
+            "A form pts \u2265 9",
+            "H corners avg > 6"
+          ],
+          "test_roi": 415.07,
+          "train_roi": 338.52,
+          "test_bets": 15,
+          "hit_pct": 86.7,
+          "consistency": 88.9
+        },
+        {
+          "rank": 3,
+          "filters": [
+            "A conceded avg < 1.0",
+            "A away form \u2264 3pts"
+          ],
+          "test_roi": 362.77,
+          "train_roi": 95.71,
+          "test_bets": 13,
+          "hit_pct": 69.2,
           "consistency": 100.0
         },
         {
           "rank": 4,
           "filters": [
-            "H clean sheet \u2265 40%",
-            "A corners avg > 5.5"
+            "A conceded avg < 1.0",
+            "H form pts \u2264 4"
           ],
-          "test_roi": 218.94,
-          "train_roi": 65.94,
-          "test_bets": 17,
-          "hit_pct": 41.2,
-          "consistency": 100.0
+          "test_roi": 360.89,
+          "train_roi": 144.04,
+          "test_bets": 19,
+          "hit_pct": 57.9,
+          "consistency": 87.5
         },
         {
           "rank": 5,
           "filters": [
-            "Goals ctx < 1.5",
-            "A corners avg > 5.5"
+            "A clean sheet \u2265 40%",
+            "H corners avg > 6"
           ],
-          "test_roi": 215.33,
-          "train_roi": 130.13,
-          "test_bets": 15,
-          "hit_pct": 46.7,
-          "consistency": 100.0
+          "test_roi": 345.33,
+          "train_roi": 191.06,
+          "test_bets": 21,
+          "hit_pct": 76.2,
+          "consistency": 90.0
         }
       ]
     }
