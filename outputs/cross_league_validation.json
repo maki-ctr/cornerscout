@@ -1,61 +1,154 @@
 {
-  "exported_at": "2026-03-26T10:22:52.099058",
+  "exported_at": "2026-03-27T17:40:05.368556",
   "filters": [
     "A xG proxy < 0.9",
-    "A away form \u2264 3pts",
-    "H home form \u2264 3pts"
+    "A away form \u2264 3pts"
   ],
   "market": "home_win",
   "test_season": 2024,
   "train_seasons": [
+    2017,
+    2018,
+    2019,
+    2020,
     2021,
     2022,
     2023
   ],
   "combined": {
-    "total_test_bets": 31,
-    "total_test_wins": 12,
-    "combined_roi": 31.84,
-    "combined_hr": 38.71,
-    "combined_pnl": 9.87,
-    "leagues_positive": 5,
-    "leagues_total": 13
+    "total_test_bets": 227,
+    "total_test_wins": 132,
+    "combined_roi": 62.63,
+    "combined_hr": 58.15,
+    "combined_pnl": 142.17,
+    "leagues_positive": 13,
+    "leagues_total": 15
   },
   "per_league": [
     {
       "league": "Premier League",
-      "train_bets": 10,
-      "train_roi": -7.5,
-      "test_bets": 1,
-      "test_roi": -100.0,
-      "test_hr": 0.0,
-      "test_pnl": -1.0,
-      "consistency": 0.0
+      "train_bets": 119,
+      "train_roi": 108.85,
+      "test_bets": 15,
+      "test_roi": 68.8,
+      "test_hr": 80.0,
+      "test_pnl": 10.32,
+      "consistency": 87.5
     },
     {
       "league": "La Liga",
-      "train_bets": 20,
-      "train_roi": -16.75,
-      "test_bets": 5,
-      "test_roi": -26.0,
-      "test_hr": 40.0,
-      "test_pnl": -1.3,
-      "consistency": 33.3
+      "train_bets": 134,
+      "train_roi": 81.82,
+      "test_bets": 23,
+      "test_roi": 36.74,
+      "test_hr": 73.9,
+      "test_pnl": 8.45,
+      "consistency": 60.0
     },
     {
       "league": "Bundesliga",
-      "train_bets": 6,
-      "train_roi": -7.5,
-      "test_bets": 1,
+      "train_bets": 76,
+      "train_roi": 37.62,
+      "test_bets": 4,
       "test_roi": 85.0,
       "test_hr": 100.0,
-      "test_pnl": 0.85,
+      "test_pnl": 3.4,
       "consistency": 100.0
     },
     {
       "league": "Serie A",
-      "train_bets": 12,
-      "train_roi": -7.5,
+      "train_bets": 124,
+      "train_roi": 70.97,
+      "test_bets": 30,
+      "test_roi": 32.53,
+      "test_hr": 50.0,
+      "test_pnl": 9.76,
+      "consistency": 44.4
+    },
+    {
+      "league": "Ligue 1",
+      "train_bets": 91,
+      "train_roi": 67.75,
+      "test_bets": 13,
+      "test_roi": 31.54,
+      "test_hr": 61.5,
+      "test_pnl": 4.1,
+      "consistency": 83.3
+    },
+    {
+      "league": "Eredivisie",
+      "train_bets": 77,
+      "train_roi": 82.45,
+      "test_bets": 11,
+      "test_roi": 85.82,
+      "test_hr": 54.5,
+      "test_pnl": 9.44,
+      "consistency": 71.4
+    },
+    {
+      "league": "Primeira Liga",
+      "train_bets": 108,
+      "train_roi": 79.85,
+      "test_bets": 26,
+      "test_roi": 46.0,
+      "test_hr": 38.5,
+      "test_pnl": 11.96,
+      "consistency": 44.4
+    },
+    {
+      "league": "S\u00fcper Lig",
+      "train_bets": 93,
+      "train_roi": 48.02,
+      "test_bets": 10,
+      "test_roi": 239.6,
+      "test_hr": 80.0,
+      "test_pnl": 23.96,
+      "consistency": 80.0
+    },
+    {
+      "league": "Belgian Pro League",
+      "train_bets": 243,
+      "train_roi": 65.07,
+      "test_bets": 19,
+      "test_roi": 66.74,
+      "test_hr": 52.6,
+      "test_pnl": 12.68,
+      "consistency": 55.6
+    },
+    {
+      "league": "Scottish Prem",
+      "train_bets": 268,
+      "train_roi": 62.25,
+      "test_bets": 15,
+      "test_roi": -5.6,
+      "test_hr": 40.0,
+      "test_pnl": -0.84,
+      "consistency": 40.0
+    },
+    {
+      "league": "Championship",
+      "train_bets": 204,
+      "train_roi": 60.44,
+      "test_bets": 25,
+      "test_roi": 31.44,
+      "test_hr": 60.0,
+      "test_pnl": 7.86,
+      "consistency": 77.8
+    },
+    {
+      "league": "2. Bundesliga",
+      "train_bets": 40,
+      "train_roi": 115.45,
+      "test_bets": 13,
+      "test_roi": 171.69,
+      "test_hr": 69.2,
+      "test_pnl": 22.32,
+      "consistency": 71.4
+    },
+    {
+      "league": "Serie B",
+      "train_bets": 101,
+      "train_roi": 39.11,
       "test_bets": 3,
       "test_roi": -26.0,
       "test_hr": 33.3,
@@ -63,94 +156,24 @@
       "consistency": 33.3
     },
     {
-      "league": "Ligue 1",
-      "train_bets": 12,
-      "train_roi": 55.5,
-      "test_bets": 1,
-      "test_roi": -100.0,
-      "test_hr": 0.0,
-      "test_pnl": -1.0,
-      "consistency": 0.0
-    },
-    {
-      "league": "Eredivisie",
-      "train_bets": 14,
-      "train_roi": 209.43,
-      "test_bets": 2,
-      "test_roi": -100.0,
-      "test_hr": 0.0,
-      "test_pnl": -2.0,
-      "consistency": 0.0
-    },
-    {
-      "league": "Primeira Liga",
-      "train_bets": 13,
-      "train_roi": 65.54,
-      "test_bets": 8,
-      "test_roi": 52.75,
-      "test_hr": 25.0,
-      "test_pnl": 4.22,
-      "consistency": 33.3
-    },
-    {
-      "league": "Belgian Pro League",
-      "train_bets": 9,
-      "train_roi": 146.89,
-      "test_bets": 2,
-      "test_roi": 500.0,
-      "test_hr": 100.0,
-      "test_pnl": 10.0,
-      "consistency": 100.0
-    },
-    {
-      "league": "Scottish Prem",
-      "train_bets": 18,
-      "train_roi": -34.78,
-      "test_bets": 1,
-      "test_roi": 122.0,
-      "test_hr": 100.0,
-      "test_pnl": 1.22,
-      "consistency": 100.0
-    },
-    {
-      "league": "Championship",
-      "train_bets": 24,
-      "train_roi": 104.33,
-      "test_bets": 3,
-      "test_roi": 122.0,
-      "test_hr": 100.0,
-      "test_pnl": 3.66,
-      "consistency": 100.0
-    },
-    {
-      "league": "2. Bundesliga",
-      "train_bets": 9,
-      "train_roi": 280.22,
-      "test_bets": 1,
-      "test_roi": -100.0,
-      "test_hr": 0.0,
-      "test_pnl": -1.0,
-      "consistency": 0.0
-    },
-    {
-      "league": "Serie B",
-      "train_bets": 10,
-      "train_roi": -29.2,
-      "test_bets": 1,
-      "test_roi": -100.0,
-      "test_hr": 0.0,
-      "test_pnl": -1.0,
-      "consistency": 0.0
-    },
-    {
       "league": "Ligue 2",
-      "train_bets": 18,
-      "train_roi": -26.0,
-      "test_bets": 2,
-      "test_roi": -100.0,
-      "test_hr": 0.0,
-      "test_pnl": -2.0,
-      "consistency": 0.0
+      "train_bets": 135,
+      "train_roi": 54.13,
+      "test_bets": 10,
+      "test_roi": 66.6,
+      "test_hr": 40.0,
+      "test_pnl": 6.66,
+      "consistency": 50.0
+    },
+    {
+      "league": "Russian PL",
+      "train_bets": 101,
+      "train_roi": 68.87,
+      "test_bets": 10,
+      "test_roi": 128.8,
+      "test_hr": 70.0,
+      "test_pnl": 12.88,
+      "consistency": 80.0
     }
   ]
 }
