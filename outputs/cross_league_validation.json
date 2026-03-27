@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-03-27T18:36:11.445990",
+  "exported_at": "2026-03-27T19:55:10.864970",
   "filters": [
     "A xG proxy < 0.9",
     "A away form \u2264 3pts"
@@ -18,9 +18,9 @@
   "combined": {
     "total_test_bets": 227,
     "total_test_wins": 132,
-    "combined_roi": 62.63,
+    "combined_roi": 69.18,
     "combined_hr": 58.15,
-    "combined_pnl": 142.17,
+    "combined_pnl": 157.04,
     "leagues_positive": 13,
     "leagues_total": 15
   },
@@ -38,27 +38,27 @@
     {
       "league": "La Liga",
       "train_bets": 134,
-      "train_roi": 81.82,
+      "train_roi": 95.14,
       "test_bets": 23,
-      "test_roi": 36.74,
+      "test_roi": 92.17,
       "test_hr": 73.9,
-      "test_pnl": 8.45,
-      "consistency": 60.0
+      "test_pnl": 21.2,
+      "consistency": 70.0
     },
     {
       "league": "Bundesliga",
       "train_bets": 76,
-      "train_roi": 37.62,
+      "train_roi": 84.87,
       "test_bets": 4,
-      "test_roi": 85.0,
+      "test_roi": 138.0,
       "test_hr": 100.0,
-      "test_pnl": 3.4,
+      "test_pnl": 5.52,
       "consistency": 100.0
     },
     {
       "league": "Serie A",
       "train_bets": 124,
-      "train_roi": 70.97,
+      "train_roi": 110.12,
       "test_bets": 30,
       "test_roi": 32.53,
       "test_hr": 50.0,
