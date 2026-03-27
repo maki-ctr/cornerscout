@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-03-27T19:54:52.229425",
+  "exported_at": "2026-03-27T20:02:16.786737",
   "market": "home_win",
   "train_seasons": [
     2017,
@@ -14,26 +14,25 @@
   "filter_frequency": {
     "H home form \u2264 3pts": 10,
     "H corners avg > 6": 9,
-    "H form pts \u2264 4": 9,
     "A scored avg > 1.5": 8,
+    "H form pts \u2264 4": 8,
     "H conceded avg > 1.5": 7,
     "H scored avg < 1.2": 6,
     "A away form \u2264 3pts": 5,
     "A form pts \u2265 9": 4,
     "Corner ctx < 9": 4,
     "H clean sheet \u2265 40%": 3,
+    "H clean sheet < 20%": 3,
     "H xG proxy < 1.0": 3,
     "A conceded avg > 1.5": 3,
     "A conceded avg < 1.0": 3,
-    "H clean sheet < 20%": 2,
+    "A away form \u2265 9pts": 3,
     "A rested 2+ days more": 2,
-    "A away form \u2265 9pts": 2,
     "A xG proxy < 0.9": 1,
     "H form pts \u2265 9": 1,
     "H home form \u2265 9pts": 1,
     "Corner ctx < 10.5": 1,
     "A clean sheet \u2265 40%": 1,
-    "Goals ctx < 1.5": 1,
     "H xG proxy > 1.5": 1,
     "H scored avg > 1.7": 1
   },
@@ -55,7 +54,7 @@
           "train_roi": 125.81,
           "test_bets": 30,
           "hit_pct": 63.3,
-          "consistency": 77.8
+          "consistency": 100.0
         },
         {
           "rank": 2,
@@ -67,7 +66,7 @@
           "train_roi": 110.91,
           "test_bets": 13,
           "hit_pct": 69.2,
-          "consistency": 71.4
+          "consistency": 100.0
         },
         {
           "rank": 3,
@@ -79,7 +78,7 @@
           "train_roi": 136.47,
           "test_bets": 19,
           "hit_pct": 68.4,
-          "consistency": 80.0
+          "consistency": 100.0
         },
         {
           "rank": 4,
@@ -91,7 +90,7 @@
           "train_roi": 94.08,
           "test_bets": 43,
           "hit_pct": 53.5,
-          "consistency": 88.9
+          "consistency": 100.0
         },
         {
           "rank": 5,
@@ -103,7 +102,7 @@
           "train_roi": 102.32,
           "test_bets": 29,
           "hit_pct": 51.7,
-          "consistency": 77.8
+          "consistency": 100.0
         }
       ]
     },
@@ -124,7 +123,7 @@
           "train_roi": 132.04,
           "test_bets": 14,
           "hit_pct": 57.1,
-          "consistency": 75.0
+          "consistency": 100.0
         },
         {
           "rank": 2,
@@ -136,7 +135,7 @@
           "train_roi": 121.96,
           "test_bets": 18,
           "hit_pct": 44.4,
-          "consistency": 71.4
+          "consistency": 100.0
         },
         {
           "rank": 3,
@@ -148,7 +147,7 @@
           "train_roi": 89.84,
           "test_bets": 13,
           "hit_pct": 46.2,
-          "consistency": 57.1
+          "consistency": 100.0
         },
         {
           "rank": 4,
@@ -160,19 +159,19 @@
           "train_roi": 134.03,
           "test_bets": 28,
           "hit_pct": 53.6,
-          "consistency": 88.9
+          "consistency": 100.0
         },
         {
           "rank": 5,
           "filters": [
-            "H form pts \u2264 4",
-            "A clean sheet < 20%"
+            "Corner ctx < 9",
+            "A rested 2+ days more"
           ],
           "test_roi": 270.33,
-          "train_roi": 142.26,
-          "test_bets": 18,
+          "train_roi": 53.04,
+          "test_bets": 12,
           "hit_pct": 50.0,
-          "consistency": 77.8
+          "consistency": 100.0
         }
       ]
     },
@@ -193,7 +192,7 @@
           "train_roi": 165.19,
           "test_bets": 17,
           "hit_pct": 58.8,
-          "consistency": 71.4
+          "consistency": 100.0
         },
         {
           "rank": 2,
@@ -205,7 +204,7 @@
           "train_roi": 126.13,
           "test_bets": 19,
           "hit_pct": 68.4,
-          "consistency": 85.7
+          "consistency": 100.0
         },
         {
           "rank": 3,
@@ -222,6 +221,18 @@
         {
           "rank": 4,
           "filters": [
+            "A conceded avg < 1.0",
+            "H xG proxy > 1.5"
+          ],
+          "test_roi": 243.25,
+          "train_roi": 91.64,
+          "test_bets": 24,
+          "hit_pct": 50.0,
+          "consistency": 100.0
+        },
+        {
+          "rank": 5,
+          "filters": [
             "Combined YC > 3.5",
             "H corners avg > 6"
           ],
@@ -230,18 +241,6 @@
           "test_bets": 26,
           "hit_pct": 76.9,
           "consistency": 100.0
-        },
-        {
-          "rank": 5,
-          "filters": [
-            "A conceded avg < 1.0",
-            "H xG proxy > 1.5"
-          ],
-          "test_roi": 243.25,
-          "train_roi": 91.64,
-          "test_bets": 24,
-          "hit_pct": 50.0,
-          "consistency": 55.6
         }
       ]
     },
@@ -262,7 +261,7 @@
           "train_roi": 97.41,
           "test_bets": 34,
           "hit_pct": 47.1,
-          "consistency": 70.0
+          "consistency": 100.0
         },
         {
           "rank": 2,
@@ -274,7 +273,7 @@
           "train_roi": 73.03,
           "test_bets": 21,
           "hit_pct": 38.1,
-          "consistency": 66.7
+          "consistency": 100.0
         },
         {
           "rank": 3,
@@ -286,22 +285,10 @@
           "train_roi": 38.42,
           "test_bets": 21,
           "hit_pct": 38.1,
-          "consistency": 60.0
+          "consistency": 100.0
         },
         {
           "rank": 4,
-          "filters": [
-            "A scored avg > 1.5",
-            "A clean sheet < 20%"
-          ],
-          "test_roi": 182.7,
-          "train_roi": 128.03,
-          "test_bets": 23,
-          "hit_pct": 47.8,
-          "consistency": 77.8
-        },
-        {
-          "rank": 5,
           "filters": [
             "Corner ctx > 11",
             "A clean sheet < 20%"
@@ -310,7 +297,19 @@
           "train_roi": 79.55,
           "test_bets": 14,
           "hit_pct": 57.1,
-          "consistency": 57.1
+          "consistency": 100.0
+        },
+        {
+          "rank": 5,
+          "filters": [
+            "A scored avg > 1.5",
+            "A clean sheet < 20%"
+          ],
+          "test_roi": 182.7,
+          "train_roi": 128.03,
+          "test_bets": 23,
+          "hit_pct": 47.8,
+          "consistency": 100.0
         }
       ]
     },
@@ -331,7 +330,7 @@
           "train_roi": 82.47,
           "test_bets": 12,
           "hit_pct": 41.7,
-          "consistency": 50.0
+          "consistency": 100.0
         },
         {
           "rank": 2,
@@ -343,7 +342,7 @@
           "train_roi": 62.9,
           "test_bets": 14,
           "hit_pct": 78.6,
-          "consistency": 85.7
+          "consistency": 100.0
         },
         {
           "rank": 3,
@@ -355,7 +354,7 @@
           "train_roi": 94.93,
           "test_bets": 53,
           "hit_pct": 50.9,
-          "consistency": 90.0
+          "consistency": 100.0
         },
         {
           "rank": 4,
@@ -367,18 +366,18 @@
           "train_roi": 118.91,
           "test_bets": 34,
           "hit_pct": 55.9,
-          "consistency": 80.0
+          "consistency": 100.0
         },
         {
           "rank": 5,
           "filters": [
             "H clean sheet < 20%",
-            "H home form \u2265 9pts"
+            "H xG proxy > 1.5"
           ],
-          "test_roi": 257.66,
-          "train_roi": 148.12,
-          "test_bets": 29,
-          "hit_pct": 75.9,
+          "test_roi": 264.69,
+          "train_roi": 116.5,
+          "test_bets": 39,
+          "hit_pct": 74.4,
           "consistency": 100.0
         }
       ]
@@ -400,7 +399,7 @@
           "train_roi": 139.35,
           "test_bets": 18,
           "hit_pct": 55.6,
-          "consistency": 77.8
+          "consistency": 100.0
         },
         {
           "rank": 2,
@@ -428,18 +427,6 @@
         {
           "rank": 4,
           "filters": [
-            "Goals ctx < 1.8",
-            "A rested 2+ days more"
-          ],
-          "test_roi": 237.86,
-          "train_roi": 80.62,
-          "test_bets": 14,
-          "hit_pct": 50.0,
-          "consistency": 80.0
-        },
-        {
-          "rank": 5,
-          "filters": [
             "H home form \u2264 3pts",
             "A away form \u2264 3pts"
           ],
@@ -447,7 +434,19 @@
           "train_roi": 133.87,
           "test_bets": 17,
           "hit_pct": 64.7,
-          "consistency": 70.0
+          "consistency": 100.0
+        },
+        {
+          "rank": 5,
+          "filters": [
+            "Goals ctx < 1.8",
+            "A rested 2+ days more"
+          ],
+          "test_roi": 237.86,
+          "train_roi": 80.62,
+          "test_bets": 14,
+          "hit_pct": 50.0,
+          "consistency": 100.0
         }
       ]
     },
@@ -468,7 +467,7 @@
           "train_roi": 197.33,
           "test_bets": 13,
           "hit_pct": 76.9,
-          "consistency": 80.0
+          "consistency": 100.0
         },
         {
           "rank": 2,
@@ -480,7 +479,7 @@
           "train_roi": 93.25,
           "test_bets": 24,
           "hit_pct": 50.0,
-          "consistency": 80.0
+          "consistency": 100.0
         },
         {
           "rank": 3,
@@ -492,7 +491,7 @@
           "train_roi": 106.1,
           "test_bets": 22,
           "hit_pct": 59.1,
-          "consistency": 85.7
+          "consistency": 100.0
         },
         {
           "rank": 4,
@@ -504,7 +503,7 @@
           "train_roi": 164.01,
           "test_bets": 16,
           "hit_pct": 37.5,
-          "consistency": 71.4
+          "consistency": 100.0
         },
         {
           "rank": 5,
@@ -537,7 +536,7 @@
           "train_roi": 187.76,
           "test_bets": 15,
           "hit_pct": 66.7,
-          "consistency": 85.7
+          "consistency": 100.0
         },
         {
           "rank": 2,
@@ -573,18 +572,18 @@
           "train_roi": 118.49,
           "test_bets": 13,
           "hit_pct": 61.5,
-          "consistency": 85.7
+          "consistency": 100.0
         },
         {
           "rank": 5,
           "filters": [
-            "A conceded avg > 1.5",
-            "A clean sheet \u2265 40%"
+            "Goals ctx < 1.5",
+            "H form pts \u2264 4"
           ],
-          "test_roi": 255.47,
-          "train_roi": 146.89,
-          "test_bets": 15,
-          "hit_pct": 66.7,
+          "test_roi": 264.63,
+          "train_roi": 154.04,
+          "test_bets": 49,
+          "hit_pct": 49.0,
           "consistency": 100.0
         }
       ]
@@ -606,7 +605,7 @@
           "train_roi": 122.18,
           "test_bets": 13,
           "hit_pct": 61.5,
-          "consistency": 66.7
+          "consistency": 100.0
         },
         {
           "rank": 2,
@@ -618,7 +617,7 @@
           "train_roi": 138.25,
           "test_bets": 22,
           "hit_pct": 59.1,
-          "consistency": 80.0
+          "consistency": 100.0
         },
         {
           "rank": 3,
@@ -630,10 +629,22 @@
           "train_roi": 102.34,
           "test_bets": 14,
           "hit_pct": 57.1,
-          "consistency": 70.0
+          "consistency": 100.0
         },
         {
           "rank": 4,
+          "filters": [
+            "A away form \u2265 9pts",
+            "H xG proxy > 1.5"
+          ],
+          "test_roi": 197.6,
+          "train_roi": 129.77,
+          "test_bets": 20,
+          "hit_pct": 45.0,
+          "consistency": 100.0
+        },
+        {
+          "rank": 5,
           "filters": [
             "Corner ctx < 10.5",
             "H corners avg > 6"
@@ -642,19 +653,7 @@
           "train_roi": 123.16,
           "test_bets": 13,
           "hit_pct": 53.8,
-          "consistency": 44.4
-        },
-        {
-          "rank": 5,
-          "filters": [
-            "H clean sheet < 20%",
-            "H xG proxy > 1.5"
-          ],
-          "test_roi": 182.0,
-          "train_roi": 105.41,
-          "test_bets": 26,
-          "hit_pct": 46.2,
-          "consistency": 70.0
+          "consistency": 100.0
         }
       ]
     },
@@ -675,7 +674,7 @@
           "train_roi": 120.43,
           "test_bets": 20,
           "hit_pct": 60.0,
-          "consistency": 90.0
+          "consistency": 100.0
         },
         {
           "rank": 2,
@@ -687,7 +686,7 @@
           "train_roi": 134.15,
           "test_bets": 15,
           "hit_pct": 46.7,
-          "consistency": 77.8
+          "consistency": 100.0
         },
         {
           "rank": 3,
@@ -698,7 +697,7 @@
           "train_roi": 101.16,
           "test_bets": 22,
           "hit_pct": 54.5,
-          "consistency": 90.0
+          "consistency": 100.0
         },
         {
           "rank": 4,
@@ -710,7 +709,7 @@
           "train_roi": 104.3,
           "test_bets": 19,
           "hit_pct": 52.6,
-          "consistency": 90.0
+          "consistency": 100.0
         },
         {
           "rank": 5,
@@ -722,7 +721,7 @@
           "train_roi": 158.92,
           "test_bets": 12,
           "hit_pct": 58.3,
-          "consistency": 57.1
+          "consistency": 100.0
         }
       ]
     },
@@ -743,7 +742,7 @@
           "train_roi": 145.94,
           "test_bets": 15,
           "hit_pct": 60.0,
-          "consistency": 50.0
+          "consistency": 100.0
         },
         {
           "rank": 2,
@@ -767,7 +766,7 @@
           "train_roi": 106.86,
           "test_bets": 16,
           "hit_pct": 50.0,
-          "consistency": 71.4
+          "consistency": 100.0
         },
         {
           "rank": 4,
@@ -779,7 +778,7 @@
           "train_roi": 193.68,
           "test_bets": 18,
           "hit_pct": 50.0,
-          "consistency": 75.0
+          "consistency": 100.0
         },
         {
           "rank": 5,
@@ -791,7 +790,7 @@
           "train_roi": 105.48,
           "test_bets": 18,
           "hit_pct": 66.7,
-          "consistency": 75.0
+          "consistency": 100.0
         }
       ]
     },
@@ -812,7 +811,7 @@
           "train_roi": 189.01,
           "test_bets": 19,
           "hit_pct": 68.4,
-          "consistency": 77.8
+          "consistency": 100.0
         },
         {
           "rank": 2,
@@ -824,22 +823,10 @@
           "train_roi": 133.51,
           "test_bets": 20,
           "hit_pct": 60.0,
-          "consistency": 62.5
+          "consistency": 100.0
         },
         {
           "rank": 3,
-          "filters": [
-            "Goals ctx < 1.5",
-            "H form pts \u2264 4"
-          ],
-          "test_roi": 313.91,
-          "train_roi": 179.91,
-          "test_bets": 34,
-          "hit_pct": 52.9,
-          "consistency": 88.9
-        },
-        {
-          "rank": 4,
           "filters": [
             "H clean sheet < 20%",
             "A away form \u2265 9pts"
@@ -848,10 +835,10 @@
           "train_roi": 215.09,
           "test_bets": 17,
           "hit_pct": 47.1,
-          "consistency": 66.7
+          "consistency": 100.0
         },
         {
-          "rank": 5,
+          "rank": 4,
           "filters": [
             "H form pts \u2264 4",
             "H xG proxy < 1.0"
@@ -860,7 +847,19 @@
           "train_roi": 127.49,
           "test_bets": 13,
           "hit_pct": 53.8,
-          "consistency": 57.1
+          "consistency": 100.0
+        },
+        {
+          "rank": 5,
+          "filters": [
+            "Goals ctx < 1.5",
+            "H form pts \u2264 4"
+          ],
+          "test_roi": 313.91,
+          "train_roi": 179.91,
+          "test_bets": 34,
+          "hit_pct": 52.9,
+          "consistency": 100.0
         }
       ]
     },
@@ -881,7 +880,7 @@
           "train_roi": 151.49,
           "test_bets": 14,
           "hit_pct": 64.3,
-          "consistency": 75.0
+          "consistency": 100.0
         },
         {
           "rank": 2,
@@ -893,7 +892,7 @@
           "train_roi": 148.25,
           "test_bets": 14,
           "hit_pct": 57.1,
-          "consistency": 87.5
+          "consistency": 100.0
         },
         {
           "rank": 3,
@@ -905,7 +904,7 @@
           "train_roi": 143.41,
           "test_bets": 23,
           "hit_pct": 52.2,
-          "consistency": 75.0
+          "consistency": 100.0
         },
         {
           "rank": 4,
@@ -917,7 +916,7 @@
           "train_roi": 150.28,
           "test_bets": 15,
           "hit_pct": 53.3,
-          "consistency": 66.7
+          "consistency": 100.0
         },
         {
           "rank": 5,
@@ -929,7 +928,7 @@
           "train_roi": 95.11,
           "test_bets": 13,
           "hit_pct": 69.2,
-          "consistency": 85.7
+          "consistency": 100.0
         }
       ]
     },
@@ -962,7 +961,7 @@
           "train_roi": 180.3,
           "test_bets": 15,
           "hit_pct": 86.7,
-          "consistency": 88.9
+          "consistency": 100.0
         },
         {
           "rank": 3,
@@ -974,7 +973,7 @@
           "train_roi": 137.0,
           "test_bets": 19,
           "hit_pct": 57.9,
-          "consistency": 87.5
+          "consistency": 100.0
         },
         {
           "rank": 4,
@@ -986,7 +985,7 @@
           "train_roi": 143.4,
           "test_bets": 16,
           "hit_pct": 50.0,
-          "consistency": 87.5
+          "consistency": 100.0
         },
         {
           "rank": 5,
@@ -998,7 +997,7 @@
           "train_roi": 133.28,
           "test_bets": 21,
           "hit_pct": 76.2,
-          "consistency": 90.0
+          "consistency": 100.0
         }
       ]
     },
@@ -1019,7 +1018,7 @@
           "train_roi": 89.25,
           "test_bets": 12,
           "hit_pct": 50.0,
-          "consistency": 75.0
+          "consistency": 100.0
         },
         {
           "rank": 2,
@@ -1060,13 +1059,13 @@
         {
           "rank": 5,
           "filters": [
-            "H form pts \u2265 9",
+            "A form pts \u2265 9",
             "H corners avg > 6"
           ],
-          "test_roi": 217.5,
-          "train_roi": 68.75,
-          "test_bets": 20,
-          "hit_pct": 90.0,
+          "test_roi": 226.0,
+          "train_roi": 179.82,
+          "test_bets": 13,
+          "hit_pct": 61.5,
           "consistency": 100.0
         }
       ]
