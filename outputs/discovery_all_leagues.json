@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-03-27T20:02:16.786737",
+  "exported_at": "2026-03-28T07:39:36.400835",
   "market": "home_win",
   "train_seasons": [
     2017,
@@ -40,7 +40,7 @@
     {
       "league": "Premier League",
       "league_id": 39,
-      "n_pos": 416,
+      "n_pos": 415,
       "baseline": 79.75,
       "best_roi": 302.23,
       "top_strategies": [
@@ -178,7 +178,7 @@
     {
       "league": "Bundesliga",
       "league_id": 78,
-      "n_pos": 382,
+      "n_pos": 370,
       "baseline": 80.48,
       "best_roi": 270.71,
       "top_strategies": [
@@ -522,7 +522,7 @@
     {
       "league": "S\u00fcper Lig",
       "league_id": 203,
-      "n_pos": 424,
+      "n_pos": 421,
       "baseline": 119.8,
       "best_roi": 363.47,
       "top_strategies": [
@@ -797,7 +797,7 @@
     {
       "league": "2. Bundesliga",
       "league_id": 79,
-      "n_pos": 370,
+      "n_pos": 366,
       "baseline": 101.97,
       "best_roi": 500.37,
       "top_strategies": [
