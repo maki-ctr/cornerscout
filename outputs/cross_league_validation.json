@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-03-27T20:03:57.077228",
+  "exported_at": "2026-03-28T07:39:50.054617",
   "filters": [
     "A xG proxy < 0.9",
     "A away form \u2264 3pts"
@@ -27,6 +27,7 @@
   "per_league": [
     {
       "league": "Premier League",
+      "league_id": 39,
       "train_bets": 119,
       "train_roi": 108.85,
       "test_bets": 15,
@@ -37,6 +38,7 @@
     },
     {
       "league": "La Liga",
+      "league_id": 140,
       "train_bets": 134,
       "train_roi": 95.14,
       "test_bets": 23,
@@ -47,6 +49,7 @@
     },
     {
       "league": "Bundesliga",
+      "league_id": 78,
       "train_bets": 76,
       "train_roi": 84.87,
       "test_bets": 4,
@@ -57,6 +60,7 @@
     },
     {
       "league": "Serie A",
+      "league_id": 135,
       "train_bets": 124,
       "train_roi": 110.12,
       "test_bets": 30,
@@ -67,6 +71,7 @@
     },
     {
       "league": "Ligue 1",
+      "league_id": 61,
       "train_bets": 91,
       "train_roi": 67.75,
       "test_bets": 13,
@@ -77,6 +82,7 @@
     },
     {
       "league": "Eredivisie",
+      "league_id": 88,
       "train_bets": 77,
       "train_roi": 82.45,
       "test_bets": 11,
@@ -87,6 +93,7 @@
     },
     {
       "league": "Primeira Liga",
+      "league_id": 94,
       "train_bets": 108,
       "train_roi": 79.85,
       "test_bets": 26,
@@ -97,6 +104,7 @@
     },
     {
       "league": "S\u00fcper Lig",
+      "league_id": 203,
       "train_bets": 93,
       "train_roi": 48.02,
       "test_bets": 10,
@@ -107,6 +115,7 @@
     },
     {
       "league": "Belgian Pro League",
+      "league_id": 144,
       "train_bets": 243,
       "train_roi": 65.07,
       "test_bets": 19,
@@ -117,6 +126,7 @@
     },
     {
       "league": "Scottish Prem",
+      "league_id": 179,
       "train_bets": 268,
       "train_roi": 62.25,
       "test_bets": 15,
@@ -127,6 +137,7 @@
     },
     {
       "league": "Championship",
+      "league_id": 40,
       "train_bets": 204,
       "train_roi": 60.44,
       "test_bets": 25,
@@ -137,6 +148,7 @@
     },
     {
       "league": "2. Bundesliga",
+      "league_id": 79,
       "train_bets": 40,
       "train_roi": 115.45,
       "test_bets": 13,
@@ -147,6 +159,7 @@
     },
     {
       "league": "Serie B",
+      "league_id": 136,
       "train_bets": 101,
       "train_roi": 39.11,
       "test_bets": 3,
@@ -157,6 +170,7 @@
     },
     {
       "league": "Ligue 2",
+      "league_id": 62,
       "train_bets": 135,
       "train_roi": 54.13,
       "test_bets": 10,
@@ -167,6 +181,7 @@
     },
     {
       "league": "Russian PL",
+      "league_id": 235,
       "train_bets": 101,
       "train_roi": 68.87,
       "test_bets": 10,
