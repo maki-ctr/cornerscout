@@ -1,0 +1,90 @@
+{
+  "exported_at": "2026-03-31T14:31:56.307259",
+  "xgb_results": {
+    "home_win": {
+      "mode_a_roi": -9.483511953833471,
+      "mode_b_roi": -5.237080447522642,
+      "auc": 0.6555162449747067,
+      "top_features": [
+        "h_sot_avg",
+        "h_form_pts",
+        "a_away_form_pts",
+        "a_form_pts",
+        "h_home_gs_avg",
+        "a_sot_avg",
+        "h_home_form_pts",
+        "h_corners_avg"
+      ],
+      "train_n": 35745,
+      "test_n": 5063
+    },
+    "away_win": {
+      "mode_a_roi": -13.187438665358195,
+      "mode_b_roi": -7.6755460841768794,
+      "auc": 0.6677997855791794,
+      "top_features": [
+        "a_away_form_pts",
+        "h_form_pts",
+        "a_sot_avg",
+        "h_home_form_pts",
+        "a_form_pts",
+        "h_sot_avg",
+        "a_gs_avg",
+        "h_home_gs_avg"
+      ],
+      "train_n": 35745,
+      "test_n": 5063
+    },
+    "draw": {
+      "mode_a_roi": -2.876606683804628,
+      "mode_b_roi": -1.2088438998401703,
+      "auc": 0.5420578106655656,
+      "top_features": [
+        "h_gs_avg",
+        "h_sot_avg",
+        "a_gs_avg",
+        "h_corners_avg",
+        "a_sot_avg",
+        "h_home_gs_avg",
+        "a_form_pts",
+        "corner_ctx"
+      ],
+      "train_n": 35745,
+      "test_n": 5063
+    },
+    "over25": {
+      "mode_a_roi": -6.548037889039242,
+      "mode_b_roi": -4.664358018114012,
+      "auc": 0.5611457261707044,
+      "top_features": [
+        "h_home_gs_avg",
+        "goal_ctx",
+        "h_sot_avg",
+        "h_xgp_avg",
+        "a_away_gs_avg",
+        "a_sot_avg",
+        "h_corners_avg",
+        "a_xgp_avg"
+      ],
+      "train_n": 35745,
+      "test_n": 5063
+    },
+    "under25": {
+      "mode_a_roi": -7.222054380664653,
+      "mode_b_roi": -6.095364944059671,
+      "auc": 0.5626188459930984,
+      "top_features": [
+        "h_home_gs_avg",
+        "goal_ctx",
+        "h_sot_avg",
+        "h_xgp_avg",
+        "a_away_gs_avg",
+        "a_xgp_avg",
+        "a_sot_avg",
+        "h_corners_avg"
+      ],
+      "train_n": 35745,
+      "test_n": 5063
+    }
+  }
+}
