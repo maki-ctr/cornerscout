@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-04-03T08:53:51.810274",
+  "exported_at": "2026-04-06T12:08:51.447242",
   "strategies": [
     {
       "tier": "A",
@@ -11,9 +11,9 @@
         "Goals ctx < 1.8",
         "H scored < 1.2"
       ],
-      "pre_covid_cons": 100,
-      "all_cons": 100,
-      "note": "3-filter | dominant signal",
+      "pre_covid": 100,
+      "cons": 100,
+      "note": "3-filter | +36% ROI validated",
       "best_band": "3.50+",
       "best_band_roi": 50.33333333333333,
       "best_band_n": 12,
@@ -69,9 +69,9 @@
         "A form <= 4pts",
         "Goals ctx < 1.8"
       ],
-      "pre_covid_cons": 100,
-      "all_cons": 88,
-      "note": "base strategy #1",
+      "pre_covid": 100,
+      "cons": 88,
+      "note": "base signal | +36% ROI validated",
       "best_band": "3.50+",
       "best_band_roi": 16.088888888888885,
       "best_band_n": 45,
@@ -120,123 +120,6 @@
     },
     {
       "tier": "A",
-      "league": "Premier League",
-      "lid": 39,
-      "market": "away_win",
-      "filters": [
-        "H corners avg > 6",
-        "H xG proxy > 1.5",
-        "A corners avg < 4.5"
-      ],
-      "pre_covid_cons": 75,
-      "all_cons": 75,
-      "note": "3-filter PL",
-      "best_band": "3.50+",
-      "best_band_roi": 136.375,
-      "best_band_n": 16,
-      "bands": [
-        [
-          "1.20-1.50",
-          0,
-          null
-        ],
-        [
-          "1.50-1.70",
-          0,
-          null
-        ],
-        [
-          "1.70-1.90",
-          0,
-          null
-        ],
-        [
-          "1.90-2.10",
-          0,
-          null
-        ],
-        [
-          "2.10-2.40",
-          0,
-          null
-        ],
-        [
-          "2.40-2.80",
-          0,
-          null
-        ],
-        [
-          "2.80-3.50",
-          0,
-          null
-        ],
-        [
-          "3.50+",
-          16,
-          136.375
-        ]
-      ]
-    },
-    {
-      "tier": "A",
-      "league": "La Liga",
-      "lid": 140,
-      "market": "home_win",
-      "filters": [
-        "H scored > 1.7",
-        "Goals ctx < 1.8"
-      ],
-      "pre_covid_cons": 83,
-      "all_cons": 75,
-      "note": "low-scoring home strength",
-      "best_band": "1.20-1.50",
-      "best_band_roi": 16.85185185185185,
-      "best_band_n": 27,
-      "bands": [
-        [
-          "1.20-1.50",
-          27,
-          16.85185185185185
-        ],
-        [
-          "1.50-1.70",
-          8,
-          null
-        ],
-        [
-          "1.70-1.90",
-          12,
-          -24.0
-        ],
-        [
-          "1.90-2.10",
-          4,
-          null
-        ],
-        [
-          "2.10-2.40",
-          3,
-          null
-        ],
-        [
-          "2.40-2.80",
-          1,
-          null
-        ],
-        [
-          "2.80-3.50",
-          3,
-          null
-        ],
-        [
-          "3.50+",
-          5,
-          null
-        ]
-      ]
-    },
-    {
-      "tier": "A",
       "league": "Ligue 1",
       "lid": 61,
       "market": "away_win",
@@ -244,8 +127,8 @@
         "H scored < 1.2",
         "Goals ctx < 1.5"
       ],
-      "pre_covid_cons": 83,
-      "all_cons": 75,
+      "pre_covid": 83,
+      "cons": 75,
       "note": "low-scoring away edge",
       "best_band": "2.80-3.50",
       "best_band_roi": 116.83333333333333,
@@ -302,8 +185,8 @@
         "A conceded > 1.5",
         "Goals ctx < 1.5"
       ],
-      "pre_covid_cons": 83,
-      "all_cons": 75,
+      "pre_covid": 83,
+      "cons": 75,
       "note": "leaky home + low ctx",
       "best_band": "3.50+",
       "best_band_roi": 14.12820512820513,
@@ -353,15 +236,191 @@
     },
     {
       "tier": "A",
-      "league": "Sper Lig",
+      "league": "La Liga",
+      "lid": 140,
+      "market": "home_win",
+      "filters": [
+        "H scored > 1.7",
+        "Goals ctx < 1.8"
+      ],
+      "pre_covid": 83,
+      "cons": 75,
+      "note": "low-scoring home strength",
+      "best_band": "1.20-1.50",
+      "best_band_roi": 16.85185185185185,
+      "best_band_n": 27,
+      "bands": [
+        [
+          "1.20-1.50",
+          27,
+          16.85185185185185
+        ],
+        [
+          "1.50-1.70",
+          8,
+          null
+        ],
+        [
+          "1.70-1.90",
+          12,
+          -24.0
+        ],
+        [
+          "1.90-2.10",
+          4,
+          null
+        ],
+        [
+          "2.10-2.40",
+          3,
+          null
+        ],
+        [
+          "2.40-2.80",
+          1,
+          null
+        ],
+        [
+          "2.80-3.50",
+          3,
+          null
+        ],
+        [
+          "3.50+",
+          5,
+          null
+        ]
+      ]
+    },
+    {
+      "tier": "A",
+      "league": "La Liga",
+      "lid": 140,
+      "market": "draw",
+      "filters": [
+        "A scored > 1.5",
+        "H yellow cards > 2",
+        "Goals ctx < 1.5"
+      ],
+      "pre_covid": 75,
+      "cons": 75,
+      "note": "3-filter draw La Liga",
+      "best_band": "3.50+",
+      "best_band_roi": 63.94117647058823,
+      "best_band_n": 17,
+      "bands": [
+        [
+          "1.20-1.50",
+          0,
+          null
+        ],
+        [
+          "1.50-1.70",
+          0,
+          null
+        ],
+        [
+          "1.70-1.90",
+          0,
+          null
+        ],
+        [
+          "1.90-2.10",
+          0,
+          null
+        ],
+        [
+          "2.10-2.40",
+          0,
+          null
+        ],
+        [
+          "2.40-2.80",
+          1,
+          null
+        ],
+        [
+          "2.80-3.50",
+          20,
+          43.65
+        ],
+        [
+          "3.50+",
+          17,
+          63.94117647058823
+        ]
+      ]
+    },
+    {
+      "tier": "A",
+      "league": "Premier League",
+      "lid": 39,
+      "market": "away_win",
+      "filters": [
+        "H corners avg > 6",
+        "H xG proxy > 1.5",
+        "A corners avg < 4.5"
+      ],
+      "pre_covid": 75,
+      "cons": 75,
+      "note": "3-filter PL corners",
+      "best_band": "3.50+",
+      "best_band_roi": 136.375,
+      "best_band_n": 16,
+      "bands": [
+        [
+          "1.20-1.50",
+          0,
+          null
+        ],
+        [
+          "1.50-1.70",
+          0,
+          null
+        ],
+        [
+          "1.70-1.90",
+          0,
+          null
+        ],
+        [
+          "1.90-2.10",
+          0,
+          null
+        ],
+        [
+          "2.10-2.40",
+          0,
+          null
+        ],
+        [
+          "2.40-2.80",
+          0,
+          null
+        ],
+        [
+          "2.80-3.50",
+          0,
+          null
+        ],
+        [
+          "3.50+",
+          16,
+          136.375
+        ]
+      ]
+    },
+    {
+      "tier": "A",
+      "league": "S\u00fcper Lig",
       "lid": 203,
       "market": "home_win",
       "filters": [
         "A scored < 1.0",
         "Goals ctx < 1.8"
       ],
-      "pre_covid_cons": 83,
-      "all_cons": 75,
+      "pre_covid": 83,
+      "cons": 75,
       "note": "away toothless + low-scoring",
       "best_band": "1.90-2.10",
       "best_band_roi": 7.692307692307689,
@@ -411,16 +470,16 @@
     },
     {
       "tier": "A",
-      "league": "Sper Lig",
+      "league": "S\u00fcper Lig",
       "lid": 203,
       "market": "home_win",
       "filters": [
         "A scored < 1.0",
         "Combined YC > 3.5"
       ],
-      "pre_covid_cons": 83,
-      "all_cons": 75,
-      "note": "away toothless + physical game",
+      "pre_covid": 83,
+      "cons": 75,
+      "note": "away toothless + physical",
       "best_band": "1.90-2.10",
       "best_band_roi": -8.000000000000002,
       "best_band_n": 13,
@@ -469,64 +528,6 @@
     },
     {
       "tier": "A",
-      "league": "Championship",
-      "lid": 40,
-      "market": "away_win",
-      "filters": [
-        "H clean sheet < 20%",
-        "Combined YC > 3.5"
-      ],
-      "pre_covid_cons": 83,
-      "all_cons": 75,
-      "note": "leaky home + physical",
-      "best_band": "3.50+",
-      "best_band_roi": 73.875,
-      "best_band_n": 16,
-      "bands": [
-        [
-          "1.20-1.50",
-          0,
-          null
-        ],
-        [
-          "1.50-1.70",
-          1,
-          null
-        ],
-        [
-          "1.70-1.90",
-          2,
-          null
-        ],
-        [
-          "1.90-2.10",
-          2,
-          null
-        ],
-        [
-          "2.10-2.40",
-          8,
-          null
-        ],
-        [
-          "2.40-2.80",
-          12,
-          9.000000000000002
-        ],
-        [
-          "2.80-3.50",
-          21,
-          -12.380952380952385
-        ],
-        [
-          "3.50+",
-          16,
-          73.875
-        ]
-      ]
-    },
-    {
-      "tier": "A",
       "league": "Ligue 2",
       "lid": 62,
       "market": "home_win",
@@ -534,9 +535,9 @@
         "H xG proxy > 1.5",
         "Combined YC > 3.5"
       ],
-      "pre_covid_cons": 83,
-      "all_cons": 75,
-      "note": "home dominance + physical",
+      "pre_covid": 83,
+      "cons": 75,
+      "note": "home dominance + physical | HALF KELLY",
       "best_band": "1.50-1.70",
       "best_band_roi": 6.399999999999999,
       "best_band_n": 15,
@@ -592,9 +593,9 @@
         "A scored < 1.0",
         "Combined YC > 3.5"
       ],
-      "pre_covid_cons": 83,
-      "all_cons": 75,
-      "note": "away toothless + physical",
+      "pre_covid": 83,
+      "cons": 75,
+      "note": "away toothless + physical | HALF KELLY",
       "best_band": "3.50+",
       "best_band_roi": 34.4516129032258,
       "best_band_n": 31,
@@ -650,9 +651,9 @@
         "A form <= 4pts",
         "Combined YC > 3.5"
       ],
-      "pre_covid_cons": 83,
-      "all_cons": 75,
-      "note": "away weak form + physical",
+      "pre_covid": 83,
+      "cons": 75,
+      "note": "away weak form + physical | HALF KELLY",
       "best_band": "3.50+",
       "best_band_roi": 33.43333333333333,
       "best_band_n": 30,
@@ -700,65 +701,6 @@
       ]
     },
     {
-      "tier": "A",
-      "league": "La Liga",
-      "lid": 140,
-      "market": "draw",
-      "filters": [
-        "A scored > 1.5",
-        "H yellow cards > 2",
-        "Goals ctx < 1.5"
-      ],
-      "pre_covid_cons": 75,
-      "all_cons": 75,
-      "note": "3-filter draw La Liga",
-      "best_band": "3.50+",
-      "best_band_roi": 63.94117647058823,
-      "best_band_n": 17,
-      "bands": [
-        [
-          "1.20-1.50",
-          0,
-          null
-        ],
-        [
-          "1.50-1.70",
-          0,
-          null
-        ],
-        [
-          "1.70-1.90",
-          0,
-          null
-        ],
-        [
-          "1.90-2.10",
-          0,
-          null
-        ],
-        [
-          "2.10-2.40",
-          0,
-          null
-        ],
-        [
-          "2.40-2.80",
-          1,
-          null
-        ],
-        [
-          "2.80-3.50",
-          20,
-          43.65
-        ],
-        [
-          "3.50+",
-          17,
-          63.94117647058823
-        ]
-      ]
-    },
-    {
       "tier": "B",
       "league": "Premier League",
       "lid": 39,
@@ -767,9 +709,9 @@
         "H corners avg > 6",
         "H xG proxy > 1.5"
       ],
-      "pre_covid_cons": 67,
-      "all_cons": 75,
-      "note": "MODERATE \u2014 watch 6 weeks",
+      "pre_covid": 67,
+      "cons": 75,
+      "note": "watch 6 weeks",
       "best_band": "3.50+",
       "best_band_roi": 50.5625,
       "best_band_n": 48,
@@ -825,9 +767,9 @@
         "A scored > 1.5",
         "H yellow cards > 2"
       ],
-      "pre_covid_cons": 67,
-      "all_cons": 75,
-      "note": "MODERATE \u2014 watch 6 weeks",
+      "pre_covid": 67,
+      "cons": 75,
+      "note": "watch 6 weeks",
       "best_band": "3.50+",
       "best_band_roi": 24.093023255813947,
       "best_band_n": 43,
@@ -876,16 +818,16 @@
     },
     {
       "tier": "B",
-      "league": "Sper Lig",
+      "league": "S\u00fcper Lig",
       "lid": 203,
       "market": "home_win",
       "filters": [
         "H corners avg > 6",
         "Combined YC > 3.5"
       ],
-      "pre_covid_cons": 67,
-      "all_cons": 75,
-      "note": "MODERATE \u2014 watch 6 weeks",
+      "pre_covid": 67,
+      "cons": 75,
+      "note": "watch 6 weeks",
       "best_band": "1.20-1.50",
       "best_band_roi": 25.833333333333336,
       "best_band_n": 18,
@@ -941,9 +883,9 @@
         "H xG proxy > 1.5",
         "H clean sheet >= 40%"
       ],
-      "pre_covid_cons": 83,
-      "all_cons": 62,
-      "note": "MODERATE \u2014 watch 6 weeks",
+      "pre_covid": 83,
+      "cons": 62,
+      "note": "watch 6 weeks",
       "best_band": "1.20-1.50",
       "best_band_roi": 4.266666666666666,
       "best_band_n": 15,
@@ -996,11 +938,69 @@
       "lid": 40,
       "market": "home_win",
       "filters": [
+        "A form <= 4pts",
+        "Goals ctx < 1.8"
+      ],
+      "pre_covid": 67,
+      "cons": 62,
+      "note": "diagnostic confirmed home signal | watch 6 weeks",
+      "best_band": "2.10-2.40",
+      "best_band_roi": 26.966666666666665,
+      "best_band_n": 30,
+      "bands": [
+        [
+          "1.20-1.50",
+          8,
+          null
+        ],
+        [
+          "1.50-1.70",
+          24,
+          -18.75
+        ],
+        [
+          "1.70-1.90",
+          22,
+          -51.818181818181806
+        ],
+        [
+          "1.90-2.10",
+          22,
+          8.999999999999996
+        ],
+        [
+          "2.10-2.40",
+          30,
+          26.966666666666665
+        ],
+        [
+          "2.40-2.80",
+          14,
+          -29.42857142857143
+        ],
+        [
+          "2.80-3.50",
+          9,
+          null
+        ],
+        [
+          "3.50+",
+          2,
+          null
+        ]
+      ]
+    },
+    {
+      "tier": "B",
+      "league": "Championship",
+      "lid": 40,
+      "market": "home_win",
+      "filters": [
         "A xG proxy < 0.9"
       ],
-      "pre_covid_cons": 67,
-      "all_cons": 62,
-      "note": "MODERATE \u2014 watch 6 weeks",
+      "pre_covid": 67,
+      "cons": 62,
+      "note": "watch 6 weeks",
       "best_band": "1.50-1.70",
       "best_band_roi": 12.846153846153847,
       "best_band_n": 13,
@@ -1056,9 +1056,9 @@
         "H clean sheet < 20%",
         "A clean sheet >= 40%"
       ],
-      "pre_covid_cons": 67,
-      "all_cons": 62,
-      "note": "MODERATE \u2014 watch 6 weeks",
+      "pre_covid": 67,
+      "cons": 62,
+      "note": "watch 6 weeks",
       "best_band": "2.80-3.50",
       "best_band_roi": 77.92857142857144,
       "best_band_n": 14,
@@ -1114,9 +1114,9 @@
         "H xG proxy > 1.5",
         "A clean sheet >= 40%"
       ],
-      "pre_covid_cons": 67,
-      "all_cons": 75,
-      "note": "MODERATE \u2014 watch 6 weeks",
+      "pre_covid": 67,
+      "cons": 75,
+      "note": "watch 6 weeks",
       "best_band": "\u2014",
       "best_band_roi": null,
       "best_band_n": 0,
