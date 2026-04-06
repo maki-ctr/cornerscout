@@ -1,15 +1,5 @@
 {
-  "exported_at": "2026-04-03T08:53:44.705694",
-  "train": [
-    2017,
-    2018,
-    2019,
-    2020,
-    2021,
-    2022,
-    2023
-  ],
-  "test": 2024,
+  "exported_at": "2026-04-06T12:08:36.542209",
   "results": [
     {
       "league": "Ligue 1",
@@ -63,57 +53,6 @@
       }
     },
     {
-      "league": "Premier League",
-      "market": "away_win",
-      "tier": "A",
-      "filters": [
-        "H corners avg > 6",
-        "H xG proxy > 1.5",
-        "A corners avg < 4.5"
-      ],
-      "train": {
-        "n": 145,
-        "W": 28,
-        "roi": 17.034482758620687,
-        "hr": 19.310344827586206,
-        "pnl": 24.699999999999996,
-        "avg_odds": 10.97744827586207
-      },
-      "test": {
-        "n": 20,
-        "W": 5,
-        "roi": 89.1,
-        "hr": 25.0,
-        "pnl": 17.82,
-        "avg_odds": 11.8125
-      }
-    },
-    {
-      "league": "La Liga",
-      "market": "home_win",
-      "tier": "A",
-      "filters": [
-        "H scored > 1.7",
-        "Goals ctx < 1.8"
-      ],
-      "train": {
-        "n": 459,
-        "W": 280,
-        "roi": 3.050108932461873,
-        "hr": 61.00217864923747,
-        "pnl": 13.999999999999996,
-        "avg_odds": 1.9244226579520696
-      },
-      "test": {
-        "n": 71,
-        "W": 49,
-        "roi": 11.53521126760563,
-        "hr": 69.01408450704226,
-        "pnl": 8.189999999999998,
-        "avg_odds": 1.7816901408450703
-      }
-    },
-    {
       "league": "Ligue 1",
       "market": "away_win",
       "tier": "A",
@@ -164,7 +103,84 @@
       }
     },
     {
-      "league": "Sper Lig",
+      "league": "La Liga",
+      "market": "home_win",
+      "tier": "A",
+      "filters": [
+        "H scored > 1.7",
+        "Goals ctx < 1.8"
+      ],
+      "train": {
+        "n": 459,
+        "W": 280,
+        "roi": 3.050108932461873,
+        "hr": 61.00217864923747,
+        "pnl": 13.999999999999996,
+        "avg_odds": 1.9244226579520696
+      },
+      "test": {
+        "n": 71,
+        "W": 49,
+        "roi": 11.53521126760563,
+        "hr": 69.01408450704226,
+        "pnl": 8.189999999999998,
+        "avg_odds": 1.7816901408450703
+      }
+    },
+    {
+      "league": "La Liga",
+      "market": "draw",
+      "tier": "A",
+      "filters": [
+        "A scored > 1.5",
+        "H yellow cards > 2",
+        "Goals ctx < 1.5"
+      ],
+      "train": {
+        "n": 302,
+        "W": 98,
+        "roi": 18.635761589403973,
+        "hr": 32.450331125827816,
+        "pnl": 56.28,
+        "avg_odds": 3.8024503311258284
+      },
+      "test": {
+        "n": 38,
+        "W": 16,
+        "roi": 48.947368421052616,
+        "hr": 42.10526315789473,
+        "pnl": 18.599999999999994,
+        "avg_odds": 3.573157894736842
+      }
+    },
+    {
+      "league": "Premier League",
+      "market": "away_win",
+      "tier": "A",
+      "filters": [
+        "H corners avg > 6",
+        "H xG proxy > 1.5",
+        "A corners avg < 4.5"
+      ],
+      "train": {
+        "n": 145,
+        "W": 28,
+        "roi": 17.034482758620687,
+        "hr": 19.310344827586206,
+        "pnl": 24.699999999999996,
+        "avg_odds": 10.97744827586207
+      },
+      "test": {
+        "n": 20,
+        "W": 5,
+        "roi": 89.1,
+        "hr": 25.0,
+        "pnl": 17.82,
+        "avg_odds": 11.8125
+      }
+    },
+    {
+      "league": "S\u00fcper Lig",
       "market": "home_win",
       "tier": "A",
       "filters": [
@@ -189,7 +205,7 @@
       }
     },
     {
-      "league": "Sper Lig",
+      "league": "S\u00fcper Lig",
       "market": "home_win",
       "tier": "A",
       "filters": [
@@ -211,31 +227,6 @@
         "hr": 56.896551724137936,
         "pnl": 5.279999999999999,
         "avg_odds": 2.132413793103449
-      }
-    },
-    {
-      "league": "Championship",
-      "market": "away_win",
-      "tier": "A",
-      "filters": [
-        "H clean sheet < 20%",
-        "Combined YC > 3.5"
-      ],
-      "train": {
-        "n": 448,
-        "W": 169,
-        "roi": 9.196428571428573,
-        "hr": 37.723214285714285,
-        "pnl": 41.2,
-        "avg_odds": 3.1824107142857136
-      },
-      "test": {
-        "n": 62,
-        "W": 23,
-        "roi": 15.854838709677416,
-        "hr": 37.096774193548384,
-        "pnl": 9.829999999999998,
-        "avg_odds": 3.2382258064516134
       }
     },
     {
@@ -314,32 +305,6 @@
       }
     },
     {
-      "league": "La Liga",
-      "market": "draw",
-      "tier": "A",
-      "filters": [
-        "A scored > 1.5",
-        "H yellow cards > 2",
-        "Goals ctx < 1.5"
-      ],
-      "train": {
-        "n": 302,
-        "W": 98,
-        "roi": 18.635761589403973,
-        "hr": 32.450331125827816,
-        "pnl": 56.28,
-        "avg_odds": 3.8024503311258284
-      },
-      "test": {
-        "n": 38,
-        "W": 16,
-        "roi": 48.947368421052616,
-        "hr": 42.10526315789473,
-        "pnl": 18.599999999999994,
-        "avg_odds": 3.573157894736842
-      }
-    },
-    {
       "league": "Premier League",
       "market": "away_win",
       "tier": "B",
@@ -390,7 +355,7 @@
       }
     },
     {
-      "league": "Sper Lig",
+      "league": "S\u00fcper Lig",
       "market": "home_win",
       "tier": "B",
       "filters": [
@@ -437,6 +402,31 @@
         "hr": 74.0,
         "pnl": 5.489999999999999,
         "avg_odds": 1.9100000000000004
+      }
+    },
+    {
+      "league": "Championship",
+      "market": "home_win",
+      "tier": "B",
+      "filters": [
+        "A form <= 4pts",
+        "Goals ctx < 1.8"
+      ],
+      "train": {
+        "n": 964,
+        "W": 453,
+        "roi": -5.060165975103735,
+        "hr": 46.99170124481328,
+        "pnl": -48.78000000000001,
+        "avg_odds": 2.149823651452282
+      },
+      "test": {
+        "n": 133,
+        "W": 63,
+        "roi": -5.421052631578947,
+        "hr": 47.368421052631575,
+        "pnl": -7.21,
+        "avg_odds": 2.0467669172932332
       }
     },
     {
