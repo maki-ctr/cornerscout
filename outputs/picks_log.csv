@@ -18,3 +18,5 @@ fixture_id,date,time,days_ahead,days_label,league,league_id,home,away,market,tie
 1387941,2026-04-05,13:00,2,+2d (2026-04-05),Ligue 1,61,Angers,Lyon,away_win,A,H scored < 1.2 + Goals ctx < 1.5,1.8,83,L,0-0,-1.0
 1387031,2026-04-06,14:00,3,+3d (2026-04-06),Championship,40,Sheffield Wednesday,Leicester,home_win,B,H clean sheet < 20% + A clean sheet >= 40%,,67,,,
 1387035,2026-04-06,19:00,3,+3d (2026-04-06),Championship,40,Hull City,Coventry,home_win,B,H clean sheet < 20% + A clean sheet >= 40%,,67,,,
+1387042,2026-04-06,14:00,0,TODAY,Championship,40,Bristol City,Sheffield Utd,home_win,B,A form <= 4pts + Goals ctx < 1.8,2.94,67,,,
+1387032,2026-04-06,14:00,0,TODAY,Championship,40,Ipswich,Birmingham,home_win,B,A form <= 4pts + Goals ctx < 1.8,1.57,67,,,
