@@ -1,0 +1,15 @@
+fixture_id,date,time,days_ahead,days_label,league,league_id,home,away,market,draw_odds,home_odds,away_odds,vortex_draw,n_signals,filters,h_form,a_form,goal_ctx,yc_ctx,outcome,result,pnl
+1388560,2026-04-10,18:30,0,TODAY,Bundesliga,78,FC Augsburg,1899 Hoffenheim,draw,3.7,3.3,2.0,0.635,2,A conceded > 1.5 + A scored > 1.5 | H conceded > 1.5 + A conceded > 1.5,L L L D D,W D L L D,1.9,3.0,W,2-2,2.7
+1419923,2026-04-11,13:00,1,+1d (2026-04-11),Serie B,136,Virtus Entella,Venezia,draw,3.8,4.6,1.7,0.703,2,H clean sheet >= 40% + A clean sheet >= 40% | A conceded < 1.0 + H clean sheet >= 40%,W L L W L,W D W D W,1.15,3.0,,,
+1536968,2026-04-11,14:00,1,+1d (2026-04-11),Belgian Pro,144,Cercle Brugge,RAAL La Louvière,draw,3.55,1.9,3.8,0.687,3,H conceded > 1.5 + A conceded > 1.5 | Goals ctx < 1.8 + A scored > 1.5 | A scored > 1.5,D L L W D,D D W D L,1.65,3.0,,,
+1536940,2026-04-11,16:15,1,+1d (2026-04-11),Belgian Pro,144,Standard Liege,KVC Westerlo,draw,3.2,2.62,2.62,0.675,1,H clean sheet >= 40% + A clean sheet >= 40%,D W D D W,D W L D W,0.75,3.0,,,
+1388563,2026-04-11,13:30,1,+1d (2026-04-11),Bundesliga,78,1. FC Heidenheim,Union Berlin,draw,3.4,3.0,2.26,0.637,1,H conceded > 1.5 + A conceded > 1.5,L L L D D,L L W L D,1.6,3.0,,,
+1536982,2026-04-11,18:45,1,+1d (2026-04-11),Belgian Pro,144,St. Truiden,Club Brugge KV,draw,3.85,3.5,1.9,0.624,2,Goals ctx < 1.8 + A scored > 1.5 | A scored > 1.5,L W L L L,W D W W W,1.55,3.0,,,
+1419924,2026-04-11,13:00,1,+1d (2026-04-11),Serie B,136,Pescara,Sampdoria,draw,3.35,2.2,3.2,0.601,1,H clean sheet >= 40% + A clean sheet >= 40%,W D W L W,L D L W W,1.3,3.0,,,
+1391127,2026-04-11,12:00,1,+1d (2026-04-11),La Liga,140,Real Sociedad,Alaves,draw,3.65,1.71,4.8,0.597,1,H form >= 9pts + H clean sheet >= 40%,W L W L W,L L D W D,1.8,3.0,,,
+1388565,2026-04-11,13:30,1,+1d (2026-04-11),Bundesliga,78,RB Leipzig,Borussia Mönchengladbach,draw,4.5,1.5,5.5,0.591,3,H form >= 9pts | Goals ctx < 1.8 + H form >= 9pts | A conceded > 1.5 + A scored > 1.5,W W L W W,W L W D D,1.65,3.0,,,
+1388561,2026-04-11,13:30,1,+1d (2026-04-11),Bundesliga,78,Borussia Dortmund,Bayer Leverkusen,draw,3.85,1.95,3.35,0.569,3,H form >= 9pts | H form >= 9pts + H clean sheet >= 40% | A conceded > 1.5 + A scored > 1.5,L W W W W,D D L D W,1.9,3.0,,,
+1536981,2026-04-12,11:30,2,+2d (2026-04-12),Belgian Pro,144,KV Mechelen,Union St. Gilloise,draw,3.75,4.8,1.68,0.693,2,Goals ctx < 1.8 + A scored > 1.5 | A scored > 1.5,W L W L D,D W W W W,1.25,3.0,,,
+1388564,2026-04-12,17:30,2,+2d (2026-04-12),Bundesliga,78,FSV Mainz 05,SC Freiburg,draw,3.05,2.26,3.35,0.621,3,H form >= 9pts | Goals ctx < 1.8 + H form >= 9pts | H form >= 9pts + H clean sheet >= 40%,W W W W W,L W W L W,1.5,3.0,,,
+1536983,2026-04-12,16:30,2,+2d (2026-04-12),Belgian Pro,144,Anderlecht,Gent,draw,3.75,1.9,3.6,0.611,1,A scored > 1.5,W D L L L,L W W W D,1.85,3.0,,,
+1536941,2026-04-12,14:00,2,+2d (2026-04-12),Belgian Pro,144,Genk,OH Leuven,draw,3.9,1.67,4.75,0.599,2,H conceded > 1.5 + A conceded > 1.5 | H clean sheet >= 40% + A clean sheet >= 40%,W W L D W,L L W W L,1.75,3.0,,,
