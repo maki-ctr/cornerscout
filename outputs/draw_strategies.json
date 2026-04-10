@@ -1,0 +1,989 @@
+{
+  "exported_at": "2026-04-10T20:58:38.762174",
+  "strategies": [
+    {
+      "league": "Bundesliga",
+      "lid": 78,
+      "market": "draw",
+      "vortex_signal": "yc_high",
+      "filters": [
+        "H form >= 9pts"
+      ],
+      "roi_tr": 20.4,
+      "roi_te": 103.5,
+      "cons": 71.4,
+      "n_te": 32,
+      "hr_te": 43.8,
+      "avg_odds": 5.11,
+      "best_months": [
+        "9",
+        "5"
+      ],
+      "best_stages": [
+        "endgame"
+      ],
+      "best_prox": [
+        "tight"
+      ]
+    },
+    {
+      "league": "Bundesliga",
+      "lid": 78,
+      "market": "draw",
+      "vortex_signal": "yc_high",
+      "filters": [
+        "H form >= 9pts",
+        "Combined YC > 3.5"
+      ],
+      "roi_tr": 19.5,
+      "roi_te": 103.5,
+      "cons": 71.4,
+      "n_te": 32,
+      "hr_te": 43.8,
+      "avg_odds": 5.11,
+      "best_months": [
+        "9",
+        "5"
+      ],
+      "best_stages": [
+        "endgame"
+      ],
+      "best_prox": [
+        "tight"
+      ]
+    },
+    {
+      "league": "Bundesliga",
+      "lid": 78,
+      "market": "draw",
+      "vortex_signal": "yc_high",
+      "filters": [
+        "Goals ctx < 1.8",
+        "H form >= 9pts"
+      ],
+      "roi_tr": 19.7,
+      "roi_te": 91.2,
+      "cons": 71.4,
+      "n_te": 25,
+      "hr_te": 48.0,
+      "avg_odds": 4.24,
+      "best_months": [
+        "9",
+        "5"
+      ],
+      "best_stages": [
+        "endgame"
+      ],
+      "best_prox": [
+        "tight"
+      ]
+    },
+    {
+      "league": "Serie B",
+      "lid": 136,
+      "market": "draw",
+      "vortex_signal": "goal_ctx_low",
+      "filters": [
+        "H conceded < 1.0",
+        "A clean sheet >= 40%"
+      ],
+      "roi_tr": 14.8,
+      "roi_te": 59.8,
+      "cons": 100.0,
+      "n_te": 28,
+      "hr_te": 50.0,
+      "avg_odds": 3.18,
+      "best_months": [
+        "11",
+        "4"
+      ],
+      "best_stages": [
+        "endgame"
+      ],
+      "best_prox": [
+        "tight"
+      ]
+    },
+    {
+      "league": "Belgian Pro",
+      "lid": 144,
+      "market": "draw",
+      "vortex_signal": "away_xgp_mid",
+      "filters": [
+        "H conceded > 1.5",
+        "A conceded > 1.5"
+      ],
+      "roi_tr": 4.0,
+      "roi_te": 96.0,
+      "cons": 57.1,
+      "n_te": 20,
+      "hr_te": 55.0,
+      "avg_odds": 3.65,
+      "best_months": [
+        "7",
+        "9"
+      ],
+      "best_stages": [],
+      "best_prox": []
+    },
+    {
+      "league": "Bundesliga",
+      "lid": 78,
+      "market": "draw",
+      "vortex_signal": "yc_high",
+      "filters": [
+        "H form >= 9pts",
+        "H clean sheet >= 40%"
+      ],
+      "roi_tr": 40.8,
+      "roi_te": 65.9,
+      "cons": 85.7,
+      "n_te": 24,
+      "hr_te": 41.7,
+      "avg_odds": 5.14,
+      "best_months": [
+        "9",
+        "5"
+      ],
+      "best_stages": [
+        "endgame"
+      ],
+      "best_prox": [
+        "tight"
+      ]
+    },
+    {
+      "league": "Bundesliga",
+      "lid": 78,
+      "market": "draw",
+      "vortex_signal": "yc_high",
+      "filters": [
+        "A conceded > 1.5",
+        "A scored > 1.5"
+      ],
+      "roi_tr": 12.7,
+      "roi_te": 76.7,
+      "cons": 71.4,
+      "n_te": 30,
+      "hr_te": 43.3,
+      "avg_odds": 4.65,
+      "best_months": [
+        "9",
+        "5"
+      ],
+      "best_stages": [
+        "endgame"
+      ],
+      "best_prox": [
+        "tight"
+      ]
+    },
+    {
+      "league": "Bundesliga",
+      "lid": 78,
+      "market": "draw",
+      "vortex_signal": "yc_high",
+      "filters": [
+        "H conceded > 1.5",
+        "A conceded > 1.5"
+      ],
+      "roi_tr": 14.0,
+      "roi_te": 86.2,
+      "cons": 57.1,
+      "n_te": 43,
+      "hr_te": 41.9,
+      "avg_odds": 4.12,
+      "best_months": [
+        "9",
+        "5"
+      ],
+      "best_stages": [
+        "endgame"
+      ],
+      "best_prox": [
+        "tight"
+      ]
+    },
+    {
+      "league": "Serie B",
+      "lid": 136,
+      "market": "draw",
+      "vortex_signal": "goal_ctx_low",
+      "filters": [
+        "H clean sheet >= 40%",
+        "A clean sheet >= 40%"
+      ],
+      "roi_tr": 16.7,
+      "roi_te": 58.2,
+      "cons": 85.7,
+      "n_te": 44,
+      "hr_te": 50.0,
+      "avg_odds": 3.18,
+      "best_months": [
+        "11",
+        "4"
+      ],
+      "best_stages": [
+        "endgame"
+      ],
+      "best_prox": [
+        "tight"
+      ]
+    },
+    {
+      "league": "La Liga",
+      "lid": 140,
+      "market": "draw",
+      "vortex_signal": "away_scoring",
+      "filters": [
+        "H form >= 9pts",
+        "H clean sheet >= 40%"
+      ],
+      "roi_tr": 17.4,
+      "roi_te": 61.4,
+      "cons": 71.4,
+      "n_te": 20,
+      "hr_te": 40.0,
+      "avg_odds": 4.24,
+      "best_months": [
+        "6",
+        "12"
+      ],
+      "best_stages": [
+        "mid"
+      ],
+      "best_prox": []
+    },
+    {
+      "league": "Serie B",
+      "lid": 136,
+      "market": "draw",
+      "vortex_signal": "goal_ctx_low",
+      "filters": [
+        "A conceded < 1.0",
+        "H clean sheet >= 40%"
+      ],
+      "roi_tr": 16.3,
+      "roi_te": 39.7,
+      "cons": 85.7,
+      "n_te": 29,
+      "hr_te": 44.8,
+      "avg_odds": 3.14,
+      "best_months": [
+        "11",
+        "4"
+      ],
+      "best_stages": [
+        "endgame"
+      ],
+      "best_prox": [
+        "tight"
+      ]
+    },
+    {
+      "league": "Serie B",
+      "lid": 136,
+      "market": "draw",
+      "vortex_signal": "goal_ctx_low",
+      "filters": [
+        "H conceded < 1.0"
+      ],
+      "roi_tr": 10.9,
+      "roi_te": 27.0,
+      "cons": 100.0,
+      "n_te": 56,
+      "hr_te": 39.3,
+      "avg_odds": 3.22,
+      "best_months": [
+        "11",
+        "4"
+      ],
+      "best_stages": [
+        "endgame"
+      ],
+      "best_prox": [
+        "tight"
+      ]
+    },
+    {
+      "league": "Belgian Pro",
+      "lid": 144,
+      "market": "draw",
+      "vortex_signal": "away_xgp_mid",
+      "filters": [
+        "Goals ctx < 1.8",
+        "A scored > 1.5"
+      ],
+      "roi_tr": 7.0,
+      "roi_te": 39.5,
+      "cons": 85.7,
+      "n_te": 24,
+      "hr_te": 37.5,
+      "avg_odds": 3.64,
+      "best_months": [
+        "7",
+        "9"
+      ],
+      "best_stages": [],
+      "best_prox": []
+    },
+    {
+      "league": "Belgian Pro",
+      "lid": 144,
+      "market": "draw",
+      "vortex_signal": "away_xgp_mid",
+      "filters": [
+        "H clean sheet >= 40%",
+        "A clean sheet >= 40%"
+      ],
+      "roi_tr": 23.4,
+      "roi_te": 35.9,
+      "cons": 85.7,
+      "n_te": 21,
+      "hr_te": 33.3,
+      "avg_odds": 3.86,
+      "best_months": [
+        "7",
+        "9"
+      ],
+      "best_stages": [],
+      "best_prox": []
+    },
+    {
+      "league": "Belgian Pro",
+      "lid": 144,
+      "market": "draw",
+      "vortex_signal": "away_xgp_mid",
+      "filters": [
+        "A scored > 1.5"
+      ],
+      "roi_tr": 10.0,
+      "roi_te": 33.9,
+      "cons": 85.7,
+      "n_te": 25,
+      "hr_te": 36.0,
+      "avg_odds": 3.63,
+      "best_months": [
+        "7",
+        "9"
+      ],
+      "best_stages": [],
+      "best_prox": []
+    },
+    {
+      "league": "Serie B",
+      "lid": 136,
+      "market": "draw",
+      "vortex_signal": "goal_ctx_low",
+      "filters": [
+        "Combined YC > 3.5",
+        "A clean sheet >= 40%"
+      ],
+      "roi_tr": 13.9,
+      "roi_te": 19.7,
+      "cons": 100.0,
+      "n_te": 76,
+      "hr_te": 38.2,
+      "avg_odds": 3.15,
+      "best_months": [
+        "11",
+        "4"
+      ],
+      "best_stages": [
+        "endgame"
+      ],
+      "best_prox": [
+        "tight"
+      ]
+    },
+    {
+      "league": "Championship",
+      "lid": 40,
+      "market": "draw",
+      "vortex_signal": "away_form_weak",
+      "filters": [
+        "Combined YC > 3.5",
+        "A clean sheet >= 40%"
+      ],
+      "roi_tr": 12.8,
+      "roi_te": 44.5,
+      "cons": 71.4,
+      "n_te": 20,
+      "hr_te": 40.0,
+      "avg_odds": 3.46,
+      "best_months": [
+        "6",
+        "9"
+      ],
+      "best_stages": [],
+      "best_prox": []
+    },
+    {
+      "league": "La Liga",
+      "lid": 140,
+      "market": "draw",
+      "vortex_signal": "away_scoring",
+      "filters": [
+        "Combined YC > 3.5",
+        "H clean sheet >= 40%"
+      ],
+      "roi_tr": 18.9,
+      "roi_te": 31.0,
+      "cons": 85.7,
+      "n_te": 34,
+      "hr_te": 35.3,
+      "avg_odds": 3.82,
+      "best_months": [
+        "6",
+        "12"
+      ],
+      "best_stages": [
+        "mid"
+      ],
+      "best_prox": []
+    },
+    {
+      "league": "La Liga",
+      "lid": 140,
+      "market": "draw",
+      "vortex_signal": "away_scoring",
+      "filters": [
+        "Goals ctx < 1.8",
+        "H clean sheet >= 40%"
+      ],
+      "roi_tr": 13.3,
+      "roi_te": 29.2,
+      "cons": 85.7,
+      "n_te": 44,
+      "hr_te": 34.1,
+      "avg_odds": 3.86,
+      "best_months": [
+        "6",
+        "12"
+      ],
+      "best_stages": [
+        "mid"
+      ],
+      "best_prox": []
+    },
+    {
+      "league": "Serie A",
+      "lid": 135,
+      "market": "draw",
+      "vortex_signal": "corner_ctx_low",
+      "filters": [
+        "A conceded < 1.0",
+        "A clean sheet >= 40%"
+      ],
+      "roi_tr": 19.0,
+      "roi_te": 41.2,
+      "cons": 71.4,
+      "n_te": 32,
+      "hr_te": 40.6,
+      "avg_odds": 3.62,
+      "best_months": [
+        "5",
+        "12"
+      ],
+      "best_stages": [
+        "mid"
+      ],
+      "best_prox": []
+    },
+    {
+      "league": "La Liga",
+      "lid": 140,
+      "market": "draw",
+      "vortex_signal": "away_scoring",
+      "filters": [
+        "Goals ctx < 1.8",
+        "H form >= 9pts"
+      ],
+      "roi_tr": 13.3,
+      "roi_te": 39.5,
+      "cons": 71.4,
+      "n_te": 26,
+      "hr_te": 34.6,
+      "avg_odds": 4.45,
+      "best_months": [
+        "6",
+        "12"
+      ],
+      "best_stages": [
+        "mid"
+      ],
+      "best_prox": []
+    },
+    {
+      "league": "Serie A",
+      "lid": 135,
+      "market": "draw",
+      "vortex_signal": "corner_ctx_low",
+      "filters": [
+        "Goals ctx < 1.5",
+        "A clean sheet >= 40%"
+      ],
+      "roi_tr": 16.9,
+      "roi_te": 39.3,
+      "cons": 71.4,
+      "n_te": 50,
+      "hr_te": 38.0,
+      "avg_odds": 3.7,
+      "best_months": [
+        "5",
+        "12"
+      ],
+      "best_stages": [
+        "mid"
+      ],
+      "best_prox": []
+    },
+    {
+      "league": "Serie A",
+      "lid": 135,
+      "market": "draw",
+      "vortex_signal": "corner_ctx_low",
+      "filters": [
+        "Goals ctx < 1.5",
+        "A away form <= 3pts"
+      ],
+      "roi_tr": 29.2,
+      "roi_te": 26.3,
+      "cons": 85.7,
+      "n_te": 47,
+      "hr_te": 36.2,
+      "avg_odds": 3.91,
+      "best_months": [
+        "5",
+        "12"
+      ],
+      "best_stages": [
+        "mid"
+      ],
+      "best_prox": []
+    },
+    {
+      "league": "Serie B",
+      "lid": 136,
+      "market": "draw",
+      "vortex_signal": "goal_ctx_low",
+      "filters": [
+        "A form >= 9pts",
+        "H clean sheet >= 40%"
+      ],
+      "roi_tr": 27.9,
+      "roi_te": 26.3,
+      "cons": 85.7,
+      "n_te": 22,
+      "hr_te": 40.9,
+      "avg_odds": 3.12,
+      "best_months": [
+        "11",
+        "4"
+      ],
+      "best_stages": [
+        "endgame"
+      ],
+      "best_prox": [
+        "tight"
+      ]
+    },
+    {
+      "league": "Primeira Liga",
+      "lid": 94,
+      "market": "draw",
+      "vortex_signal": "form_balance",
+      "filters": [
+        "Goals ctx < 1.5",
+        "A scored < 1.0"
+      ],
+      "roi_tr": 5.9,
+      "roi_te": 38.3,
+      "cons": 71.4,
+      "n_te": 24,
+      "hr_te": 41.7,
+      "avg_odds": 3.3,
+      "best_months": [
+        "6"
+      ],
+      "best_stages": [],
+      "best_prox": []
+    },
+    {
+      "league": "Belgian Pro",
+      "lid": 144,
+      "market": "draw",
+      "vortex_signal": "away_xgp_mid",
+      "filters": [
+        "Goals ctx < 1.8",
+        "A form >= 9pts"
+      ],
+      "roi_tr": 11.6,
+      "roi_te": 25.7,
+      "cons": 85.7,
+      "n_te": 26,
+      "hr_te": 34.6,
+      "avg_odds": 3.69,
+      "best_months": [
+        "7",
+        "9"
+      ],
+      "best_stages": [],
+      "best_prox": []
+    },
+    {
+      "league": "Serie A",
+      "lid": 135,
+      "market": "draw",
+      "vortex_signal": "corner_ctx_low",
+      "filters": [
+        "Goals ctx < 1.8",
+        "A conceded < 1.0"
+      ],
+      "roi_tr": 24.2,
+      "roi_te": 37.4,
+      "cons": 71.4,
+      "n_te": 35,
+      "hr_te": 40.0,
+      "avg_odds": 3.58,
+      "best_months": [
+        "5",
+        "12"
+      ],
+      "best_stages": [
+        "mid"
+      ],
+      "best_prox": []
+    },
+    {
+      "league": "Serie A",
+      "lid": 135,
+      "market": "draw",
+      "vortex_signal": "corner_ctx_low",
+      "filters": [
+        "Goals ctx < 1.8",
+        "A away form <= 3pts"
+      ],
+      "roi_tr": 25.4,
+      "roi_te": 24.6,
+      "cons": 85.7,
+      "n_te": 53,
+      "hr_te": 35.8,
+      "avg_odds": 3.89,
+      "best_months": [
+        "5",
+        "12"
+      ],
+      "best_stages": [
+        "mid"
+      ],
+      "best_prox": []
+    },
+    {
+      "league": "Serie A",
+      "lid": 135,
+      "market": "draw",
+      "vortex_signal": "corner_ctx_low",
+      "filters": [
+        "H scored < 1.2",
+        "A away form <= 3pts"
+      ],
+      "roi_tr": 36.7,
+      "roi_te": 35.9,
+      "cons": 71.4,
+      "n_te": 23,
+      "hr_te": 43.5,
+      "avg_odds": 3.7,
+      "best_months": [
+        "5",
+        "12"
+      ],
+      "best_stages": [
+        "mid"
+      ],
+      "best_prox": []
+    },
+    {
+      "league": "Championship",
+      "lid": 40,
+      "market": "draw",
+      "vortex_signal": "away_form_weak",
+      "filters": [
+        "Goals ctx < 1.5",
+        "H form >= 9pts"
+      ],
+      "roi_tr": 9.1,
+      "roi_te": 47.2,
+      "cons": 57.1,
+      "n_te": 45,
+      "hr_te": 37.8,
+      "avg_odds": 3.87,
+      "best_months": [
+        "6",
+        "9"
+      ],
+      "best_stages": [],
+      "best_prox": []
+    },
+    {
+      "league": "La Liga",
+      "lid": 140,
+      "market": "draw",
+      "vortex_signal": "away_scoring",
+      "filters": [
+        "H scored < 1.2",
+        "H clean sheet >= 40%"
+      ],
+      "roi_tr": 24.0,
+      "roi_te": 22.0,
+      "cons": 85.7,
+      "n_te": 20,
+      "hr_te": 35.0,
+      "avg_odds": 3.57,
+      "best_months": [
+        "6",
+        "12"
+      ],
+      "best_stages": [
+        "mid"
+      ],
+      "best_prox": []
+    },
+    {
+      "league": "Belgian Pro",
+      "lid": 144,
+      "market": "draw",
+      "vortex_signal": "away_xgp_mid",
+      "filters": [
+        "Combined YC > 3.5",
+        "A clean sheet >= 40%"
+      ],
+      "roi_tr": 5.7,
+      "roi_te": 34.4,
+      "cons": 71.4,
+      "n_te": 43,
+      "hr_te": 34.9,
+      "avg_odds": 3.77,
+      "best_months": [
+        "7",
+        "9"
+      ],
+      "best_stages": [],
+      "best_prox": []
+    },
+    {
+      "league": "La Liga",
+      "lid": 140,
+      "market": "draw",
+      "vortex_signal": "away_scoring",
+      "filters": [
+        "H clean sheet >= 40%"
+      ],
+      "roi_tr": 15.5,
+      "roi_te": 26.3,
+      "cons": 71.4,
+      "n_te": 45,
+      "hr_te": 33.3,
+      "avg_odds": 3.87,
+      "best_months": [
+        "6",
+        "12"
+      ],
+      "best_stages": [
+        "mid"
+      ],
+      "best_prox": []
+    },
+    {
+      "league": "Championship",
+      "lid": 40,
+      "market": "draw",
+      "vortex_signal": "away_form_weak",
+      "filters": [
+        "Goals ctx < 1.8",
+        "H form >= 9pts"
+      ],
+      "roi_tr": 4.7,
+      "roi_te": 33.4,
+      "cons": 57.1,
+      "n_te": 53,
+      "hr_te": 34.0,
+      "avg_odds": 4.0,
+      "best_months": [
+        "6",
+        "9"
+      ],
+      "best_stages": [],
+      "best_prox": []
+    },
+    {
+      "league": "Primeira Liga",
+      "lid": 94,
+      "market": "draw",
+      "vortex_signal": "form_balance",
+      "filters": [
+        "A away form <= 3pts"
+      ],
+      "roi_tr": 2.9,
+      "roi_te": 19.4,
+      "cons": 71.4,
+      "n_te": 22,
+      "hr_te": 36.4,
+      "avg_odds": 3.29,
+      "best_months": [
+        "6"
+      ],
+      "best_stages": [],
+      "best_prox": []
+    },
+    {
+      "league": "Championship",
+      "lid": 40,
+      "market": "draw",
+      "vortex_signal": "away_form_weak",
+      "filters": [
+        "H form >= 9pts",
+        "A away form <= 3pts"
+      ],
+      "roi_tr": 7.0,
+      "roi_te": 30.1,
+      "cons": 57.1,
+      "n_te": 28,
+      "hr_te": 32.1,
+      "avg_odds": 4.18,
+      "best_months": [
+        "6",
+        "9"
+      ],
+      "best_stages": [],
+      "best_prox": []
+    },
+    {
+      "league": "Championship",
+      "lid": 40,
+      "market": "draw",
+      "vortex_signal": "away_form_weak",
+      "filters": [
+        "H form >= 9pts"
+      ],
+      "roi_tr": 2.6,
+      "roi_te": 28.5,
+      "cons": 57.1,
+      "n_te": 55,
+      "hr_te": 32.7,
+      "avg_odds": 4.02,
+      "best_months": [
+        "6",
+        "9"
+      ],
+      "best_stages": [],
+      "best_prox": []
+    },
+    {
+      "league": "Championship",
+      "lid": 40,
+      "market": "draw",
+      "vortex_signal": "away_form_weak",
+      "filters": [
+        "H form >= 9pts",
+        "Combined YC > 3.5"
+      ],
+      "roi_tr": 5.5,
+      "roi_te": 24.2,
+      "cons": 57.1,
+      "n_te": 35,
+      "hr_te": 31.4,
+      "avg_odds": 4.01,
+      "best_months": [
+        "6",
+        "9"
+      ],
+      "best_stages": [],
+      "best_prox": []
+    },
+    {
+      "league": "Primeira Liga",
+      "lid": 94,
+      "market": "draw",
+      "vortex_signal": "form_balance",
+      "filters": [
+        "A scored < 1.0",
+        "Combined YC > 3.5"
+      ],
+      "roi_tr": 1.0,
+      "roi_te": 22.9,
+      "cons": 57.1,
+      "n_te": 27,
+      "hr_te": 37.0,
+      "avg_odds": 3.3,
+      "best_months": [
+        "6"
+      ],
+      "best_stages": [],
+      "best_prox": []
+    },
+    {
+      "league": "Primeira Liga",
+      "lid": 94,
+      "market": "draw",
+      "vortex_signal": "form_balance",
+      "filters": [
+        "Goals ctx < 1.8",
+        "A scored < 1.0"
+      ],
+      "roi_tr": 0.5,
+      "roi_te": 22.9,
+      "cons": 57.1,
+      "n_te": 27,
+      "hr_te": 37.0,
+      "avg_odds": 3.3,
+      "best_months": [
+        "6"
+      ],
+      "best_stages": [],
+      "best_prox": []
+    },
+    {
+      "league": "Primeira Liga",
+      "lid": 94,
+      "market": "draw",
+      "vortex_signal": "form_balance",
+      "filters": [
+        "Goals ctx < 1.8",
+        "H clean sheet >= 40%"
+      ],
+      "roi_tr": 10.1,
+      "roi_te": 19.5,
+      "cons": 57.1,
+      "n_te": 30,
+      "hr_te": 36.7,
+      "avg_odds": 3.64,
+      "best_months": [
+        "6"
+      ],
+      "best_stages": [],
+      "best_prox": []
+    },
+    {
+      "league": "Primeira Liga",
+      "lid": 94,
+      "market": "draw",
+      "vortex_signal": "form_balance",
+      "filters": [
+        "Combined YC > 3.5",
+        "A away form <= 3pts"
+      ],
+      "roi_tr": 0.9,
+      "roi_te": 19.4,
+      "cons": 57.1,
+      "n_te": 22,
+      "hr_te": 36.4,
+      "avg_odds": 3.29,
+      "best_months": [
+        "6"
+      ],
+      "best_stages": [],
+      "best_prox": []
+    }
+  ]
+}
