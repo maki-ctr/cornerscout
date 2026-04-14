@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-04-14T11:14:29.433023",
+  "exported_at": "2026-04-14T11:40:58.299109",
   "strategies": [
     {
       "league": "Bundesliga",
@@ -33,9 +33,9 @@
       "vortex_signal": "yc_high",
       "filters": [
         "H form >= 9pts",
-        "Combined YC > 3.5"
+        "Combined draw rate > 28%"
       ],
-      "roi_tr": 19.5,
+      "roi_tr": 20.4,
       "roi_te": 103.5,
       "cons": 71.4,
       "n_te": 32,
@@ -58,15 +58,15 @@
       "market": "draw",
       "vortex_signal": "yc_high",
       "filters": [
-        "Corner ctx < 9",
-        "Form balanced (FSI < 3)"
+        "H form >= 9pts",
+        "Combined draw rate > 32%"
       ],
-      "roi_tr": 20.2,
-      "roi_te": 98.2,
+      "roi_tr": 20.4,
+      "roi_te": 103.5,
       "cons": 71.4,
-      "n_te": 26,
-      "hr_te": 53.8,
-      "avg_odds": 3.76,
+      "n_te": 32,
+      "hr_te": 43.8,
+      "avg_odds": 5.11,
       "best_months": [
         "9",
         "5"
@@ -84,15 +84,67 @@
       "market": "draw",
       "vortex_signal": "yc_high",
       "filters": [
-        "Goals ctx < 1.8",
-        "H form >= 9pts"
+        "H form >= 9pts",
+        "H team draw rate > 30%"
       ],
-      "roi_tr": 19.7,
-      "roi_te": 91.2,
+      "roi_tr": 20.4,
+      "roi_te": 103.5,
       "cons": 71.4,
-      "n_te": 25,
-      "hr_te": 48.0,
-      "avg_odds": 4.24,
+      "n_te": 32,
+      "hr_te": 43.8,
+      "avg_odds": 5.11,
+      "best_months": [
+        "9",
+        "5"
+      ],
+      "best_stages": [
+        "endgame"
+      ],
+      "best_prox": [
+        "tight"
+      ]
+    },
+    {
+      "league": "Bundesliga",
+      "lid": 78,
+      "market": "draw",
+      "vortex_signal": "yc_high",
+      "filters": [
+        "H form >= 9pts",
+        "A team draw rate > 30%"
+      ],
+      "roi_tr": 20.4,
+      "roi_te": 103.5,
+      "cons": 71.4,
+      "n_te": 32,
+      "hr_te": 43.8,
+      "avg_odds": 5.11,
+      "best_months": [
+        "9",
+        "5"
+      ],
+      "best_stages": [
+        "endgame"
+      ],
+      "best_prox": [
+        "tight"
+      ]
+    },
+    {
+      "league": "Bundesliga",
+      "lid": 78,
+      "market": "draw",
+      "vortex_signal": "yc_high",
+      "filters": [
+        "H form >= 9pts",
+        "Combined YC > 3.5"
+      ],
+      "roi_tr": 19.5,
+      "roi_te": 103.5,
+      "cons": 71.4,
+      "n_te": 32,
+      "hr_te": 43.8,
+      "avg_odds": 5.11,
       "best_months": [
         "9",
         "5"
@@ -179,32 +231,6 @@
       "best_prox": []
     },
     {
-      "league": "Bundesliga",
-      "lid": 78,
-      "market": "draw",
-      "vortex_signal": "yc_high",
-      "filters": [
-        "H form >= 9pts",
-        "H clean sheet >= 40%"
-      ],
-      "roi_tr": 40.8,
-      "roi_te": 65.9,
-      "cons": 85.7,
-      "n_te": 24,
-      "hr_te": 41.7,
-      "avg_odds": 5.14,
-      "best_months": [
-        "9",
-        "5"
-      ],
-      "best_stages": [
-        "endgame"
-      ],
-      "best_prox": [
-        "tight"
-      ]
-    },
-    {
       "league": "Serie B",
       "lid": 136,
       "market": "draw",
@@ -222,32 +248,6 @@
       "best_months": [
         "11",
         "4"
-      ],
-      "best_stages": [
-        "endgame"
-      ],
-      "best_prox": [
-        "tight"
-      ]
-    },
-    {
-      "league": "Bundesliga",
-      "lid": 78,
-      "market": "draw",
-      "vortex_signal": "yc_high",
-      "filters": [
-        "Corner ctx < 9",
-        "Form balanced (FSI < 5)"
-      ],
-      "roi_tr": 26.2,
-      "roi_te": 47.2,
-      "cons": 100.0,
-      "n_te": 40,
-      "hr_te": 40.0,
-      "avg_odds": 3.78,
-      "best_months": [
-        "9",
-        "5"
       ],
       "best_stages": [
         "endgame"
@@ -446,6 +446,28 @@
       "best_prox": []
     },
     {
+      "league": "Belgian Pro",
+      "lid": 144,
+      "market": "draw",
+      "vortex_signal": "away_xgp_mid",
+      "filters": [
+        "A scored > 1.5",
+        "Combined draw rate > 28%"
+      ],
+      "roi_tr": 10.0,
+      "roi_te": 33.9,
+      "cons": 85.7,
+      "n_te": 25,
+      "hr_te": 36.0,
+      "avg_odds": 3.63,
+      "best_months": [
+        "7",
+        "9"
+      ],
+      "best_stages": [],
+      "best_prox": []
+    },
+    {
       "league": "Serie A",
       "lid": 135,
       "market": "draw",
@@ -628,28 +650,6 @@
       "avg_odds": 3.3,
       "best_months": [
         "6"
-      ],
-      "best_stages": [],
-      "best_prox": []
-    },
-    {
-      "league": "Belgian Pro",
-      "lid": 144,
-      "market": "draw",
-      "vortex_signal": "away_xgp_mid",
-      "filters": [
-        "Goals ctx < 1.8",
-        "A form >= 9pts"
-      ],
-      "roi_tr": 11.6,
-      "roi_te": 25.7,
-      "cons": 85.7,
-      "n_te": 26,
-      "hr_te": 34.6,
-      "avg_odds": 3.69,
-      "best_months": [
-        "7",
-        "9"
       ],
       "best_stages": [],
       "best_prox": []
@@ -934,7 +934,7 @@
       "vortex_signal": "form_balance",
       "filters": [
         "A away form <= 3pts",
-        "Form balanced (FSI < 3)"
+        "Combined draw rate > 28%"
       ],
       "roi_tr": 2.9,
       "roi_te": 19.4,
@@ -955,7 +955,7 @@
       "vortex_signal": "form_balance",
       "filters": [
         "A away form <= 3pts",
-        "Form balanced (FSI < 5)"
+        "Combined draw rate > 32%"
       ],
       "roi_tr": 2.9,
       "roi_te": 19.4,
