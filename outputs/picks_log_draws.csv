@@ -47,3 +47,4 @@ fixture_id,date,time,days_ahead,days_label,league,league_id,home,away,market,dra
 1378184,2026-04-19,10:30,3,+3d (2026-04-19),Serie A,135,Cremonese,Torino,draw,,,,0.661,2,H conceded > 1.5 + H team draw rate > 30% | Combined draw rate > 28% + Form balanced (FSI < 3),L L W L L,L W L W W,1.55,3.0,,,,0.25,1.0
 1536984,2026-04-19,11:30,3,+3d (2026-04-19),Belgian Pro,144,Gent,St. Truiden,draw,,,,0.559,2,A scored < 1.0 + H form >= 9pts | H form <= 6pts + A clean sheet < 20%,W W W D L,W L L L L,1.4,3.0,,,,0.25,3.0
 1388570,2026-04-19,15:30,3,+3d (2026-04-19),Bundesliga,78,Bayern München,VfB Stuttgart,draw,,,,0.535,2,H form >= 9pts + A team draw rate > 30% | H form >= 9pts,W W W W W,W L W L W,2.0,3.0,,,,0.25,2.2
+1378187,2026-04-20,18:45,3,+3d (2026-04-20),Serie A,135,Lecce,Fiorentina,draw,,,,0.669,2,H conceded > 1.5 + H team draw rate > 30% | Combined draw rate > 28% + Form balanced (FSI < 3),W L L L L,D W L W W,1.1,3.0,,,,0.25,2.2
