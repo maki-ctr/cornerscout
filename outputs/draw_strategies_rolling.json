@@ -1,0 +1,2826 @@
+[
+  {
+    "league": "Championship",
+    "filters": [
+      "h_form_mid",
+      "a_form_high"
+    ],
+    "total_n": 993,
+    "overall_roi": 3.64,
+    "overall_hit": 30.01,
+    "windows": 8,
+    "consistency": 75.0,
+    "window_rois": [
+      13.7,
+      3.21,
+      28.07,
+      -11.1,
+      5.5,
+      12.98,
+      4.24,
+      -1.97
+    ],
+    "priority": true
+  },
+  {
+    "league": "Championship",
+    "filters": [
+      "h_form_high",
+      "h_cs_high"
+    ],
+    "total_n": 1559,
+    "overall_roi": 0.75,
+    "overall_hit": 27.71,
+    "windows": 8,
+    "consistency": 75.0,
+    "window_rois": [
+      2.31,
+      11.7,
+      27.72,
+      -14.38,
+      4.99,
+      4.8,
+      4.61,
+      -14.09
+    ],
+    "priority": true
+  },
+  {
+    "league": "Championship",
+    "filters": [
+      "a_away_low",
+      "h_xg_high"
+    ],
+    "total_n": 387,
+    "overall_roi": 1.4,
+    "overall_hit": 26.87,
+    "windows": 6,
+    "consistency": 66.7,
+    "window_rois": [
+      -24.66,
+      -28.22,
+      18.06,
+      1.98,
+      26.73,
+      59.05
+    ],
+    "priority": true
+  },
+  {
+    "league": "Championship",
+    "filters": [
+      "a_form_low",
+      "a_draw_high"
+    ],
+    "total_n": 649,
+    "overall_roi": 3.5,
+    "overall_hit": 28.97,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      -0.25,
+      21.61,
+      28.12,
+      -12.56,
+      45.56,
+      0.38,
+      6.1,
+      -0.59
+    ],
+    "priority": true
+  },
+  {
+    "league": "Championship",
+    "filters": [
+      "h_form_high",
+      "a_cs_high"
+    ],
+    "total_n": 932,
+    "overall_roi": 2.98,
+    "overall_hit": 28.76,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      10.0,
+      6.78,
+      11.23,
+      -4.27,
+      -4.16,
+      36.52,
+      11.59,
+      -26.73
+    ],
+    "priority": true
+  },
+  {
+    "league": "Championship",
+    "filters": [
+      "a_form_low",
+      "draw_rate_high"
+    ],
+    "total_n": 834,
+    "overall_roi": 2.09,
+    "overall_hit": 28.54,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      18.63,
+      15.45,
+      21.59,
+      -26.1,
+      19.18,
+      -10.26,
+      20.8,
+      -6.48
+    ],
+    "priority": true
+  },
+  {
+    "league": "Championship",
+    "filters": [
+      "h_cs_high",
+      "a_draw_high"
+    ],
+    "total_n": 1325,
+    "overall_roi": 2.08,
+    "overall_hit": 29.06,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      -18.66,
+      2.86,
+      19.83,
+      -16.31,
+      12.46,
+      20.04,
+      7.67,
+      -8.39
+    ],
+    "priority": true
+  },
+  {
+    "league": "Championship",
+    "filters": [
+      "a_form_low",
+      "h_draw_high"
+    ],
+    "total_n": 760,
+    "overall_roi": 0.93,
+    "overall_hit": 28.16,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      1.58,
+      10.98,
+      14.56,
+      -33.11,
+      37.08,
+      -7.5,
+      -15.6,
+      12.92
+    ],
+    "priority": true
+  },
+  {
+    "league": "Championship",
+    "filters": [
+      "h_cs_high",
+      "corners_low"
+    ],
+    "total_n": 2291,
+    "overall_roi": 0.57,
+    "overall_hit": 28.42,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      -8.81,
+      9.79,
+      10.54,
+      -14.55,
+      6.02,
+      15.83,
+      7.98,
+      -14.39
+    ],
+    "priority": true
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "h_form_mid",
+      "a_form_high"
+    ],
+    "total_n": 474,
+    "overall_roi": 22.0,
+    "overall_hit": 38.4,
+    "windows": 5,
+    "consistency": 100.0,
+    "window_rois": [
+      16.89,
+      18.59,
+      34.85,
+      3.82,
+      40.77
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "h_home_low",
+      "draw_rate_high"
+    ],
+    "total_n": 239,
+    "overall_roi": 11.71,
+    "overall_hit": 35.56,
+    "windows": 5,
+    "consistency": 100.0,
+    "window_rois": [
+      11.07,
+      0.84,
+      2.78,
+      48.24,
+      17.25
+    ],
+    "priority": false
+  },
+  {
+    "league": "Ligue 2",
+    "filters": [
+      "a_away_low",
+      "a_xg_low"
+    ],
+    "total_n": 865,
+    "overall_roi": 5.17,
+    "overall_hit": 33.18,
+    "windows": 7,
+    "consistency": 100.0,
+    "window_rois": [
+      11.19,
+      4.38,
+      21.66,
+      19.61,
+      12.31,
+      0.67,
+      43.15
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie A",
+    "filters": [
+      "a_form_mid",
+      "a_xg_low"
+    ],
+    "total_n": 967,
+    "overall_roi": 2.72,
+    "overall_hit": 28.96,
+    "windows": 5,
+    "consistency": 100.0,
+    "window_rois": [
+      10.54,
+      14.82,
+      26.12,
+      36.15,
+      73.67
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie A",
+    "filters": [
+      "h_cs_high",
+      "a_xg_low"
+    ],
+    "total_n": 962,
+    "overall_roi": 1.86,
+    "overall_hit": 27.34,
+    "windows": 5,
+    "consistency": 100.0,
+    "window_rois": [
+      15.1,
+      12.84,
+      31.76,
+      14.96,
+      58.67
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie A",
+    "filters": [
+      "a_away_low",
+      "h_draw_high"
+    ],
+    "total_n": 522,
+    "overall_roi": 17.06,
+    "overall_hit": 31.8,
+    "windows": 8,
+    "consistency": 87.5,
+    "window_rois": [
+      12.86,
+      27.17,
+      11.2,
+      52.58,
+      -45.43,
+      18.57,
+      1.58,
+      22.04
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "a_form_mid",
+      "a_cs_high"
+    ],
+    "total_n": 763,
+    "overall_roi": 13.12,
+    "overall_hit": 32.5,
+    "windows": 8,
+    "consistency": 87.5,
+    "window_rois": [
+      1.38,
+      38.87,
+      5.3,
+      2.24,
+      18.27,
+      -10.75,
+      29.82,
+      46.42
+    ],
+    "priority": false
+  },
+  {
+    "league": "Eredivisie",
+    "filters": [
+      "a_cs_high",
+      "h_draw_high"
+    ],
+    "total_n": 511,
+    "overall_roi": 10.99,
+    "overall_hit": 27.98,
+    "windows": 8,
+    "consistency": 87.5,
+    "window_rois": [
+      4.46,
+      4.12,
+      22.61,
+      10.15,
+      33.69,
+      20.83,
+      27.22,
+      -8.02
+    ],
+    "priority": false
+  },
+  {
+    "league": "Scottish Prem",
+    "filters": [
+      "h_cs_high",
+      "draw_rate_high"
+    ],
+    "total_n": 428,
+    "overall_roi": 5.14,
+    "overall_hit": 28.27,
+    "windows": 7,
+    "consistency": 85.7,
+    "window_rois": [
+      26.32,
+      6.2,
+      -20.22,
+      38.92,
+      55.87,
+      13.64,
+      29.6
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "a_form_mid",
+      "h_xg_low"
+    ],
+    "total_n": 247,
+    "overall_roi": 19.18,
+    "overall_hit": 38.46,
+    "windows": 5,
+    "consistency": 80.0,
+    "window_rois": [
+      5.81,
+      37.07,
+      53.73,
+      -3.48,
+      40.58
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "h_cs_high",
+      "a_cs_high"
+    ],
+    "total_n": 646,
+    "overall_roi": 14.05,
+    "overall_hit": 35.6,
+    "windows": 5,
+    "consistency": 80.0,
+    "window_rois": [
+      22.3,
+      22.23,
+      20.52,
+      -14.3,
+      29.22
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "h_xg_low",
+      "draw_rate_high"
+    ],
+    "total_n": 332,
+    "overall_roi": 13.78,
+    "overall_hit": 36.75,
+    "windows": 5,
+    "consistency": 80.0,
+    "window_rois": [
+      3.07,
+      35.85,
+      24.85,
+      -35.33,
+      26.15
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "h_xg_low",
+      "goals_low"
+    ],
+    "total_n": 494,
+    "overall_roi": 12.46,
+    "overall_hit": 36.03,
+    "windows": 5,
+    "consistency": 80.0,
+    "window_rois": [
+      0.66,
+      31.75,
+      36.43,
+      -7.11,
+      20.31
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "h_form_mid",
+      "a_cs_high"
+    ],
+    "total_n": 750,
+    "overall_roi": 12.35,
+    "overall_hit": 35.33,
+    "windows": 5,
+    "consistency": 80.0,
+    "window_rois": [
+      29.54,
+      23.2,
+      -2.47,
+      0.86,
+      22.18
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "a_cs_high",
+      "h_draw_high"
+    ],
+    "total_n": 828,
+    "overall_roi": 11.65,
+    "overall_hit": 35.14,
+    "windows": 5,
+    "consistency": 80.0,
+    "window_rois": [
+      13.1,
+      22.01,
+      6.77,
+      -18.67,
+      5.92
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "a_form_mid",
+      "h_cs_high"
+    ],
+    "total_n": 719,
+    "overall_roi": 10.75,
+    "overall_hit": 34.35,
+    "windows": 5,
+    "consistency": 80.0,
+    "window_rois": [
+      3.98,
+      11.55,
+      1.08,
+      -4.84,
+      21.84
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "a_cs_high",
+      "draw_rate_high"
+    ],
+    "total_n": 1020,
+    "overall_roi": 9.97,
+    "overall_hit": 34.61,
+    "windows": 5,
+    "consistency": 80.0,
+    "window_rois": [
+      4.72,
+      21.75,
+      0.34,
+      -5.69,
+      11.72
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "a_form_mid",
+      "a_cs_high"
+    ],
+    "total_n": 758,
+    "overall_roi": 9.76,
+    "overall_hit": 34.3,
+    "windows": 5,
+    "consistency": 80.0,
+    "window_rois": [
+      4.03,
+      22.31,
+      -2.23,
+      1.37,
+      3.08
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "a_cs_high",
+      "a_draw_high"
+    ],
+    "total_n": 865,
+    "overall_roi": 8.62,
+    "overall_hit": 34.22,
+    "windows": 5,
+    "consistency": 80.0,
+    "window_rois": [
+      4.46,
+      14.93,
+      -10.17,
+      20.32,
+      11.23
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "a_cs_high",
+      "goals_low"
+    ],
+    "total_n": 1545,
+    "overall_roi": 8.47,
+    "overall_hit": 33.98,
+    "windows": 5,
+    "consistency": 80.0,
+    "window_rois": [
+      10.04,
+      21.37,
+      1.83,
+      -1.43,
+      5.99
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "h_cs_high",
+      "a_draw_high"
+    ],
+    "total_n": 861,
+    "overall_roi": 8.23,
+    "overall_hit": 33.68,
+    "windows": 5,
+    "consistency": 80.0,
+    "window_rois": [
+      20.32,
+      5.65,
+      -8.24,
+      0.5,
+      10.81
+    ],
+    "priority": false
+  },
+  {
+    "league": "Ligue 2",
+    "filters": [
+      "h_home_low",
+      "h_xg_low"
+    ],
+    "total_n": 284,
+    "overall_roi": 7.54,
+    "overall_hit": 34.86,
+    "windows": 5,
+    "consistency": 80.0,
+    "window_rois": [
+      7.39,
+      -36.25,
+      52.92,
+      45.07,
+      17.48
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie A",
+    "filters": [
+      "a_form_mid",
+      "h_home_low"
+    ],
+    "total_n": 270,
+    "overall_roi": 7.01,
+    "overall_hit": 30.37,
+    "windows": 5,
+    "consistency": 80.0,
+    "window_rois": [
+      -100.0,
+      57.65,
+      54.19,
+      18.04,
+      55.3
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "a_form_high",
+      "a_cs_high"
+    ],
+    "total_n": 681,
+    "overall_roi": 6.82,
+    "overall_hit": 33.63,
+    "windows": 5,
+    "consistency": 80.0,
+    "window_rois": [
+      5.01,
+      18.66,
+      17.76,
+      -1.09,
+      6.91
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "a_form_high",
+      "h_cs_high"
+    ],
+    "total_n": 407,
+    "overall_roi": 6.71,
+    "overall_hit": 33.42,
+    "windows": 5,
+    "consistency": 80.0,
+    "window_rois": [
+      8.09,
+      -3.57,
+      24.91,
+      1.15,
+      32.8
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "a_form_mid",
+      "h_draw_high"
+    ],
+    "total_n": 899,
+    "overall_roi": 6.68,
+    "overall_hit": 33.26,
+    "windows": 5,
+    "consistency": 80.0,
+    "window_rois": [
+      0.52,
+      4.23,
+      1.92,
+      -8.96,
+      3.62
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "a_cs_high",
+      "corners_low"
+    ],
+    "total_n": 1064,
+    "overall_roi": 6.22,
+    "overall_hit": 33.27,
+    "windows": 5,
+    "consistency": 80.0,
+    "window_rois": [
+      13.1,
+      25.02,
+      5.26,
+      2.42,
+      -10.87
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "h_cs_high",
+      "draw_rate_high"
+    ],
+    "total_n": 994,
+    "overall_roi": 5.26,
+    "overall_hit": 32.8,
+    "windows": 5,
+    "consistency": 80.0,
+    "window_rois": [
+      9.02,
+      11.18,
+      5.14,
+      -52.05,
+      15.4
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "goals_low",
+      "h_draw_high"
+    ],
+    "total_n": 1808,
+    "overall_roi": 4.63,
+    "overall_hit": 32.63,
+    "windows": 5,
+    "consistency": 80.0,
+    "window_rois": [
+      11.59,
+      1.33,
+      6.27,
+      -23.75,
+      7.0
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "goals_low",
+      "draw_rate_high"
+    ],
+    "total_n": 2236,
+    "overall_roi": 4.02,
+    "overall_hit": 32.51,
+    "windows": 5,
+    "consistency": 80.0,
+    "window_rois": [
+      2.48,
+      7.92,
+      2.84,
+      -20.23,
+      3.86
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "draw_rate_high",
+      "h_draw_high"
+    ],
+    "total_n": 1623,
+    "overall_roi": 3.99,
+    "overall_hit": 32.53,
+    "windows": 5,
+    "consistency": 80.0,
+    "window_rois": [
+      7.29,
+      0.14,
+      2.27,
+      -21.85,
+      4.86
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "a_form_high",
+      "h_draw_high"
+    ],
+    "total_n": 493,
+    "overall_roi": 2.66,
+    "overall_hit": 32.66,
+    "windows": 5,
+    "consistency": 80.0,
+    "window_rois": [
+      4.78,
+      1.75,
+      22.64,
+      -39.63,
+      3.37
+    ],
+    "priority": false
+  },
+  {
+    "league": "S\u00fcper Lig",
+    "filters": [
+      "h_form_mid",
+      "h_xg_low"
+    ],
+    "total_n": 703,
+    "overall_roi": 2.51,
+    "overall_hit": 29.73,
+    "windows": 5,
+    "consistency": 80.0,
+    "window_rois": [
+      8.88,
+      8.99,
+      -15.94,
+      21.56,
+      70.53
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "h_home_low",
+      "goals_low"
+    ],
+    "total_n": 403,
+    "overall_roi": 0.95,
+    "overall_hit": 32.01,
+    "windows": 5,
+    "consistency": 80.0,
+    "window_rois": [
+      28.15,
+      -9.0,
+      15.43,
+      10.25,
+      1.0
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "h_form_mid",
+      "h_xg_high"
+    ],
+    "total_n": 522,
+    "overall_roi": 0.28,
+    "overall_hit": 30.84,
+    "windows": 5,
+    "consistency": 80.0,
+    "window_rois": [
+      31.42,
+      6.09,
+      -22.69,
+      0.98,
+      24.2
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_form_mid",
+      "a_cs_high"
+    ],
+    "total_n": 770,
+    "overall_roi": 11.99,
+    "overall_hit": 32.21,
+    "windows": 8,
+    "consistency": 75.0,
+    "window_rois": [
+      -15.15,
+      31.17,
+      -3.12,
+      20.73,
+      22.3,
+      4.92,
+      22.05,
+      43.47
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "a_cs_high",
+      "corners_low"
+    ],
+    "total_n": 1200,
+    "overall_roi": 10.3,
+    "overall_hit": 31.67,
+    "windows": 8,
+    "consistency": 75.0,
+    "window_rois": [
+      -2.64,
+      32.06,
+      -19.89,
+      24.88,
+      10.58,
+      4.08,
+      3.48,
+      0.91
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "a_cs_high",
+      "goals_low"
+    ],
+    "total_n": 1584,
+    "overall_roi": 9.22,
+    "overall_hit": 31.31,
+    "windows": 8,
+    "consistency": 75.0,
+    "window_rois": [
+      -2.64,
+      30.8,
+      -7.67,
+      6.07,
+      16.07,
+      13.08,
+      20.65,
+      1.25
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "a_cs_high",
+      "h_draw_high"
+    ],
+    "total_n": 679,
+    "overall_roi": 7.81,
+    "overall_hit": 31.08,
+    "windows": 8,
+    "consistency": 75.0,
+    "window_rois": [
+      -1.03,
+      12.92,
+      2.82,
+      16.49,
+      31.93,
+      2.98,
+      26.88,
+      -40.98
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_xg_low",
+      "corners_low"
+    ],
+    "total_n": 1248,
+    "overall_roi": 4.85,
+    "overall_hit": 30.29,
+    "windows": 8,
+    "consistency": 75.0,
+    "window_rois": [
+      1.12,
+      10.29,
+      1.74,
+      21.89,
+      -24.32,
+      5.31,
+      59.74,
+      -56.67
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "a_form_high",
+      "goals_low"
+    ],
+    "total_n": 1122,
+    "overall_roi": 4.66,
+    "overall_hit": 29.95,
+    "windows": 8,
+    "consistency": 75.0,
+    "window_rois": [
+      16.17,
+      18.84,
+      -20.82,
+      21.0,
+      0.53,
+      23.01,
+      3.1,
+      -45.34
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_draw_high",
+      "a_draw_high"
+    ],
+    "total_n": 806,
+    "overall_roi": 4.15,
+    "overall_hit": 30.02,
+    "windows": 8,
+    "consistency": 75.0,
+    "window_rois": [
+      -7.69,
+      5.98,
+      9.4,
+      3.56,
+      3.87,
+      17.33,
+      32.33,
+      -25.12
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_cs_high",
+      "goals_low"
+    ],
+    "total_n": 1525,
+    "overall_roi": 3.94,
+    "overall_hit": 29.51,
+    "windows": 8,
+    "consistency": 75.0,
+    "window_rois": [
+      -1.51,
+      12.79,
+      8.42,
+      1.56,
+      26.01,
+      7.88,
+      9.3,
+      -14.58
+    ],
+    "priority": false
+  },
+  {
+    "league": "Ligue 1",
+    "filters": [
+      "h_form_high",
+      "corners_low"
+    ],
+    "total_n": 1167,
+    "overall_roi": 2.74,
+    "overall_hit": 27.34,
+    "windows": 8,
+    "consistency": 75.0,
+    "window_rois": [
+      -28.67,
+      -4.32,
+      31.49,
+      12.4,
+      6.16,
+      0.27,
+      0.3,
+      14.57
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_form_mid",
+      "corners_low"
+    ],
+    "total_n": 1376,
+    "overall_roi": 2.69,
+    "overall_hit": 29.29,
+    "windows": 8,
+    "consistency": 75.0,
+    "window_rois": [
+      -8.62,
+      5.55,
+      12.41,
+      12.17,
+      8.0,
+      -13.99,
+      8.03,
+      3.44
+    ],
+    "priority": false
+  },
+  {
+    "league": "Belgian Pro",
+    "filters": [
+      "h_form_high",
+      "a_cs_high"
+    ],
+    "total_n": 446,
+    "overall_roi": 2.43,
+    "overall_hit": 26.46,
+    "windows": 8,
+    "consistency": 75.0,
+    "window_rois": [
+      -25.32,
+      -16.55,
+      16.84,
+      1.45,
+      9.88,
+      113.77,
+      9.46,
+      0.37
+    ],
+    "priority": false
+  },
+  {
+    "league": "Belgian Pro",
+    "filters": [
+      "a_form_high",
+      "goals_low"
+    ],
+    "total_n": 1090,
+    "overall_roi": 2.4,
+    "overall_hit": 27.89,
+    "windows": 8,
+    "consistency": 75.0,
+    "window_rois": [
+      16.09,
+      10.15,
+      -27.97,
+      3.97,
+      0.7,
+      32.74,
+      28.33,
+      -18.45
+    ],
+    "priority": false
+  },
+  {
+    "league": "La Liga",
+    "filters": [
+      "h_form_high",
+      "a_form_high"
+    ],
+    "total_n": 518,
+    "overall_roi": 2.34,
+    "overall_hit": 24.52,
+    "windows": 8,
+    "consistency": 75.0,
+    "window_rois": [
+      -9.03,
+      -26.0,
+      12.33,
+      26.11,
+      23.82,
+      46.88,
+      30.69,
+      10.97
+    ],
+    "priority": false
+  },
+  {
+    "league": "Ligue 2",
+    "filters": [
+      "a_away_low",
+      "h_cs_high"
+    ],
+    "total_n": 654,
+    "overall_roi": 1.98,
+    "overall_hit": 31.65,
+    "windows": 8,
+    "consistency": 75.0,
+    "window_rois": [
+      9.16,
+      5.23,
+      23.33,
+      -5.83,
+      -70.37,
+      14.93,
+      5.76,
+      13.25
+    ],
+    "priority": false
+  },
+  {
+    "league": "Primeira Liga",
+    "filters": [
+      "h_form_mid",
+      "a_form_mid"
+    ],
+    "total_n": 678,
+    "overall_roi": 1.85,
+    "overall_hit": 30.97,
+    "windows": 8,
+    "consistency": 75.0,
+    "window_rois": [
+      54.86,
+      18.79,
+      19.72,
+      1.78,
+      -36.83,
+      -31.62,
+      19.31,
+      8.69
+    ],
+    "priority": false
+  },
+  {
+    "league": "Premier League",
+    "filters": [
+      "a_cs_high",
+      "draw_rate_high"
+    ],
+    "total_n": 942,
+    "overall_roi": 1.74,
+    "overall_hit": 26.86,
+    "windows": 8,
+    "consistency": 75.0,
+    "window_rois": [
+      -20.32,
+      6.08,
+      1.45,
+      23.43,
+      2.73,
+      4.6,
+      -25.28,
+      23.27
+    ],
+    "priority": false
+  },
+  {
+    "league": "Ligue 2",
+    "filters": [
+      "a_away_low",
+      "corners_low"
+    ],
+    "total_n": 1309,
+    "overall_roi": 0.77,
+    "overall_hit": 31.63,
+    "windows": 8,
+    "consistency": 75.0,
+    "window_rois": [
+      11.19,
+      3.22,
+      19.48,
+      -8.74,
+      -29.75,
+      12.95,
+      5.5,
+      17.33
+    ],
+    "priority": false
+  },
+  {
+    "league": "Belgian Pro",
+    "filters": [
+      "a_form_high",
+      "a_xg_low"
+    ],
+    "total_n": 644,
+    "overall_roi": 0.6,
+    "overall_hit": 27.64,
+    "windows": 8,
+    "consistency": 75.0,
+    "window_rois": [
+      15.01,
+      9.4,
+      -25.15,
+      1.59,
+      14.58,
+      16.3,
+      25.0,
+      -24.55
+    ],
+    "priority": false
+  },
+  {
+    "league": "Ligue 2",
+    "filters": [
+      "h_form_high",
+      "h_draw_high"
+    ],
+    "total_n": 513,
+    "overall_roi": 0.42,
+    "overall_hit": 31.58,
+    "windows": 8,
+    "consistency": 75.0,
+    "window_rois": [
+      42.12,
+      19.73,
+      -37.06,
+      27.76,
+      -37.4,
+      68.04,
+      24.24,
+      17.43
+    ],
+    "priority": false
+  },
+  {
+    "league": "Scottish Prem",
+    "filters": [
+      "a_form_mid",
+      "h_draw_high"
+    ],
+    "total_n": 412,
+    "overall_roi": 9.23,
+    "overall_hit": 31.55,
+    "windows": 7,
+    "consistency": 71.4,
+    "window_rois": [
+      11.25,
+      -19.4,
+      33.17,
+      27.5,
+      -35.33,
+      25.91,
+      2.33
+    ],
+    "priority": false
+  },
+  {
+    "league": "Scottish Prem",
+    "filters": [
+      "a_form_mid",
+      "draw_rate_high"
+    ],
+    "total_n": 545,
+    "overall_roi": 9.09,
+    "overall_hit": 31.01,
+    "windows": 7,
+    "consistency": 71.4,
+    "window_rois": [
+      -11.67,
+      -8.51,
+      20.67,
+      12.33,
+      23.04,
+      5.86,
+      22.42
+    ],
+    "priority": false
+  },
+  {
+    "league": "La Liga",
+    "filters": [
+      "a_form_high",
+      "h_xg_high"
+    ],
+    "total_n": 397,
+    "overall_roi": 7.74,
+    "overall_hit": 26.2,
+    "windows": 7,
+    "consistency": 71.4,
+    "window_rois": [
+      -8.28,
+      14.47,
+      40.38,
+      -16.66,
+      30.6,
+      15.86,
+      4.19
+    ],
+    "priority": false
+  },
+  {
+    "league": "Ligue 2",
+    "filters": [
+      "h_form_mid",
+      "a_xg_low"
+    ],
+    "total_n": 1256,
+    "overall_roi": 5.59,
+    "overall_hit": 33.84,
+    "windows": 7,
+    "consistency": 71.4,
+    "window_rois": [
+      4.29,
+      31.98,
+      0.15,
+      5.59,
+      -13.6,
+      -4.8,
+      0.97
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_xg_high",
+      "draw_rate_high"
+    ],
+    "total_n": 671,
+    "overall_roi": 4.15,
+    "overall_hit": 28.76,
+    "windows": 7,
+    "consistency": 71.4,
+    "window_rois": [
+      19.81,
+      39.21,
+      -9.93,
+      7.63,
+      4.0,
+      32.01,
+      -0.93
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_cs_high",
+      "h_xg_high"
+    ],
+    "total_n": 536,
+    "overall_roi": 2.2,
+    "overall_hit": 28.17,
+    "windows": 7,
+    "consistency": 71.4,
+    "window_rois": [
+      -2.73,
+      7.95,
+      -8.82,
+      3.96,
+      19.88,
+      24.9,
+      10.89
+    ],
+    "priority": false
+  },
+  {
+    "league": "La Liga",
+    "filters": [
+      "a_cs_high",
+      "h_xg_high"
+    ],
+    "total_n": 553,
+    "overall_roi": 0.72,
+    "overall_hit": 24.59,
+    "windows": 7,
+    "consistency": 71.4,
+    "window_rois": [
+      8.9,
+      21.02,
+      47.61,
+      -3.58,
+      21.77,
+      -23.41,
+      4.53
+    ],
+    "priority": false
+  },
+  {
+    "league": "Scottish Prem",
+    "filters": [
+      "h_form_mid",
+      "draw_rate_high"
+    ],
+    "total_n": 519,
+    "overall_roi": 0.67,
+    "overall_hit": 29.09,
+    "windows": 7,
+    "consistency": 71.4,
+    "window_rois": [
+      -27.5,
+      29.17,
+      4.17,
+      -41.17,
+      34.29,
+      13.33,
+      45.74
+    ],
+    "priority": false
+  },
+  {
+    "league": "Premier League",
+    "filters": [
+      "a_cs_high",
+      "h_xg_high"
+    ],
+    "total_n": 655,
+    "overall_roi": 12.02,
+    "overall_hit": 26.56,
+    "windows": 6,
+    "consistency": 66.7,
+    "window_rois": [
+      33.15,
+      28.71,
+      17.07,
+      -33.72,
+      -14.86,
+      15.46
+    ],
+    "priority": false
+  },
+  {
+    "league": "Eredivisie",
+    "filters": [
+      "h_xg_high",
+      "h_draw_high"
+    ],
+    "total_n": 432,
+    "overall_roi": 9.61,
+    "overall_hit": 26.16,
+    "windows": 6,
+    "consistency": 66.7,
+    "window_rois": [
+      9.26,
+      36.98,
+      -7.36,
+      -8.92,
+      24.18,
+      0.38
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie A",
+    "filters": [
+      "a_away_low",
+      "a_xg_low"
+    ],
+    "total_n": 773,
+    "overall_roi": 6.47,
+    "overall_hit": 28.59,
+    "windows": 6,
+    "consistency": 66.7,
+    "window_rois": [
+      5.27,
+      13.33,
+      45.43,
+      -16.0,
+      -61.7,
+      29.6
+    ],
+    "priority": false
+  },
+  {
+    "league": "Premier League",
+    "filters": [
+      "a_xg_low",
+      "a_draw_high"
+    ],
+    "total_n": 830,
+    "overall_roi": 4.82,
+    "overall_hit": 27.83,
+    "windows": 6,
+    "consistency": 66.7,
+    "window_rois": [
+      -25.07,
+      -1.01,
+      34.44,
+      30.88,
+      36.18,
+      87.63
+    ],
+    "priority": false
+  },
+  {
+    "league": "La Liga",
+    "filters": [
+      "h_xg_high",
+      "h_draw_high"
+    ],
+    "total_n": 337,
+    "overall_roi": 3.88,
+    "overall_hit": 27.0,
+    "windows": 6,
+    "consistency": 66.7,
+    "window_rois": [
+      -6.19,
+      7.73,
+      -5.0,
+      28.19,
+      8.5,
+      5.87
+    ],
+    "priority": false
+  },
+  {
+    "league": "Premier League",
+    "filters": [
+      "h_xg_high",
+      "a_draw_high"
+    ],
+    "total_n": 490,
+    "overall_roi": 3.78,
+    "overall_hit": 23.47,
+    "windows": 6,
+    "consistency": 66.7,
+    "window_rois": [
+      43.77,
+      -8.38,
+      7.45,
+      -42.79,
+      11.52,
+      3.47
+    ],
+    "priority": false
+  },
+  {
+    "league": "Ligue 2",
+    "filters": [
+      "a_away_low",
+      "h_xg_low"
+    ],
+    "total_n": 843,
+    "overall_roi": 3.64,
+    "overall_hit": 32.86,
+    "windows": 6,
+    "consistency": 66.7,
+    "window_rois": [
+      11.19,
+      4.38,
+      25.47,
+      -10.29,
+      18.44,
+      -5.25
+    ],
+    "priority": false
+  },
+  {
+    "league": "Premier League",
+    "filters": [
+      "h_xg_high",
+      "h_draw_high"
+    ],
+    "total_n": 477,
+    "overall_roi": 3.04,
+    "overall_hit": 24.74,
+    "windows": 6,
+    "consistency": 66.7,
+    "window_rois": [
+      11.54,
+      29.57,
+      38.62,
+      -41.97,
+      32.4,
+      -64.76
+    ],
+    "priority": false
+  },
+  {
+    "league": "S\u00fcper Lig",
+    "filters": [
+      "a_form_high",
+      "h_xg_high"
+    ],
+    "total_n": 458,
+    "overall_roi": 0.58,
+    "overall_hit": 27.29,
+    "windows": 6,
+    "consistency": 66.7,
+    "window_rois": [
+      -4.72,
+      11.75,
+      18.91,
+      -12.4,
+      38.15,
+      5.68
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie A",
+    "filters": [
+      "a_form_low",
+      "h_draw_high"
+    ],
+    "total_n": 515,
+    "overall_roi": 15.56,
+    "overall_hit": 31.07,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      -22.44,
+      20.1,
+      33.57,
+      36.72,
+      -42.82,
+      30.91,
+      -29.72,
+      26.44
+    ],
+    "priority": false
+  },
+  {
+    "league": "Eredivisie",
+    "filters": [
+      "h_form_mid",
+      "draw_rate_high"
+    ],
+    "total_n": 718,
+    "overall_roi": 13.02,
+    "overall_hit": 28.27,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      12.38,
+      29.5,
+      -22.88,
+      15.74,
+      5.83,
+      -26.11,
+      -15.5,
+      25.45
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "a_form_high",
+      "h_cs_high"
+    ],
+    "total_n": 480,
+    "overall_roi": 12.78,
+    "overall_hit": 32.29,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      6.71,
+      33.92,
+      -4.9,
+      29.84,
+      20.65,
+      28.18,
+      -4.21,
+      -23.61
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_cs_high",
+      "a_cs_high"
+    ],
+    "total_n": 621,
+    "overall_roi": 11.83,
+    "overall_hit": 32.05,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      -3.17,
+      28.16,
+      7.14,
+      -12.76,
+      42.76,
+      38.45,
+      7.61,
+      -6.21
+    ],
+    "priority": false
+  },
+  {
+    "league": "Eredivisie",
+    "filters": [
+      "h_form_mid",
+      "a_cs_high"
+    ],
+    "total_n": 592,
+    "overall_roi": 10.54,
+    "overall_hit": 28.04,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      56.64,
+      -19.35,
+      2.82,
+      13.76,
+      53.62,
+      -1.63,
+      -33.02,
+      1.08
+    ],
+    "priority": false
+  },
+  {
+    "league": "Ligue 1",
+    "filters": [
+      "h_form_high",
+      "a_form_high"
+    ],
+    "total_n": 505,
+    "overall_roi": 10.3,
+    "overall_hit": 28.71,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      -28.8,
+      20.28,
+      37.27,
+      -34.47,
+      33.34,
+      14.87,
+      -37.04,
+      22.05
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "a_cs_high",
+      "a_draw_high"
+    ],
+    "total_n": 783,
+    "overall_roi": 9.75,
+    "overall_hit": 31.55,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      5.8,
+      27.43,
+      -10.92,
+      -7.27,
+      -3.0,
+      52.55,
+      1.5,
+      18.75
+    ],
+    "priority": false
+  },
+  {
+    "league": "Eredivisie",
+    "filters": [
+      "h_cs_high",
+      "corners_low"
+    ],
+    "total_n": 952,
+    "overall_roi": 7.08,
+    "overall_hit": 26.05,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      43.15,
+      -37.47,
+      12.59,
+      9.87,
+      26.5,
+      -48.72,
+      -5.57,
+      31.3
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie A",
+    "filters": [
+      "a_away_low",
+      "corners_low"
+    ],
+    "total_n": 1248,
+    "overall_roi": 6.78,
+    "overall_hit": 28.93,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      5.27,
+      13.33,
+      6.21,
+      -17.84,
+      -48.78,
+      36.06,
+      4.46,
+      -12.07
+    ],
+    "priority": false
+  },
+  {
+    "league": "Eredivisie",
+    "filters": [
+      "a_form_high",
+      "h_draw_high"
+    ],
+    "total_n": 501,
+    "overall_roi": 6.34,
+    "overall_hit": 25.95,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      -14.66,
+      -15.0,
+      0.58,
+      30.72,
+      1.35,
+      35.15,
+      9.67,
+      -19.69
+    ],
+    "priority": false
+  },
+  {
+    "league": "Eredivisie",
+    "filters": [
+      "a_cs_high",
+      "corners_low"
+    ],
+    "total_n": 1015,
+    "overall_roi": 6.22,
+    "overall_hit": 27.0,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      21.65,
+      -8.89,
+      31.78,
+      -0.64,
+      43.78,
+      1.41,
+      6.43,
+      -6.41
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "a_form_high",
+      "a_cs_high"
+    ],
+    "total_n": 795,
+    "overall_roi": 5.88,
+    "overall_hit": 30.19,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      1.79,
+      29.44,
+      -26.56,
+      17.08,
+      18.41,
+      21.17,
+      -2.69,
+      -45.09
+    ],
+    "priority": false
+  },
+  {
+    "league": "Premier League",
+    "filters": [
+      "a_form_low",
+      "a_draw_high"
+    ],
+    "total_n": 441,
+    "overall_roi": 5.76,
+    "overall_hit": 26.53,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      15.59,
+      36.18,
+      -0.63,
+      11.09,
+      23.21,
+      -41.76,
+      40.57,
+      -23.46
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_xg_low",
+      "goals_low"
+    ],
+    "total_n": 1253,
+    "overall_roi": 5.52,
+    "overall_hit": 30.57,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      2.03,
+      11.78,
+      -0.0,
+      9.04,
+      -17.29,
+      33.25,
+      44.52,
+      -54.0
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_cs_high",
+      "corners_low"
+    ],
+    "total_n": 1145,
+    "overall_roi": 5.06,
+    "overall_hit": 29.87,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      -3.04,
+      16.18,
+      13.09,
+      9.66,
+      21.75,
+      18.07,
+      -6.81,
+      -20.17
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie A",
+    "filters": [
+      "a_away_low",
+      "goals_low"
+    ],
+    "total_n": 1441,
+    "overall_roi": 4.79,
+    "overall_hit": 28.11,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      -3.98,
+      7.53,
+      1.48,
+      -16.42,
+      -58.97,
+      20.44,
+      5.34,
+      12.38
+    ],
+    "priority": false
+  },
+  {
+    "league": "Eredivisie",
+    "filters": [
+      "h_form_mid",
+      "h_draw_high"
+    ],
+    "total_n": 695,
+    "overall_roi": 4.72,
+    "overall_hit": 26.04,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      -15.6,
+      7.93,
+      1.69,
+      19.36,
+      11.81,
+      -30.84,
+      11.09,
+      -1.73
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie A",
+    "filters": [
+      "a_away_low",
+      "h_cs_high"
+    ],
+    "total_n": 619,
+    "overall_roi": 4.65,
+    "overall_hit": 26.66,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      50.45,
+      14.21,
+      -18.89,
+      -39.38,
+      -46.09,
+      1.55,
+      22.5,
+      5.0
+    ],
+    "priority": false
+  },
+  {
+    "league": "Ligue 2",
+    "filters": [
+      "a_away_low",
+      "a_cs_high"
+    ],
+    "total_n": 512,
+    "overall_roi": 4.49,
+    "overall_hit": 33.4,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      14.59,
+      -20.65,
+      27.45,
+      2.76,
+      -54.33,
+      27.55,
+      -3.68,
+      54.15
+    ],
+    "priority": false
+  },
+  {
+    "league": "La Liga",
+    "filters": [
+      "a_form_high",
+      "a_draw_high"
+    ],
+    "total_n": 563,
+    "overall_roi": 4.23,
+    "overall_hit": 27.89,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      -51.87,
+      20.31,
+      71.67,
+      14.02,
+      -36.86,
+      7.84,
+      3.75,
+      -13.38
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "a_away_low",
+      "h_draw_high"
+    ],
+    "total_n": 420,
+    "overall_roi": 4.15,
+    "overall_hit": 29.76,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      0.19,
+      50.43,
+      4.66,
+      5.2,
+      -20.41,
+      -27.07,
+      29.17,
+      -44.8
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "a_form_low",
+      "h_draw_high"
+    ],
+    "total_n": 405,
+    "overall_roi": 3.82,
+    "overall_hit": 29.14,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      -0.93,
+      22.52,
+      1.97,
+      -7.09,
+      0.17,
+      12.19,
+      22.69,
+      -80.56
+    ],
+    "priority": false
+  },
+  {
+    "league": "Ligue 1",
+    "filters": [
+      "a_form_high",
+      "corners_low"
+    ],
+    "total_n": 1281,
+    "overall_roi": 3.3,
+    "overall_hit": 29.43,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      9.51,
+      0.67,
+      1.49,
+      -13.16,
+      7.6,
+      41.37,
+      -40.07,
+      -12.78
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_form_mid",
+      "h_cs_high"
+    ],
+    "total_n": 758,
+    "overall_roi": 3.24,
+    "overall_hit": 29.68,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      6.39,
+      -3.88,
+      42.92,
+      -15.0,
+      50.29,
+      12.24,
+      -8.53,
+      1.84
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_form_mid",
+      "a_form_high"
+    ],
+    "total_n": 544,
+    "overall_roi": 3.1,
+    "overall_hit": 29.41,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      14.14,
+      5.92,
+      -1.67,
+      21.47,
+      12.86,
+      -11.63,
+      6.25,
+      -33.6
+    ],
+    "priority": false
+  },
+  {
+    "league": "La Liga",
+    "filters": [
+      "a_form_high",
+      "h_cs_high"
+    ],
+    "total_n": 732,
+    "overall_roi": 2.42,
+    "overall_hit": 26.09,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      -29.55,
+      -25.0,
+      65.95,
+      19.33,
+      25.0,
+      44.3,
+      11.44,
+      -12.11
+    ],
+    "priority": false
+  },
+  {
+    "league": "Belgian Pro",
+    "filters": [
+      "a_form_high",
+      "corners_low"
+    ],
+    "total_n": 889,
+    "overall_roi": 2.29,
+    "overall_hit": 27.78,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      15.01,
+      9.4,
+      -24.79,
+      1.8,
+      -1.26,
+      60.27,
+      40.09,
+      -32.12
+    ],
+    "priority": false
+  },
+  {
+    "league": "Eredivisie",
+    "filters": [
+      "corners_low",
+      "h_draw_high"
+    ],
+    "total_n": 1110,
+    "overall_roi": 2.21,
+    "overall_hit": 25.77,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      7.98,
+      -3.54,
+      22.03,
+      -15.79,
+      8.95,
+      -32.15,
+      48.27,
+      15.98
+    ],
+    "priority": false
+  },
+  {
+    "league": "Belgian Pro",
+    "filters": [
+      "h_form_mid",
+      "a_form_high"
+    ],
+    "total_n": 517,
+    "overall_roi": 2.05,
+    "overall_hit": 27.85,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      53.93,
+      6.54,
+      -45.39,
+      10.71,
+      -5.66,
+      34.09,
+      27.7,
+      -32.91
+    ],
+    "priority": false
+  },
+  {
+    "league": "Ligue 2",
+    "filters": [
+      "h_form_mid",
+      "a_form_high"
+    ],
+    "total_n": 745,
+    "overall_roi": 1.98,
+    "overall_hit": 32.75,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      25.21,
+      9.69,
+      2.71,
+      14.23,
+      -6.37,
+      -3.84,
+      9.76,
+      -1.03
+    ],
+    "priority": false
+  },
+  {
+    "league": "Ligue 1",
+    "filters": [
+      "a_form_high",
+      "a_draw_high"
+    ],
+    "total_n": 672,
+    "overall_roi": 1.97,
+    "overall_hit": 29.61,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      36.06,
+      8.48,
+      -11.55,
+      10.71,
+      -51.92,
+      19.67,
+      -4.69,
+      14.02
+    ],
+    "priority": false
+  },
+  {
+    "league": "Eredivisie",
+    "filters": [
+      "draw_rate_high",
+      "h_draw_high"
+    ],
+    "total_n": 1081,
+    "overall_roi": 1.84,
+    "overall_hit": 25.53,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      2.73,
+      8.06,
+      -16.67,
+      3.75,
+      -11.35,
+      -29.38,
+      28.0,
+      2.59
+    ],
+    "priority": false
+  },
+  {
+    "league": "Eredivisie",
+    "filters": [
+      "h_form_mid",
+      "corners_low"
+    ],
+    "total_n": 1323,
+    "overall_roi": 1.81,
+    "overall_hit": 26.15,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      5.76,
+      3.82,
+      8.17,
+      -25.74,
+      15.25,
+      -30.52,
+      -32.3,
+      26.46
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_form_low",
+      "draw_rate_high"
+    ],
+    "total_n": 548,
+    "overall_roi": 1.73,
+    "overall_hit": 29.74,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      57.21,
+      -12.0,
+      -8.18,
+      10.83,
+      18.29,
+      22.05,
+      21.75,
+      -23.39
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "corners_low",
+      "h_draw_high"
+    ],
+    "total_n": 1251,
+    "overall_roi": 1.55,
+    "overall_hit": 29.18,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      0.5,
+      8.3,
+      4.13,
+      14.57,
+      -19.91,
+      -12.7,
+      17.53,
+      -31.71
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "a_form_low",
+      "a_away_low"
+    ],
+    "total_n": 477,
+    "overall_roi": 1.52,
+    "overall_hit": 28.3,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      19.07,
+      30.1,
+      32.8,
+      -29.61,
+      -18.96,
+      2.22,
+      7.58,
+      -38.1
+    ],
+    "priority": false
+  },
+  {
+    "league": "Ligue 2",
+    "filters": [
+      "h_home_low",
+      "corners_low"
+    ],
+    "total_n": 452,
+    "overall_roi": 1.41,
+    "overall_hit": 32.74,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      7.39,
+      -32.81,
+      57.16,
+      14.53,
+      -28.58,
+      9.0,
+      -36.67,
+      48.29
+    ],
+    "priority": false
+  },
+  {
+    "league": "Ligue 1",
+    "filters": [
+      "a_form_high",
+      "h_draw_high"
+    ],
+    "total_n": 687,
+    "overall_roi": 1.4,
+    "overall_hit": 28.68,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      7.94,
+      -7.21,
+      5.84,
+      -18.21,
+      17.69,
+      42.6,
+      -27.26,
+      15.74
+    ],
+    "priority": false
+  },
+  {
+    "league": "Ligue 1",
+    "filters": [
+      "a_form_high",
+      "goals_low"
+    ],
+    "total_n": 1573,
+    "overall_roi": 1.29,
+    "overall_hit": 28.29,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      8.46,
+      2.37,
+      -11.48,
+      -25.22,
+      7.63,
+      32.79,
+      -24.89,
+      6.17
+    ],
+    "priority": false
+  },
+  {
+    "league": "La Liga",
+    "filters": [
+      "a_form_high",
+      "a_cs_high"
+    ],
+    "total_n": 1192,
+    "overall_roi": 1.29,
+    "overall_hit": 26.26,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      -11.18,
+      -16.81,
+      33.06,
+      24.06,
+      0.1,
+      13.51,
+      7.66,
+      -12.73
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_cs_high",
+      "a_draw_high"
+    ],
+    "total_n": 674,
+    "overall_roi": 1.26,
+    "overall_hit": 29.08,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      12.64,
+      16.99,
+      5.08,
+      -13.85,
+      25.63,
+      39.87,
+      -16.96,
+      -23.84
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "a_form_mid",
+      "a_draw_high"
+    ],
+    "total_n": 893,
+    "overall_roi": 1.25,
+    "overall_hit": 28.89,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      3.24,
+      13.41,
+      24.62,
+      -10.61,
+      -5.89,
+      4.25,
+      28.0,
+      -1.12
+    ],
+    "priority": false
+  },
+  {
+    "league": "La Liga",
+    "filters": [
+      "h_form_low",
+      "a_away_low"
+    ],
+    "total_n": 515,
+    "overall_roi": 0.97,
+    "overall_hit": 29.9,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      33.33,
+      19.31,
+      -5.89,
+      -24.52,
+      18.54,
+      28.83,
+      -65.46,
+      20.34
+    ],
+    "priority": false
+  },
+  {
+    "league": "Ligue 2",
+    "filters": [
+      "a_away_low",
+      "a_draw_high"
+    ],
+    "total_n": 650,
+    "overall_roi": 0.81,
+    "overall_hit": 31.85,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      5.68,
+      -6.04,
+      17.6,
+      -43.16,
+      -82.35,
+      21.79,
+      10.36,
+      4.88
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie A",
+    "filters": [
+      "a_form_mid",
+      "h_xg_low"
+    ],
+    "total_n": 1080,
+    "overall_roi": 0.8,
+    "overall_hit": 28.8,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      10.54,
+      14.82,
+      -9.7,
+      -24.41,
+      -28.42,
+      41.43,
+      35.5,
+      17.11
+    ],
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_cs_high",
+      "draw_rate_high"
+    ],
+    "total_n": 767,
+    "overall_roi": 0.64,
+    "overall_hit": 28.68,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      -22.49,
+      8.54,
+      9.38,
+      -3.68,
+      35.62,
+      56.49,
+      3.41,
+      -27.62
+    ],
+    "priority": false
+  },
+  {
+    "league": "La Liga",
+    "filters": [
+      "a_away_low",
+      "draw_rate_high"
+    ],
+    "total_n": 687,
+    "overall_roi": 0.58,
+    "overall_hit": 28.38,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      31.76,
+      4.02,
+      31.12,
+      -5.0,
+      7.03,
+      26.09,
+      -13.96,
+      -7.54
+    ],
+    "priority": false
+  },
+  {
+    "league": "Serie A",
+    "filters": [
+      "a_form_mid",
+      "a_cs_high"
+    ],
+    "total_n": 988,
+    "overall_roi": 0.46,
+    "overall_hit": 27.83,
+    "windows": 8,
+    "consistency": 62.5,
+    "window_rois": [
+      14.11,
+      6.81,
+      -15.11,
+      -54.56,
+      7.37,
+      27.41,
+      -49.48,
+      46.59
+    ],
+    "priority": false
+  }
+]
