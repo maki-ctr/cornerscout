@@ -1,0 +1,86 @@
+{
+  "Premier League": {
+    "threshold": 0.34,
+    "roi%": -2.66,
+    "n": 1035,
+    "hit%": 25.99
+  },
+  "Championship": {
+    "threshold": 0.23,
+    "roi%": -4.43,
+    "n": 4784,
+    "hit%": 27.26
+  },
+  "Ligue 1": {
+    "threshold": 0.29,
+    "roi%": -3.17,
+    "n": 2090,
+    "hit%": 28.13
+  },
+  "Ligue 2": {
+    "threshold": 0.2,
+    "roi%": -3.86,
+    "n": 4191,
+    "hit%": 30.66
+  },
+  "Bundesliga": {
+    "threshold": 0.34,
+    "roi%": -3.16,
+    "n": 797,
+    "hit%": 25.22
+  },
+  "2. Bundesliga": {
+    "threshold": 0.22,
+    "roi%": 0.87,
+    "n": 2755,
+    "hit%": 28.82
+  },
+  "Eredivisie": {
+    "threshold": 0.24,
+    "roi%": -3.1,
+    "n": 2325,
+    "hit%": 24.04
+  },
+  "Primeira Liga": {
+    "threshold": 0.22,
+    "roi%": -9.44,
+    "n": 2282,
+    "hit%": 26.34
+  },
+  "Serie A": {
+    "threshold": 0.27,
+    "roi%": -4.86,
+    "n": 2049,
+    "hit%": 26.45
+  },
+  "Serie B": {
+    "threshold": 0.33,
+    "roi%": 5.27,
+    "n": 1488,
+    "hit%": 33.0
+  },
+  "La Liga": {
+    "threshold": 0.34,
+    "roi%": -0.11,
+    "n": 1139,
+    "hit%": 28.27
+  },
+  "Belgian Pro": {
+    "threshold": 0.33,
+    "roi%": -6.41,
+    "n": 823,
+    "hit%": 25.27
+  },
+  "Scottish Prem": {
+    "threshold": 0.26,
+    "roi%": 0.12,
+    "n": 1135,
+    "hit%": 28.02
+  },
+  "S\u00fcper Lig": {
+    "threshold": 0.3,
+    "roi%": -5.91,
+    "n": 1354,
+    "hit%": 26.88
+  }
+}
