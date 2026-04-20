@@ -1,6 +1,6 @@
 # CornerScout SYSTEM STATE
 
-_Auto-generated 2026-04-20 15:36_
+_Auto-generated 2026-04-20 15:49_
 
 
 ## Strategy Pool
@@ -10,6 +10,7 @@ _Auto-generated 2026-04-20 15:36_
 
 ## Active Rules
 - Signals required: **exactly 2**
+- Negative filter: **a_form_pts ≤ 2 excluded**
 - Paused: ['Bundesliga']
 - Monitor (0.5x): ['Belgian Pro']
 - Championship ×2.0
