@@ -1,0 +1,4482 @@
+[
+  {
+    "league": "Championship",
+    "filters": [
+      "h_form_mid",
+      "a_form_high"
+    ],
+    "overall_roi": 3.64,
+    "consistency": 75.0,
+    "best_months": [
+      7,
+      8,
+      4
+    ],
+    "worst_months": [
+      2,
+      3
+    ],
+    "stake_by_month": {
+      "1": 0.5,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.75,
+      "5": 0.5,
+      "6": 0.5,
+      "7": 0.75,
+      "8": 0.75,
+      "9": 0.5,
+      "10": 0.5,
+      "11": 0.5,
+      "12": 0.5
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": true
+  },
+  {
+    "league": "Championship",
+    "filters": [
+      "h_form_high",
+      "h_cs_high"
+    ],
+    "overall_roi": 0.75,
+    "consistency": 75.0,
+    "best_months": [
+      6,
+      5,
+      12
+    ],
+    "worst_months": [
+      11,
+      7
+    ],
+    "stake_by_month": {
+      "1": 0.5,
+      "2": 0.5,
+      "3": 0.5,
+      "4": 0.5,
+      "5": 0.75,
+      "6": 0.75,
+      "7": 0.25,
+      "8": 0.5,
+      "9": 0.5,
+      "10": 0.5,
+      "11": 0.25,
+      "12": 0.75
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": true
+  },
+  {
+    "league": "Championship",
+    "filters": [
+      "a_away_low",
+      "h_xg_high"
+    ],
+    "overall_roi": 1.4,
+    "consistency": 66.7,
+    "best_months": [
+      5,
+      1,
+      12
+    ],
+    "worst_months": [
+      2,
+      11
+    ],
+    "stake_by_month": {
+      "1": 0.75,
+      "2": 0.25,
+      "3": 0.5,
+      "4": 0.5,
+      "5": 0.75,
+      "6": 0.5,
+      "7": 0.5,
+      "8": 0.5,
+      "9": 0.5,
+      "10": 0.5,
+      "11": 0.25,
+      "12": 0.75
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": true
+  },
+  {
+    "league": "Championship",
+    "filters": [
+      "a_form_low",
+      "a_draw_high"
+    ],
+    "overall_roi": 3.5,
+    "consistency": 62.5,
+    "best_months": [
+      11,
+      8,
+      4
+    ],
+    "worst_months": [
+      1,
+      7
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.5,
+      "3": 0.5,
+      "4": 0.75,
+      "5": 0.5,
+      "6": 0.5,
+      "7": 0.25,
+      "8": 0.75,
+      "9": 0.5,
+      "10": 0.5,
+      "11": 0.75,
+      "12": 0.5
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": true
+  },
+  {
+    "league": "Championship",
+    "filters": [
+      "h_form_high",
+      "a_cs_high"
+    ],
+    "overall_roi": 2.98,
+    "consistency": 62.5,
+    "best_months": [
+      6,
+      5,
+      10
+    ],
+    "worst_months": [
+      1,
+      7
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.5,
+      "3": 0.5,
+      "4": 0.5,
+      "5": 0.75,
+      "6": 0.75,
+      "7": 0.25,
+      "8": 0.5,
+      "9": 0.5,
+      "10": 0.75,
+      "11": 0.5,
+      "12": 0.5
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": true
+  },
+  {
+    "league": "Championship",
+    "filters": [
+      "a_form_low",
+      "draw_rate_high"
+    ],
+    "overall_roi": 2.09,
+    "consistency": 62.5,
+    "best_months": [
+      10,
+      8,
+      11
+    ],
+    "worst_months": [
+      1,
+      7
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.5,
+      "3": 0.5,
+      "4": 0.5,
+      "5": 0.5,
+      "6": 0.5,
+      "7": 0.25,
+      "8": 0.75,
+      "9": 0.5,
+      "10": 0.75,
+      "11": 0.75,
+      "12": 0.5
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": true
+  },
+  {
+    "league": "Championship",
+    "filters": [
+      "h_cs_high",
+      "a_draw_high"
+    ],
+    "overall_roi": 2.08,
+    "consistency": 62.5,
+    "best_months": [
+      6,
+      9,
+      12
+    ],
+    "worst_months": [
+      1,
+      2
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.5,
+      "4": 0.5,
+      "5": 0.5,
+      "6": 0.75,
+      "7": 0.5,
+      "8": 0.5,
+      "9": 0.75,
+      "10": 0.5,
+      "11": 0.5,
+      "12": 0.75
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": true
+  },
+  {
+    "league": "Championship",
+    "filters": [
+      "a_form_low",
+      "h_draw_high"
+    ],
+    "overall_roi": 0.93,
+    "consistency": 62.5,
+    "best_months": [
+      8,
+      10,
+      9
+    ],
+    "worst_months": [
+      5,
+      7
+    ],
+    "stake_by_month": {
+      "1": 0.5,
+      "2": 0.5,
+      "3": 0.5,
+      "4": 0.5,
+      "5": 0.25,
+      "6": 0.5,
+      "7": 0.25,
+      "8": 0.75,
+      "9": 0.75,
+      "10": 0.75,
+      "11": 0.5,
+      "12": 0.5
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": true
+  },
+  {
+    "league": "Championship",
+    "filters": [
+      "h_cs_high",
+      "corners_low"
+    ],
+    "overall_roi": 0.57,
+    "consistency": 62.5,
+    "best_months": [
+      6,
+      12,
+      9
+    ],
+    "worst_months": [
+      2,
+      7
+    ],
+    "stake_by_month": {
+      "1": 0.5,
+      "2": 0.25,
+      "3": 0.5,
+      "4": 0.5,
+      "5": 0.5,
+      "6": 0.75,
+      "7": 0.25,
+      "8": 0.5,
+      "9": 0.75,
+      "10": 0.5,
+      "11": 0.5,
+      "12": 0.75
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": true
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "h_form_mid",
+      "a_form_high"
+    ],
+    "overall_roi": 22.0,
+    "consistency": 100.0,
+    "best_months": [
+      6,
+      9,
+      1
+    ],
+    "worst_months": [
+      5,
+      7
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.125,
+      "6": 0.375,
+      "7": 0.125,
+      "8": 0.25,
+      "9": 0.375,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "h_home_low",
+      "draw_rate_high"
+    ],
+    "overall_roi": 11.71,
+    "consistency": 100.0,
+    "best_months": [
+      1,
+      9,
+      11
+    ],
+    "worst_months": [
+      2,
+      5
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.125,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.125,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.375,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Ligue 2",
+    "filters": [
+      "a_away_low",
+      "a_xg_low"
+    ],
+    "overall_roi": 5.17,
+    "consistency": 100.0,
+    "best_months": [
+      7,
+      3,
+      2
+    ],
+    "worst_months": [
+      5,
+      10
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.375,
+      "3": 0.375,
+      "4": 0.25,
+      "5": 0.125,
+      "6": 0.25,
+      "7": 0.375,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.125,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie A",
+    "filters": [
+      "a_form_mid",
+      "a_xg_low"
+    ],
+    "overall_roi": 2.72,
+    "consistency": 100.0,
+    "best_months": [
+      11,
+      8,
+      2
+    ],
+    "worst_months": [
+      9,
+      5
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.375,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.125,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.375,
+      "9": 0.125,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie A",
+    "filters": [
+      "h_cs_high",
+      "a_xg_low"
+    ],
+    "overall_roi": 1.86,
+    "consistency": 100.0,
+    "best_months": [
+      11,
+      5,
+      12
+    ],
+    "worst_months": [
+      4,
+      8
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.125,
+      "5": 0.375,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.125,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie A",
+    "filters": [
+      "a_away_low",
+      "h_draw_high"
+    ],
+    "overall_roi": 17.06,
+    "consistency": 87.5,
+    "best_months": [
+      2,
+      4,
+      12
+    ],
+    "worst_months": [
+      3,
+      7
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.375,
+      "3": 0.125,
+      "4": 0.375,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.125,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "a_form_mid",
+      "a_cs_high"
+    ],
+    "overall_roi": 13.12,
+    "consistency": 87.5,
+    "best_months": [
+      3,
+      6,
+      11
+    ],
+    "worst_months": [
+      1,
+      12
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.375,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.125
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Eredivisie",
+    "filters": [
+      "a_cs_high",
+      "h_draw_high"
+    ],
+    "overall_roi": 10.99,
+    "consistency": 87.5,
+    "best_months": [
+      11,
+      3,
+      12
+    ],
+    "worst_months": [
+      2,
+      8
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.125,
+      "3": 0.375,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.125,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Scottish Prem",
+    "filters": [
+      "h_cs_high",
+      "draw_rate_high"
+    ],
+    "overall_roi": 5.14,
+    "consistency": 85.7,
+    "best_months": [
+      11,
+      4,
+      3
+    ],
+    "worst_months": [
+      10,
+      9
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.375,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.125,
+      "10": 0.125,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "a_form_mid",
+      "h_xg_low"
+    ],
+    "overall_roi": 19.18,
+    "consistency": 80.0,
+    "best_months": [
+      3,
+      12,
+      2
+    ],
+    "worst_months": [
+      5,
+      8
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.375,
+      "3": 0.375,
+      "4": 0.25,
+      "5": 0.125,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.125,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "h_cs_high",
+      "a_cs_high"
+    ],
+    "overall_roi": 14.05,
+    "consistency": 80.0,
+    "best_months": [
+      5,
+      12,
+      1
+    ],
+    "worst_months": [
+      8,
+      6
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.375,
+      "6": 0.125,
+      "7": 0.25,
+      "8": 0.125,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "h_xg_low",
+      "draw_rate_high"
+    ],
+    "overall_roi": 13.78,
+    "consistency": 80.0,
+    "best_months": [
+      3,
+      2,
+      12
+    ],
+    "worst_months": [
+      4,
+      5
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.375,
+      "3": 0.375,
+      "4": 0.125,
+      "5": 0.125,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "h_xg_low",
+      "goals_low"
+    ],
+    "overall_roi": 12.46,
+    "consistency": 80.0,
+    "best_months": [
+      12,
+      3,
+      2
+    ],
+    "worst_months": [
+      7,
+      8
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.375,
+      "3": 0.375,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.125,
+      "8": 0.125,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "h_form_mid",
+      "a_cs_high"
+    ],
+    "overall_roi": 12.35,
+    "consistency": 80.0,
+    "best_months": [
+      6,
+      9,
+      11
+    ],
+    "worst_months": [
+      8,
+      7
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.375,
+      "7": 0.125,
+      "8": 0.125,
+      "9": 0.375,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "a_cs_high",
+      "h_draw_high"
+    ],
+    "overall_roi": 11.65,
+    "consistency": 80.0,
+    "best_months": [
+      6,
+      9,
+      11
+    ],
+    "worst_months": [
+      8,
+      7
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.375,
+      "7": 0.125,
+      "8": 0.125,
+      "9": 0.375,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "a_form_mid",
+      "h_cs_high"
+    ],
+    "overall_roi": 10.75,
+    "consistency": 80.0,
+    "best_months": [
+      7,
+      11,
+      4
+    ],
+    "worst_months": [
+      5,
+      8
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.375,
+      "5": 0.125,
+      "6": 0.25,
+      "7": 0.375,
+      "8": 0.125,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "a_cs_high",
+      "draw_rate_high"
+    ],
+    "overall_roi": 9.97,
+    "consistency": 80.0,
+    "best_months": [
+      6,
+      1,
+      9
+    ],
+    "worst_months": [
+      4,
+      8
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.125,
+      "5": 0.25,
+      "6": 0.375,
+      "7": 0.25,
+      "8": 0.125,
+      "9": 0.375,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "a_form_mid",
+      "a_cs_high"
+    ],
+    "overall_roi": 9.76,
+    "consistency": 80.0,
+    "best_months": [
+      4,
+      11,
+      7
+    ],
+    "worst_months": [
+      8,
+      6
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.375,
+      "5": 0.25,
+      "6": 0.125,
+      "7": 0.375,
+      "8": 0.125,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "a_cs_high",
+      "a_draw_high"
+    ],
+    "overall_roi": 8.62,
+    "consistency": 80.0,
+    "best_months": [
+      6,
+      1,
+      9
+    ],
+    "worst_months": [
+      11,
+      4
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.125,
+      "5": 0.25,
+      "6": 0.375,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.375,
+      "10": 0.25,
+      "11": 0.125,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "a_cs_high",
+      "goals_low"
+    ],
+    "overall_roi": 8.47,
+    "consistency": 80.0,
+    "best_months": [
+      11,
+      9,
+      12
+    ],
+    "worst_months": [
+      7,
+      8
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.125,
+      "8": 0.125,
+      "9": 0.375,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "h_cs_high",
+      "a_draw_high"
+    ],
+    "overall_roi": 8.23,
+    "consistency": 80.0,
+    "best_months": [
+      7,
+      6,
+      8
+    ],
+    "worst_months": [
+      5,
+      11
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.125,
+      "6": 0.375,
+      "7": 0.375,
+      "8": 0.375,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.125,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Ligue 2",
+    "filters": [
+      "h_home_low",
+      "h_xg_low"
+    ],
+    "overall_roi": 7.54,
+    "consistency": 80.0,
+    "best_months": [
+      2,
+      10,
+      3
+    ],
+    "worst_months": [
+      11,
+      4
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.375,
+      "3": 0.375,
+      "4": 0.125,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.375,
+      "11": 0.125,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie A",
+    "filters": [
+      "a_form_mid",
+      "h_home_low"
+    ],
+    "overall_roi": 7.01,
+    "consistency": 80.0,
+    "best_months": [
+      7,
+      12,
+      5
+    ],
+    "worst_months": [
+      4,
+      8
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.125,
+      "5": 0.375,
+      "6": 0.25,
+      "7": 0.375,
+      "8": 0.125,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "a_form_high",
+      "a_cs_high"
+    ],
+    "overall_roi": 6.82,
+    "consistency": 80.0,
+    "best_months": [
+      6,
+      1,
+      9
+    ],
+    "worst_months": [
+      4,
+      7
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.125,
+      "5": 0.25,
+      "6": 0.375,
+      "7": 0.125,
+      "8": 0.25,
+      "9": 0.375,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "a_form_high",
+      "h_cs_high"
+    ],
+    "overall_roi": 6.71,
+    "consistency": 80.0,
+    "best_months": [
+      2,
+      9,
+      1
+    ],
+    "worst_months": [
+      7,
+      11
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.375,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.125,
+      "8": 0.25,
+      "9": 0.375,
+      "10": 0.25,
+      "11": 0.125,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "a_form_mid",
+      "h_draw_high"
+    ],
+    "overall_roi": 6.68,
+    "consistency": 80.0,
+    "best_months": [
+      6,
+      9,
+      3
+    ],
+    "worst_months": [
+      1,
+      7
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.375,
+      "7": 0.125,
+      "8": 0.25,
+      "9": 0.375,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "a_cs_high",
+      "corners_low"
+    ],
+    "overall_roi": 6.22,
+    "consistency": 80.0,
+    "best_months": [
+      9,
+      12,
+      11
+    ],
+    "worst_months": [
+      6,
+      8
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.125,
+      "7": 0.25,
+      "8": 0.125,
+      "9": 0.375,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "h_cs_high",
+      "draw_rate_high"
+    ],
+    "overall_roi": 5.26,
+    "consistency": 80.0,
+    "best_months": [
+      6,
+      4,
+      1
+    ],
+    "worst_months": [
+      11,
+      7
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.375,
+      "5": 0.25,
+      "6": 0.375,
+      "7": 0.125,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.125,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "goals_low",
+      "h_draw_high"
+    ],
+    "overall_roi": 4.63,
+    "consistency": 80.0,
+    "best_months": [
+      6,
+      11,
+      9
+    ],
+    "worst_months": [
+      8,
+      7
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.375,
+      "7": 0.125,
+      "8": 0.125,
+      "9": 0.375,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "goals_low",
+      "draw_rate_high"
+    ],
+    "overall_roi": 4.02,
+    "consistency": 80.0,
+    "best_months": [
+      6,
+      9,
+      4
+    ],
+    "worst_months": [
+      5,
+      7
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.375,
+      "5": 0.125,
+      "6": 0.375,
+      "7": 0.125,
+      "8": 0.25,
+      "9": 0.375,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "draw_rate_high",
+      "h_draw_high"
+    ],
+    "overall_roi": 3.99,
+    "consistency": 80.0,
+    "best_months": [
+      6,
+      9,
+      10
+    ],
+    "worst_months": [
+      8,
+      7
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.375,
+      "7": 0.125,
+      "8": 0.125,
+      "9": 0.375,
+      "10": 0.375,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "a_form_high",
+      "h_draw_high"
+    ],
+    "overall_roi": 2.66,
+    "consistency": 80.0,
+    "best_months": [
+      1,
+      2,
+      9
+    ],
+    "worst_months": [
+      3,
+      7
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.375,
+      "3": 0.125,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.125,
+      "8": 0.25,
+      "9": 0.375,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "S\u00fcper Lig",
+    "filters": [
+      "h_form_mid",
+      "h_xg_low"
+    ],
+    "overall_roi": 2.51,
+    "consistency": 80.0,
+    "best_months": [
+      5,
+      11,
+      12
+    ],
+    "worst_months": [
+      2,
+      1
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.125,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.375,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "h_home_low",
+      "goals_low"
+    ],
+    "overall_roi": 0.95,
+    "consistency": 80.0,
+    "best_months": [
+      1,
+      9,
+      11
+    ],
+    "worst_months": [
+      5,
+      8
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.125,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.125,
+      "9": 0.375,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie B",
+    "filters": [
+      "h_form_mid",
+      "h_xg_high"
+    ],
+    "overall_roi": 0.28,
+    "consistency": 80.0,
+    "best_months": [
+      11,
+      5,
+      4
+    ],
+    "worst_months": [
+      12,
+      8
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.375,
+      "5": 0.375,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.125,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.125
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_form_mid",
+      "a_cs_high"
+    ],
+    "overall_roi": 11.99,
+    "consistency": 75.0,
+    "best_months": [
+      10,
+      11,
+      3
+    ],
+    "worst_months": [
+      12,
+      1
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.375,
+      "11": 0.375,
+      "12": 0.125
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "a_cs_high",
+      "corners_low"
+    ],
+    "overall_roi": 10.3,
+    "consistency": 75.0,
+    "best_months": [
+      2,
+      4,
+      7
+    ],
+    "worst_months": [
+      1,
+      5
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.375,
+      "3": 0.25,
+      "4": 0.375,
+      "5": 0.125,
+      "6": 0.25,
+      "7": 0.375,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "a_cs_high",
+      "goals_low"
+    ],
+    "overall_roi": 9.22,
+    "consistency": 75.0,
+    "best_months": [
+      10,
+      2,
+      3
+    ],
+    "worst_months": [
+      12,
+      5
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.375,
+      "3": 0.375,
+      "4": 0.25,
+      "5": 0.125,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.375,
+      "11": 0.25,
+      "12": 0.125
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "a_cs_high",
+      "h_draw_high"
+    ],
+    "overall_roi": 7.81,
+    "consistency": 75.0,
+    "best_months": [
+      10,
+      3,
+      9
+    ],
+    "worst_months": [
+      5,
+      1
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.25,
+      "5": 0.125,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.375,
+      "10": 0.375,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_xg_low",
+      "corners_low"
+    ],
+    "overall_roi": 4.85,
+    "consistency": 75.0,
+    "best_months": [
+      6,
+      7,
+      3
+    ],
+    "worst_months": [
+      5,
+      1
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.25,
+      "5": 0.125,
+      "6": 0.375,
+      "7": 0.375,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "a_form_high",
+      "goals_low"
+    ],
+    "overall_roi": 4.66,
+    "consistency": 75.0,
+    "best_months": [
+      8,
+      4,
+      10
+    ],
+    "worst_months": [
+      5,
+      6
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.375,
+      "5": 0.125,
+      "6": 0.125,
+      "7": 0.25,
+      "8": 0.375,
+      "9": 0.25,
+      "10": 0.375,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_draw_high",
+      "a_draw_high"
+    ],
+    "overall_roi": 4.15,
+    "consistency": 75.0,
+    "best_months": [
+      11,
+      10,
+      3
+    ],
+    "worst_months": [
+      5,
+      1
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.25,
+      "5": 0.125,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.375,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_cs_high",
+      "goals_low"
+    ],
+    "overall_roi": 3.94,
+    "consistency": 75.0,
+    "best_months": [
+      10,
+      8,
+      9
+    ],
+    "worst_months": [
+      7,
+      6
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.125,
+      "7": 0.125,
+      "8": 0.375,
+      "9": 0.375,
+      "10": 0.375,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Ligue 1",
+    "filters": [
+      "h_form_high",
+      "corners_low"
+    ],
+    "overall_roi": 2.74,
+    "consistency": 75.0,
+    "best_months": [
+      8,
+      9,
+      3
+    ],
+    "worst_months": [
+      4,
+      1
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.125,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.375,
+      "9": 0.375,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_form_mid",
+      "corners_low"
+    ],
+    "overall_roi": 2.69,
+    "consistency": 75.0,
+    "best_months": [
+      3,
+      4,
+      10
+    ],
+    "worst_months": [
+      7,
+      1
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.375,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.125,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.375,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Belgian Pro",
+    "filters": [
+      "h_form_high",
+      "a_cs_high"
+    ],
+    "overall_roi": 2.43,
+    "consistency": 75.0,
+    "best_months": [
+      5,
+      11,
+      8
+    ],
+    "worst_months": [
+      3,
+      4
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.125,
+      "3": 0.125,
+      "4": 0.125,
+      "5": 0.125,
+      "6": 0.125,
+      "7": 0.125,
+      "8": 0.125,
+      "9": 0.125,
+      "10": 0.125,
+      "11": 0.125,
+      "12": 0.125
+    },
+    "paused": false,
+    "monitor": true,
+    "priority": false
+  },
+  {
+    "league": "Belgian Pro",
+    "filters": [
+      "a_form_high",
+      "goals_low"
+    ],
+    "overall_roi": 2.4,
+    "consistency": 75.0,
+    "best_months": [
+      7,
+      2,
+      9
+    ],
+    "worst_months": [
+      3,
+      5
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.125,
+      "3": 0.125,
+      "4": 0.125,
+      "5": 0.125,
+      "6": 0.125,
+      "7": 0.125,
+      "8": 0.125,
+      "9": 0.125,
+      "10": 0.125,
+      "11": 0.125,
+      "12": 0.125
+    },
+    "paused": false,
+    "monitor": true,
+    "priority": false
+  },
+  {
+    "league": "La Liga",
+    "filters": [
+      "h_form_high",
+      "a_form_high"
+    ],
+    "overall_roi": 2.34,
+    "consistency": 75.0,
+    "best_months": [
+      6,
+      12,
+      8
+    ],
+    "worst_months": [
+      1,
+      4
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.125,
+      "5": 0.25,
+      "6": 0.375,
+      "7": 0.25,
+      "8": 0.375,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Ligue 2",
+    "filters": [
+      "a_away_low",
+      "h_cs_high"
+    ],
+    "overall_roi": 1.98,
+    "consistency": 75.0,
+    "best_months": [
+      7,
+      3,
+      11
+    ],
+    "worst_months": [
+      10,
+      5
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.25,
+      "5": 0.125,
+      "6": 0.25,
+      "7": 0.375,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.125,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Primeira Liga",
+    "filters": [
+      "h_form_mid",
+      "a_form_mid"
+    ],
+    "overall_roi": 1.85,
+    "consistency": 75.0,
+    "best_months": [
+      9,
+      4,
+      3
+    ],
+    "worst_months": [
+      8,
+      11
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.375,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.125,
+      "9": 0.375,
+      "10": 0.25,
+      "11": 0.125,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Premier League",
+    "filters": [
+      "a_cs_high",
+      "draw_rate_high"
+    ],
+    "overall_roi": 1.74,
+    "consistency": 75.0,
+    "best_months": [
+      2,
+      11,
+      4
+    ],
+    "worst_months": [
+      7,
+      6
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.375,
+      "3": 0.25,
+      "4": 0.375,
+      "5": 0.25,
+      "6": 0.125,
+      "7": 0.125,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Ligue 2",
+    "filters": [
+      "a_away_low",
+      "corners_low"
+    ],
+    "overall_roi": 0.77,
+    "consistency": 75.0,
+    "best_months": [
+      7,
+      3,
+      4
+    ],
+    "worst_months": [
+      10,
+      5
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.375,
+      "5": 0.125,
+      "6": 0.25,
+      "7": 0.375,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.125,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Belgian Pro",
+    "filters": [
+      "a_form_high",
+      "a_xg_low"
+    ],
+    "overall_roi": 0.6,
+    "consistency": 75.0,
+    "best_months": [
+      8,
+      9,
+      12
+    ],
+    "worst_months": [
+      10,
+      3
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.125,
+      "3": 0.125,
+      "4": 0.125,
+      "5": 0.125,
+      "6": 0.125,
+      "7": 0.125,
+      "8": 0.125,
+      "9": 0.125,
+      "10": 0.125,
+      "11": 0.125,
+      "12": 0.125
+    },
+    "paused": false,
+    "monitor": true,
+    "priority": false
+  },
+  {
+    "league": "Ligue 2",
+    "filters": [
+      "h_form_high",
+      "h_draw_high"
+    ],
+    "overall_roi": 0.42,
+    "consistency": 75.0,
+    "best_months": [
+      8,
+      9,
+      3
+    ],
+    "worst_months": [
+      4,
+      10
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.125,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.375,
+      "9": 0.375,
+      "10": 0.125,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Scottish Prem",
+    "filters": [
+      "a_form_mid",
+      "h_draw_high"
+    ],
+    "overall_roi": 9.23,
+    "consistency": 71.4,
+    "best_months": [
+      4,
+      11,
+      5
+    ],
+    "worst_months": [
+      3,
+      10
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.125,
+      "4": 0.375,
+      "5": 0.375,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.125,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Scottish Prem",
+    "filters": [
+      "a_form_mid",
+      "draw_rate_high"
+    ],
+    "overall_roi": 9.09,
+    "consistency": 71.4,
+    "best_months": [
+      3,
+      2,
+      4
+    ],
+    "worst_months": [
+      8,
+      10
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.375,
+      "3": 0.375,
+      "4": 0.375,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.125,
+      "9": 0.25,
+      "10": 0.125,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "La Liga",
+    "filters": [
+      "a_form_high",
+      "h_xg_high"
+    ],
+    "overall_roi": 7.74,
+    "consistency": 71.4,
+    "best_months": [
+      12,
+      8,
+      10
+    ],
+    "worst_months": [
+      1,
+      7
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.125,
+      "8": 0.375,
+      "9": 0.25,
+      "10": 0.375,
+      "11": 0.25,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Ligue 2",
+    "filters": [
+      "h_form_mid",
+      "a_xg_low"
+    ],
+    "overall_roi": 5.59,
+    "consistency": 71.4,
+    "best_months": [
+      3,
+      7,
+      9
+    ],
+    "worst_months": [
+      11,
+      5
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.25,
+      "5": 0.125,
+      "6": 0.25,
+      "7": 0.375,
+      "8": 0.25,
+      "9": 0.375,
+      "10": 0.25,
+      "11": 0.125,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_xg_high",
+      "draw_rate_high"
+    ],
+    "overall_roi": 4.15,
+    "consistency": 71.4,
+    "best_months": [
+      10,
+      11,
+      3
+    ],
+    "worst_months": [
+      8,
+      1
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.125,
+      "9": 0.25,
+      "10": 0.375,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_cs_high",
+      "h_xg_high"
+    ],
+    "overall_roi": 2.2,
+    "consistency": 71.4,
+    "best_months": [
+      5,
+      11,
+      1
+    ],
+    "worst_months": [
+      2,
+      4
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.125,
+      "3": 0.25,
+      "4": 0.125,
+      "5": 0.375,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "La Liga",
+    "filters": [
+      "a_cs_high",
+      "h_xg_high"
+    ],
+    "overall_roi": 0.72,
+    "consistency": 71.4,
+    "best_months": [
+      12,
+      10,
+      9
+    ],
+    "worst_months": [
+      4,
+      7
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.125,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.125,
+      "8": 0.25,
+      "9": 0.375,
+      "10": 0.375,
+      "11": 0.25,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Scottish Prem",
+    "filters": [
+      "h_form_mid",
+      "draw_rate_high"
+    ],
+    "overall_roi": 0.67,
+    "consistency": 71.4,
+    "best_months": [
+      2,
+      3,
+      1
+    ],
+    "worst_months": [
+      9,
+      10
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.375,
+      "3": 0.375,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.125,
+      "10": 0.125,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Premier League",
+    "filters": [
+      "a_cs_high",
+      "h_xg_high"
+    ],
+    "overall_roi": 12.02,
+    "consistency": 66.7,
+    "best_months": [
+      7,
+      8,
+      10
+    ],
+    "worst_months": [
+      6,
+      2
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.125,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.125,
+      "7": 0.375,
+      "8": 0.375,
+      "9": 0.25,
+      "10": 0.375,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Eredivisie",
+    "filters": [
+      "h_xg_high",
+      "h_draw_high"
+    ],
+    "overall_roi": 9.61,
+    "consistency": 66.7,
+    "best_months": [
+      1,
+      8,
+      10
+    ],
+    "worst_months": [
+      12,
+      2
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.125,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.375,
+      "9": 0.25,
+      "10": 0.375,
+      "11": 0.25,
+      "12": 0.125
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie A",
+    "filters": [
+      "a_away_low",
+      "a_xg_low"
+    ],
+    "overall_roi": 6.47,
+    "consistency": 66.7,
+    "best_months": [
+      5,
+      2,
+      12
+    ],
+    "worst_months": [
+      3,
+      8
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.375,
+      "3": 0.125,
+      "4": 0.25,
+      "5": 0.375,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.125,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Premier League",
+    "filters": [
+      "a_xg_low",
+      "a_draw_high"
+    ],
+    "overall_roi": 4.82,
+    "consistency": 66.7,
+    "best_months": [
+      7,
+      8,
+      11
+    ],
+    "worst_months": [
+      2,
+      3
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.125,
+      "3": 0.125,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.375,
+      "8": 0.375,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "La Liga",
+    "filters": [
+      "h_xg_high",
+      "h_draw_high"
+    ],
+    "overall_roi": 3.88,
+    "consistency": 66.7,
+    "best_months": [
+      6,
+      12,
+      1
+    ],
+    "worst_months": [
+      11,
+      3
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.25,
+      "3": 0.125,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.375,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.125,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Premier League",
+    "filters": [
+      "h_xg_high",
+      "a_draw_high"
+    ],
+    "overall_roi": 3.78,
+    "consistency": 66.7,
+    "best_months": [
+      4,
+      1,
+      5
+    ],
+    "worst_months": [
+      3,
+      6
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.25,
+      "3": 0.125,
+      "4": 0.375,
+      "5": 0.375,
+      "6": 0.125,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Ligue 2",
+    "filters": [
+      "a_away_low",
+      "h_xg_low"
+    ],
+    "overall_roi": 3.64,
+    "consistency": 66.7,
+    "best_months": [
+      3,
+      7,
+      2
+    ],
+    "worst_months": [
+      10,
+      5
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.375,
+      "3": 0.375,
+      "4": 0.25,
+      "5": 0.125,
+      "6": 0.25,
+      "7": 0.375,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.125,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Premier League",
+    "filters": [
+      "h_xg_high",
+      "h_draw_high"
+    ],
+    "overall_roi": 3.04,
+    "consistency": 66.7,
+    "best_months": [
+      7,
+      1,
+      4
+    ],
+    "worst_months": [
+      2,
+      3
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.125,
+      "3": 0.125,
+      "4": 0.375,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.375,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "S\u00fcper Lig",
+    "filters": [
+      "a_form_high",
+      "h_xg_high"
+    ],
+    "overall_roi": 0.58,
+    "consistency": 66.7,
+    "best_months": [
+      3,
+      11,
+      2
+    ],
+    "worst_months": [
+      7,
+      6
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.375,
+      "3": 0.375,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.125,
+      "7": 0.125,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie A",
+    "filters": [
+      "a_form_low",
+      "h_draw_high"
+    ],
+    "overall_roi": 15.56,
+    "consistency": 62.5,
+    "best_months": [
+      2,
+      4,
+      10
+    ],
+    "worst_months": [
+      12,
+      9
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.375,
+      "3": 0.25,
+      "4": 0.375,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.125,
+      "10": 0.375,
+      "11": 0.25,
+      "12": 0.125
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Eredivisie",
+    "filters": [
+      "h_form_mid",
+      "draw_rate_high"
+    ],
+    "overall_roi": 13.02,
+    "consistency": 62.5,
+    "best_months": [
+      1,
+      8,
+      9
+    ],
+    "worst_months": [
+      2,
+      5
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.125,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.125,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.375,
+      "9": 0.375,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "a_form_high",
+      "h_cs_high"
+    ],
+    "overall_roi": 12.78,
+    "consistency": 62.5,
+    "best_months": [
+      10,
+      4,
+      3
+    ],
+    "worst_months": [
+      7,
+      6
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.375,
+      "5": 0.25,
+      "6": 0.125,
+      "7": 0.125,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.375,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_cs_high",
+      "a_cs_high"
+    ],
+    "overall_roi": 11.83,
+    "consistency": 62.5,
+    "best_months": [
+      3,
+      2,
+      10
+    ],
+    "worst_months": [
+      7,
+      6
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.375,
+      "3": 0.375,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.125,
+      "7": 0.125,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.375,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Eredivisie",
+    "filters": [
+      "h_form_mid",
+      "a_cs_high"
+    ],
+    "overall_roi": 10.54,
+    "consistency": 62.5,
+    "best_months": [
+      11,
+      12,
+      1
+    ],
+    "worst_months": [
+      8,
+      2
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.125,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.125,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Ligue 1",
+    "filters": [
+      "h_form_high",
+      "a_form_high"
+    ],
+    "overall_roi": 10.3,
+    "consistency": 62.5,
+    "best_months": [
+      4,
+      3,
+      8
+    ],
+    "worst_months": [
+      10,
+      11
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.375,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.375,
+      "9": 0.25,
+      "10": 0.125,
+      "11": 0.125,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "a_cs_high",
+      "a_draw_high"
+    ],
+    "overall_roi": 9.75,
+    "consistency": 62.5,
+    "best_months": [
+      3,
+      10,
+      11
+    ],
+    "worst_months": [
+      1,
+      8
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.125,
+      "9": 0.25,
+      "10": 0.375,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Eredivisie",
+    "filters": [
+      "h_cs_high",
+      "corners_low"
+    ],
+    "overall_roi": 7.08,
+    "consistency": 62.5,
+    "best_months": [
+      11,
+      3,
+      8
+    ],
+    "worst_months": [
+      9,
+      4
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.125,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.375,
+      "9": 0.125,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie A",
+    "filters": [
+      "a_away_low",
+      "corners_low"
+    ],
+    "overall_roi": 6.78,
+    "consistency": 62.5,
+    "best_months": [
+      5,
+      2,
+      11
+    ],
+    "worst_months": [
+      7,
+      6
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.375,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.375,
+      "6": 0.125,
+      "7": 0.125,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Eredivisie",
+    "filters": [
+      "a_form_high",
+      "h_draw_high"
+    ],
+    "overall_roi": 6.34,
+    "consistency": 62.5,
+    "best_months": [
+      11,
+      1,
+      12
+    ],
+    "worst_months": [
+      5,
+      2
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.125,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.125,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Eredivisie",
+    "filters": [
+      "a_cs_high",
+      "corners_low"
+    ],
+    "overall_roi": 6.22,
+    "consistency": 62.5,
+    "best_months": [
+      11,
+      12,
+      10
+    ],
+    "worst_months": [
+      4,
+      8
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.125,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.125,
+      "9": 0.25,
+      "10": 0.375,
+      "11": 0.375,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "a_form_high",
+      "a_cs_high"
+    ],
+    "overall_roi": 5.88,
+    "consistency": 62.5,
+    "best_months": [
+      8,
+      10,
+      4
+    ],
+    "worst_months": [
+      6,
+      5
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.375,
+      "5": 0.125,
+      "6": 0.125,
+      "7": 0.25,
+      "8": 0.375,
+      "9": 0.25,
+      "10": 0.375,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Premier League",
+    "filters": [
+      "a_form_low",
+      "a_draw_high"
+    ],
+    "overall_roi": 5.76,
+    "consistency": 62.5,
+    "best_months": [
+      8,
+      4,
+      1
+    ],
+    "worst_months": [
+      5,
+      3
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.25,
+      "3": 0.125,
+      "4": 0.375,
+      "5": 0.125,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.375,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_xg_low",
+      "goals_low"
+    ],
+    "overall_roi": 5.52,
+    "consistency": 62.5,
+    "best_months": [
+      6,
+      7,
+      3
+    ],
+    "worst_months": [
+      5,
+      1
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.25,
+      "5": 0.125,
+      "6": 0.375,
+      "7": 0.375,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_cs_high",
+      "corners_low"
+    ],
+    "overall_roi": 5.06,
+    "consistency": 62.5,
+    "best_months": [
+      10,
+      4,
+      3
+    ],
+    "worst_months": [
+      7,
+      6
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.375,
+      "5": 0.25,
+      "6": 0.125,
+      "7": 0.125,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.375,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie A",
+    "filters": [
+      "a_away_low",
+      "goals_low"
+    ],
+    "overall_roi": 4.79,
+    "consistency": 62.5,
+    "best_months": [
+      5,
+      11,
+      8
+    ],
+    "worst_months": [
+      7,
+      6
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.375,
+      "6": 0.125,
+      "7": 0.125,
+      "8": 0.375,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Eredivisie",
+    "filters": [
+      "h_form_mid",
+      "h_draw_high"
+    ],
+    "overall_roi": 4.72,
+    "consistency": 62.5,
+    "best_months": [
+      8,
+      1,
+      12
+    ],
+    "worst_months": [
+      9,
+      2
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.125,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.375,
+      "9": 0.125,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie A",
+    "filters": [
+      "a_away_low",
+      "h_cs_high"
+    ],
+    "overall_roi": 4.65,
+    "consistency": 62.5,
+    "best_months": [
+      5,
+      10,
+      11
+    ],
+    "worst_months": [
+      1,
+      8
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.375,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.125,
+      "9": 0.25,
+      "10": 0.375,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Ligue 2",
+    "filters": [
+      "a_away_low",
+      "a_cs_high"
+    ],
+    "overall_roi": 4.49,
+    "consistency": 62.5,
+    "best_months": [
+      7,
+      2,
+      4
+    ],
+    "worst_months": [
+      8,
+      5
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.375,
+      "3": 0.25,
+      "4": 0.375,
+      "5": 0.125,
+      "6": 0.25,
+      "7": 0.375,
+      "8": 0.125,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "La Liga",
+    "filters": [
+      "a_form_high",
+      "a_draw_high"
+    ],
+    "overall_roi": 4.23,
+    "consistency": 62.5,
+    "best_months": [
+      12,
+      1,
+      2
+    ],
+    "worst_months": [
+      7,
+      4
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.375,
+      "3": 0.25,
+      "4": 0.125,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.125,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "a_away_low",
+      "h_draw_high"
+    ],
+    "overall_roi": 4.15,
+    "consistency": 62.5,
+    "best_months": [
+      3,
+      9,
+      4
+    ],
+    "worst_months": [
+      6,
+      1
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.375,
+      "5": 0.25,
+      "6": 0.125,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.375,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "a_form_low",
+      "h_draw_high"
+    ],
+    "overall_roi": 3.82,
+    "consistency": 62.5,
+    "best_months": [
+      2,
+      9,
+      11
+    ],
+    "worst_months": [
+      6,
+      1
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.375,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.125,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.375,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Ligue 1",
+    "filters": [
+      "a_form_high",
+      "corners_low"
+    ],
+    "overall_roi": 3.3,
+    "consistency": 62.5,
+    "best_months": [
+      9,
+      2,
+      4
+    ],
+    "worst_months": [
+      3,
+      10
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.375,
+      "3": 0.125,
+      "4": 0.375,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.375,
+      "10": 0.125,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_form_mid",
+      "h_cs_high"
+    ],
+    "overall_roi": 3.24,
+    "consistency": 62.5,
+    "best_months": [
+      8,
+      3,
+      4
+    ],
+    "worst_months": [
+      7,
+      6
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.375,
+      "5": 0.25,
+      "6": 0.125,
+      "7": 0.125,
+      "8": 0.375,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_form_mid",
+      "a_form_high"
+    ],
+    "overall_roi": 3.1,
+    "consistency": 62.5,
+    "best_months": [
+      8,
+      4,
+      6
+    ],
+    "worst_months": [
+      12,
+      1
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.375,
+      "5": 0.25,
+      "6": 0.375,
+      "7": 0.25,
+      "8": 0.375,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.125
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "La Liga",
+    "filters": [
+      "a_form_high",
+      "h_cs_high"
+    ],
+    "overall_roi": 2.42,
+    "consistency": 62.5,
+    "best_months": [
+      6,
+      12,
+      8
+    ],
+    "worst_months": [
+      2,
+      4
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.125,
+      "3": 0.25,
+      "4": 0.125,
+      "5": 0.25,
+      "6": 0.375,
+      "7": 0.25,
+      "8": 0.375,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Belgian Pro",
+    "filters": [
+      "a_form_high",
+      "corners_low"
+    ],
+    "overall_roi": 2.29,
+    "consistency": 62.5,
+    "best_months": [
+      7,
+      9,
+      2
+    ],
+    "worst_months": [
+      4,
+      5
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.125,
+      "3": 0.125,
+      "4": 0.125,
+      "5": 0.125,
+      "6": 0.125,
+      "7": 0.125,
+      "8": 0.125,
+      "9": 0.125,
+      "10": 0.125,
+      "11": 0.125,
+      "12": 0.125
+    },
+    "paused": false,
+    "monitor": true,
+    "priority": false
+  },
+  {
+    "league": "Eredivisie",
+    "filters": [
+      "corners_low",
+      "h_draw_high"
+    ],
+    "overall_roi": 2.21,
+    "consistency": 62.5,
+    "best_months": [
+      11,
+      10,
+      12
+    ],
+    "worst_months": [
+      3,
+      4
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.125,
+      "4": 0.125,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.375,
+      "11": 0.375,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Belgian Pro",
+    "filters": [
+      "h_form_mid",
+      "a_form_high"
+    ],
+    "overall_roi": 2.05,
+    "consistency": 62.5,
+    "best_months": [
+      11,
+      9,
+      2
+    ],
+    "worst_months": [
+      4,
+      10
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.125,
+      "3": 0.125,
+      "4": 0.125,
+      "5": 0.125,
+      "6": 0.125,
+      "7": 0.125,
+      "8": 0.125,
+      "9": 0.125,
+      "10": 0.125,
+      "11": 0.125,
+      "12": 0.125
+    },
+    "paused": false,
+    "monitor": true,
+    "priority": false
+  },
+  {
+    "league": "Ligue 2",
+    "filters": [
+      "h_form_mid",
+      "a_form_high"
+    ],
+    "overall_roi": 1.98,
+    "consistency": 62.5,
+    "best_months": [
+      12,
+      1,
+      10
+    ],
+    "worst_months": [
+      9,
+      2
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.125,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.125,
+      "10": 0.375,
+      "11": 0.25,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Ligue 1",
+    "filters": [
+      "a_form_high",
+      "a_draw_high"
+    ],
+    "overall_roi": 1.97,
+    "consistency": 62.5,
+    "best_months": [
+      8,
+      9,
+      1
+    ],
+    "worst_months": [
+      11,
+      10
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.375,
+      "9": 0.375,
+      "10": 0.125,
+      "11": 0.125,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Eredivisie",
+    "filters": [
+      "draw_rate_high",
+      "h_draw_high"
+    ],
+    "overall_roi": 1.84,
+    "consistency": 62.5,
+    "best_months": [
+      1,
+      11,
+      9
+    ],
+    "worst_months": [
+      4,
+      5
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.125,
+      "5": 0.125,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.375,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Eredivisie",
+    "filters": [
+      "h_form_mid",
+      "corners_low"
+    ],
+    "overall_roi": 1.81,
+    "consistency": 62.5,
+    "best_months": [
+      12,
+      1,
+      11
+    ],
+    "worst_months": [
+      9,
+      3
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.25,
+      "3": 0.125,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.125,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_form_low",
+      "draw_rate_high"
+    ],
+    "overall_roi": 1.73,
+    "consistency": 62.5,
+    "best_months": [
+      10,
+      12,
+      8
+    ],
+    "worst_months": [
+      11,
+      5
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.125,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.375,
+      "9": 0.25,
+      "10": 0.375,
+      "11": 0.125,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "corners_low",
+      "h_draw_high"
+    ],
+    "overall_roi": 1.55,
+    "consistency": 62.5,
+    "best_months": [
+      4,
+      8,
+      10
+    ],
+    "worst_months": [
+      6,
+      1
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.375,
+      "5": 0.25,
+      "6": 0.125,
+      "7": 0.25,
+      "8": 0.375,
+      "9": 0.25,
+      "10": 0.375,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "a_form_low",
+      "a_away_low"
+    ],
+    "overall_roi": 1.52,
+    "consistency": 62.5,
+    "best_months": [
+      2,
+      7,
+      3
+    ],
+    "worst_months": [
+      11,
+      5
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.375,
+      "3": 0.375,
+      "4": 0.25,
+      "5": 0.125,
+      "6": 0.25,
+      "7": 0.375,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.125,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Ligue 2",
+    "filters": [
+      "h_home_low",
+      "corners_low"
+    ],
+    "overall_roi": 1.41,
+    "consistency": 62.5,
+    "best_months": [
+      4,
+      2,
+      9
+    ],
+    "worst_months": [
+      8,
+      11
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.375,
+      "3": 0.25,
+      "4": 0.375,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.125,
+      "9": 0.375,
+      "10": 0.25,
+      "11": 0.125,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Ligue 1",
+    "filters": [
+      "a_form_high",
+      "h_draw_high"
+    ],
+    "overall_roi": 1.4,
+    "consistency": 62.5,
+    "best_months": [
+      2,
+      9,
+      5
+    ],
+    "worst_months": [
+      10,
+      8
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.375,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.375,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.125,
+      "9": 0.375,
+      "10": 0.125,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Ligue 1",
+    "filters": [
+      "a_form_high",
+      "goals_low"
+    ],
+    "overall_roi": 1.29,
+    "consistency": 62.5,
+    "best_months": [
+      9,
+      12,
+      4
+    ],
+    "worst_months": [
+      11,
+      10
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.375,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.375,
+      "10": 0.125,
+      "11": 0.125,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "La Liga",
+    "filters": [
+      "a_form_high",
+      "a_cs_high"
+    ],
+    "overall_roi": 1.29,
+    "consistency": 62.5,
+    "best_months": [
+      6,
+      8,
+      12
+    ],
+    "worst_months": [
+      7,
+      11
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.375,
+      "7": 0.125,
+      "8": 0.375,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.125,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_cs_high",
+      "a_draw_high"
+    ],
+    "overall_roi": 1.26,
+    "consistency": 62.5,
+    "best_months": [
+      3,
+      11,
+      4
+    ],
+    "worst_months": [
+      6,
+      8
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.375,
+      "5": 0.25,
+      "6": 0.125,
+      "7": 0.25,
+      "8": 0.125,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "a_form_mid",
+      "a_draw_high"
+    ],
+    "overall_roi": 1.25,
+    "consistency": 62.5,
+    "best_months": [
+      3,
+      11,
+      6
+    ],
+    "worst_months": [
+      9,
+      8
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.375,
+      "7": 0.25,
+      "8": 0.125,
+      "9": 0.125,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "La Liga",
+    "filters": [
+      "h_form_low",
+      "a_away_low"
+    ],
+    "overall_roi": 0.97,
+    "consistency": 62.5,
+    "best_months": [
+      10,
+      8,
+      11
+    ],
+    "worst_months": [
+      5,
+      7
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.125,
+      "6": 0.25,
+      "7": 0.125,
+      "8": 0.375,
+      "9": 0.25,
+      "10": 0.375,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Ligue 2",
+    "filters": [
+      "a_away_low",
+      "a_draw_high"
+    ],
+    "overall_roi": 0.81,
+    "consistency": 62.5,
+    "best_months": [
+      3,
+      2,
+      9
+    ],
+    "worst_months": [
+      5,
+      1
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.375,
+      "3": 0.375,
+      "4": 0.25,
+      "5": 0.125,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.375,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie A",
+    "filters": [
+      "a_form_mid",
+      "h_xg_low"
+    ],
+    "overall_roi": 0.8,
+    "consistency": 62.5,
+    "best_months": [
+      8,
+      11,
+      3
+    ],
+    "worst_months": [
+      9,
+      5
+    ],
+    "stake_by_month": {
+      "1": 0.25,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.25,
+      "5": 0.125,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.375,
+      "9": 0.125,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "2. Bundesliga",
+    "filters": [
+      "h_cs_high",
+      "draw_rate_high"
+    ],
+    "overall_roi": 0.64,
+    "consistency": 62.5,
+    "best_months": [
+      10,
+      3,
+      11
+    ],
+    "worst_months": [
+      12,
+      1
+    ],
+    "stake_by_month": {
+      "1": 0.125,
+      "2": 0.25,
+      "3": 0.375,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.25,
+      "9": 0.25,
+      "10": 0.375,
+      "11": 0.375,
+      "12": 0.125
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "La Liga",
+    "filters": [
+      "a_away_low",
+      "draw_rate_high"
+    ],
+    "overall_roi": 0.58,
+    "consistency": 62.5,
+    "best_months": [
+      11,
+      1,
+      9
+    ],
+    "worst_months": [
+      3,
+      7
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.25,
+      "3": 0.125,
+      "4": 0.25,
+      "5": 0.25,
+      "6": 0.25,
+      "7": 0.125,
+      "8": 0.25,
+      "9": 0.375,
+      "10": 0.25,
+      "11": 0.375,
+      "12": 0.25
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  },
+  {
+    "league": "Serie A",
+    "filters": [
+      "a_form_mid",
+      "a_cs_high"
+    ],
+    "overall_roi": 0.46,
+    "consistency": 62.5,
+    "best_months": [
+      2,
+      12,
+      1
+    ],
+    "worst_months": [
+      5,
+      8
+    ],
+    "stake_by_month": {
+      "1": 0.375,
+      "2": 0.375,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.125,
+      "6": 0.25,
+      "7": 0.25,
+      "8": 0.125,
+      "9": 0.25,
+      "10": 0.25,
+      "11": 0.25,
+      "12": 0.375
+    },
+    "paused": false,
+    "monitor": false,
+    "priority": false
+  }
+]
